@@ -1,0 +1,35 @@
+// Sets Global Styles for Containers 
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: rubik;
+    }
+
+// Default Container
+    .container {
+        margin: 10px;
+    }
+
+// Global Fonts
+    h1 {
+        font-size: 48px;
+        font-weight: 400;
+    }
+
+    h2 {
+        font-weight: 400;
+    }
+
+// Buildling Rules
+    .center {
+        margin: 0 auto;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+
+// TEMPORARY IMG SIZING
+img {
+    max-width: 400px;
+}
