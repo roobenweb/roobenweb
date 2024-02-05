@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brea, California Website Design"
+title:  "Fullerton, California Website Design"
 permalink: /fullerton-california-website-design/
 date:   2024-02-04
 categories: jekyll update
@@ -8,7 +8,8 @@ categories: jekyll update
 
 Hello, my name is Ruben Gutierrez and I am a website desiner in the Brea, California area.
 
-Are you looking for someone to help you with your website, well look no further!
+Are you looking for someone to help you with your website, look no further!
+
 
 ## Some of the Web Services I Offer in the Brea, California Area
 

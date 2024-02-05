@@ -1,0 +1,53 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.recent-posts {
+    max-width: 700px;
+    margin: 0 auto;
+    height: 400px;
+
+    a {
+        font-size: 20px;
+        margin: 20px 0;
+        display: inline-block;
+    }
+}
+
+.post-header {
+    max-width: 700px;
+    margin: 0 auto 50px auto;
+}
+
+.post-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.home-button {
+    position: absolute;
+}
+
+.img-responsive {
+    max-width: 700px;
+}
+
+button {
+    display: inline-block;
+    width: 120px;
+    margin: 10px;
+    background-color: #D9D9D9;
+}
