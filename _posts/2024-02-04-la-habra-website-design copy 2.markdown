@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brea, California Website Design"
-permalink: /fullerton-california-website-design
+permalink: /fullerton-california-website-design/
 date:   2024-02-04
 categories: jekyll update
 ---

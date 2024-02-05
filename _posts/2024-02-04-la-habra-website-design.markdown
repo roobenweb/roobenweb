@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Habra, California Website Design"
-permalink: /la-habra-california-website-design
+permalink: /la-habra-california-website-design/
 date:   2024-02-04 
 categories: jekyll update
 ---
