@@ -2,7 +2,7 @@
 layout: post
 title:  "Brea, California Website Design"
 permalink: /fullerton-california-website-design
-date:   2024-02-04 23:28:23 -0800
+date:   2024-02-04
 categories: jekyll update
 ---
 
