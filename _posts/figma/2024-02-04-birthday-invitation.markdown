@@ -7,7 +7,7 @@ categories: figma
 ---
 
 
-<a class="button" target=”_blank” href="https://www.figma.com/community/file/1336458576131941150/grandparent-birthday-ceremony-invitation-card-figma" target=”_blank”>Click Here Dulpicate</a>
+<a class="button" href="https://www.figma.com/community/file/1336458576131941150/grandparent-birthday-ceremony-invitation-card-figma" target=”_blank”>Click Here Dulpicate</a>
 
 ![image-title-here](\assets\img\grandparent-birthday-invitation-card.png){:class="img-responsive"}
 
