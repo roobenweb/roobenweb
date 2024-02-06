@@ -3,7 +3,7 @@ layout: post
 title:  "Fullerton, California Website Design"
 permalink: /fullerton-california-website-design/
 date:   2024-02-04
-categories: jekyll update
+categories: 
 ---
 
 Hello, my name is Ruben Gutierrez and I am a website desiner in the Brea, California area.
