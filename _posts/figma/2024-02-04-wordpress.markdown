@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WordPress Pricing Table - Duplicate Figma"
-permalink: /photography-website-design-figma/
+permalink: /wordpress-pricing-table-figma-template/
 date:   2024-02-04
 categories: figma
 ---
