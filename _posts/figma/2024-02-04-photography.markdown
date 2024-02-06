@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Photography Website Design - Duplicate Figma"
+title:  "Photography Website Design - Figma Template"
 permalink: /photography-website-design-figma/
 date:   2024-02-04
 categories: figma

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "WordPress Pricing Table - Duplicate Figma"
+title:  "WordPress Pricing Table - Figma Template"
 permalink: /wordpress-pricing-table-figma-template/
 date:   2024-02-04
 categories: figma
 ---
 
 
-<a class="button" href="https://www.figma.com/community/file/1334398057374604365/photographer-website-design">Click Here Dulpicate</a>
+<a class="button" href="https://www.figma.com/community/file/1292240575217001327/wordpress-website-pricing-table">Click Here Dulpicate</a>
 
 ![image-title-here](\assets\img\wordpress-website-pricing-table-figma-template.png){:class="img-responsive"}
 
