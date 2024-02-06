@@ -7,6 +7,6 @@ categories: figma
 ---
 
 
-<a class="button" href="https://www.figma.com/community/file/1296574604709171974/site-builder-landing-page">Click Here Dulpicate</a>
+<a class="button" target=”_blank” href="https://www.roobenweb.com/web-design-agency-design-figma-template/">Click Here Dulpicate</a>
 
 ![image-title-here](\assets\img\website-deisgn-agency-landing-page.jpg){:class="img-responsive"}
