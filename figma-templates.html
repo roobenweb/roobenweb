@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /figma-templates/
+---
+
+<h1 class="figma-template-title">Figma Template</h1>
+
+<div class="figma-templates">
+    <ul>
+        {% for post in site.posts %} 
+            {% if post.categories contains "figma" %}
+            <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

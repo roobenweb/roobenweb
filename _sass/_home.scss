@@ -1,0 +1,50 @@
+.home-hero {
+    max-width: 1200px;
+    margin: 120px auto;
+    display: flex;
+
+    .about {
+        width: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: 500;
+
+        button {
+            width: 190px;
+            height: 70px;
+            background: #fff;
+            border: 3px solid black;
+            font-size: 20px;
+            font-weight: 500;
+        }
+    }
+}
+
+.home-title {
+    display: flex;
+    width: 700px;
+
+    img {
+        height: 200px;
+        width: 200px;
+    }
+
+    .title-info {
+        h1 {
+
+            .top {
+                font-size: 16px;
+            }
+    
+            .mid {
+                font-size: 24px;
+            }
+        }
+    }
+}
+
+.recent-post {
+    max-width: 300px;
+    margin: 0 auto;
+}

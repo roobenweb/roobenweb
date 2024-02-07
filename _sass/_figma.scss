@@ -1,0 +1,23 @@
+.figma-template-title {
+    font-size: 64px;
+}
+
+.figma-templates {
+    width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    margin-top: 100px;
+
+    ul {
+        list-style-type: none;
+
+        a {
+            display: inline-block;
+            text-decoration: none;
+            font-size: 1.5em;
+            max-width: 390px;
+            font-weight: 500;
+            height: 100px;
+        }
+    }
+}

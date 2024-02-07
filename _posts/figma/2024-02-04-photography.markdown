@@ -2,7 +2,7 @@
 layout: post
 title:  "Photography Website Design - Figma Template"
 permalink: /photography-website-design-figma/
-date:   2024-02-04
+date:   2024-02-06
 categories: figma
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "WordPress Pricing Table - Figma Template"
 permalink: /wordpress-pricing-table-figma-template/
-date:   2024-02-04
+date:   2024-02-06
 categories: figma
 ---
 
