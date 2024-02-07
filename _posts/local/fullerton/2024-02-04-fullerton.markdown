@@ -6,12 +6,12 @@ date:   2024-02-04
 categories: 
 ---
 
-Hello, my name is Ruben Gutierrez and I am a website desiner in the Brea, California area.
+Hello, my name is Ruben Gutierrez and I'm a website desiner in the Fullerton, California area.
 
-Are you looking for someone to help you with your website, look no further!
+Do you need help with your website? 
 
 
-## Some of the Web Services I Offer in the Brea, California Area
+## Web Services I provide in the Fullerton, California Area
 
 ### Website Redesign
 Does your website not look the way you want it to? Don't worry I can help you.

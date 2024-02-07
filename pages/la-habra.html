@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: /la-habra-california/
+---
+
+<h1>La Habra</h1>
+
+{% for post in site.posts %} 
+    {% if post.categories contains "La-Habra" %}
+        <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
+    {% endif %}
+{% endfor %}
+
+

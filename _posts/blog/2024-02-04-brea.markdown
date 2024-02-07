@@ -3,8 +3,7 @@ layout: post
 title:  "Getting More Busy"
 permalink: /getting-more-busy/
 date:   2024-02-06
-categories: 
+categories: blog post
 ---
 
-## What My Goals Are
-R
+Today I worked for a while.  I decided 

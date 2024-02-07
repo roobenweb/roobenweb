@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Job Agency Application - Figma Template"
+title:  "Job Agency Application Figma Template"
 permalink: /job-agency-application-figma-template/
 date:   2024-02-06
-categories: figma
+categories: figma post
+img: \assets\img\chamba-employment-application-website-design.jpg
 ---
 
 

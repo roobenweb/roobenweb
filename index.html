@@ -26,10 +26,14 @@ layout: default
 
 
 <div class="recent-post">
-    {% for post in site.posts %}
-    <a href="{{post.url}}">{{ post.title }}</a> <br>
-{% endfor %}
+    {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+    {% for post in site.posts %} 
+    {% if post.categories contains "post" %}
+    <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
+    
+    {% endif %}
+    {% endfor %}
 </div>
 
-<a class="home-button" href="/">Home</a> <br>
-<a class="home-button" href="/figma-templates">Figma Templates</a>
+<a class="home-button" href="/figma-templates">Figma Templates</a> <br>
+<a class="home-button" href="/la-habra-california/">La Habra Website Services</a>
