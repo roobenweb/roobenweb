@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job Agency Application Figma Template"
-permalink: /figma-templates/job-agency-application-figma-template/
+permalink: /figma-templates/job-agency-application/
 date:   2024-02-06
 categories: figma post
 img: \assets\img\chamba-employment-application-website-design.jpg

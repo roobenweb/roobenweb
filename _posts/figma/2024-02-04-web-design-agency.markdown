@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Web Design Agency - Figma Template"
-permalink: /figma-templates/figma-templates/web-design-agency-design-figma-template/
+permalink: /figma-templates/figma-templates/web-agency-design/
 date:   2024-02-06
 categories: figma post
 img: \assets\img\website-deisgn-agency-landing-page.jpg

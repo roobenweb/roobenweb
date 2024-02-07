@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Birthday Invitation - Figma Tempalte"
-permalink: /figma-templates/birthday-invitation-design-figma-template/
+permalink: /figma-templates/birthday-invitation-design/
 date:   2024-02-06
 categories: figma post
 img: \assets\img\grandparent-birthday-invitation-card.png
