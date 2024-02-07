@@ -7,31 +7,36 @@
     margin: 0 auto;
     border: 1px solid #000;
     margin-top: 100px;
+    height: 500px;
 
     ul {
         list-style-type: none;
         display: flex;
+        flex-wrap: nowrap;
         
-        img {
-            max-width: 390px;
-            height: auto;;
-        }
-        a {
-            display: inline-block;
-            text-decoration: none;
-            font-size: 1.25em;
-            max-width: 390px;
-            font-weight: 500;
-            height: 100px;
-            color: #000;
-
-            &:active {
-                color: #000;
-
+        .block {
+            img {
+                max-width: 300px;
+                height: auto;
             }
-
-            &:hover {
-                color: #252525;
+    
+            a {
+                display: inline-block;
+                text-decoration: none;
+                font-size: 1.25em;
+                max-width: 300px;
+                font-weight: 500;
+                height: auto;
+                color: #000;
+    
+                &:active {
+                    color: #000;
+    
+                }
+    
+                &:hover {
+                    color: #252525;
+                }
             }
         }
     }

@@ -25,15 +25,26 @@ layout: default
 </div>
 
 
-<div class="recent-post">
-    {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
-    {% for post in site.posts %} 
-    {% if post.categories contains "post" %}
-    <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
+<div class="about">
+    <div class="figma">
+        <h2>Figma Templates</h2>
+        {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+        {% for post in site.posts %} 
+        {% if post.categories contains "figma" %}
+        <a href="{{post.url}}">{{ post.title }} </a>
+        {% endif %}
+        {% endfor %}
+    </div>
     
-    {% endif %}
-    {% endfor %}
+    <div class="blog">
+        <h2>Recent Blog Posts</h2>
+        {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+        {% for post in site.posts %} 
+        {% if post.categories contains "blog" %}
+        <a href="{{post.url}}">{{ post.title }} </a>
+        {% endif %}
+        {% endfor %}
+    </div>
 </div>
 
-<a class="home-button" href="/figma-templates">Figma Templates</a> <br>
-<a class="home-button" href="/la-habra-california/">La Habra Website Services</a>
+<a class="home-button" href="/figma-templates">Figma Templates</a>

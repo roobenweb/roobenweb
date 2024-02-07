@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Getting More Busy"
-permalink: /getting-more-busy/
-date:   2024-02-06
-categories: blog post
----
-
-Today I worked for a while.  I decided 

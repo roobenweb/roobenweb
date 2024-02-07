@@ -44,7 +44,34 @@
     }
 }
 
-.recent-post {
-    max-width: 300px;
+.about {
+    width: 1000px;
+    display: flex;
     margin: 0 auto;
+
+    a {
+        text-decoration: none;
+        display: inline-block;
+        color: #000;
+        margin-bottom: 5px;
+
+        &:active {
+            color: #000;
+        }
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .figma {
+        width: 50%;
+        padding-right: 30px;
+    }
+
+    .blog {
+        width: 50%;
+        margin: 0 10px;
+
+    }
 }
