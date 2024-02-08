@@ -28,6 +28,7 @@ layout: default
 <div class="about">
     <div class="figma">
         <h2>Figma Templates</h2>
+        <p>One way I enjoy helping others is by designing Website in Figma and publishing them to the community profile</p>
         {% for post in site.posts %} 
             {% if post.categories contains "figma" %}
                 <a href="{{post.url}}">{{ post.title }} </a><br>
@@ -37,6 +38,7 @@ layout: default
     
     <div class="blog">
         <h2>Recent Blog Posts</h2>
+        <p>Blog post include general thoughts and current projects I'm working on.</p>
         {% for post in site.posts %} 
             {% if post.categories contains "blog" %}
                 <a href="{{post.url}}">{{ post.title }} </a>

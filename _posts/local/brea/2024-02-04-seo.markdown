@@ -10,9 +10,14 @@ Search Engine Optimization is the process of making adjustments to your website 
 
 ## The Importance of Optimizing your Brea, California Website/Business
 
-Search engines are important because they're essentially how the internet works.
+The reason why optimizing your website for the internet and search engines is because that's essential how the internet works. 
 
 When you think about the first thing you do when you want to learn more about a topic is you type it into a search bar.
+
+
+Typing in a word or phrase into a search bar triggers a function.  That function combs through all the web pages that have been scanned and indexed containing those words/phrases.  After retrieving all the pages that contain those words/phrases it gives you a list of link/results that are best suited to help you learn more about that topic.
+
+If you don't have any web pages containing those keywords you won't get any traffic to your website. 
 
 For this reason it's important that your website be optimized for when these searches happen so that you can appear in them more frequently and for more keywords.
 
