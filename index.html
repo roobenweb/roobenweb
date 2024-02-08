@@ -30,7 +30,7 @@ layout: default
         <h2>Figma Templates</h2>
         {% for post in site.posts %} 
             {% if post.categories contains "figma" %}
-                <a href="{{post.url}}">{{ post.title }} </a>
+                <a href="{{post.url}}">{{ post.title }} </a><br>
             {% endif %}
         {% endfor %}
     </div>
@@ -46,3 +46,4 @@ layout: default
 </div>
 
 <a class="home-button" href="/figma-templates">Figma Templates</a>
+

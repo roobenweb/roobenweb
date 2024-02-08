@@ -12,3 +12,7 @@ img: \assets\img\nike-jordan-shoes-ecommerce-website-design.jpg
 
 ![image-title-here](\assets\img\nike-jordan-shoes-ecommerce-website-design.jpg){:class="img-responsive"}
 
+This is a design for an online shoe shop.
+
+Keywords: Nike, Michael Jordan, Jordans, Online Store, Website Design, Free Figma Template, Air Jordan
+

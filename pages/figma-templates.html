@@ -5,6 +5,11 @@ permalink: /figma-templates/
 ---
 
 <h1 class="figma-template-title">Figma Template</h1>
+<p>This is a collection of Free Figma Templates I made. Go 
+    ahead and download these to help you get inspired or 
+    to learn more.
+</p>
+
 
 <div class="figma-templates">
     <ul>
@@ -12,7 +17,9 @@ permalink: /figma-templates/
             {% if post.categories contains "figma" %}
                 <div class="block">
                     <a href="{{post.url}}">
-                        <img src="{{post.img}}" alt="">
+                        <div class="figma-image">
+                            <img src="{{post.img}}" alt="">
+                        </div>
                     </a>
                     <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
                 </div>

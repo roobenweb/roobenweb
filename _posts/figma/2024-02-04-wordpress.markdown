@@ -15,6 +15,6 @@ img: \assets\img\wordpress-website-pricing-table-figma-template.png
 
 This is a WordPress pricing  table design that I made.
 
-The reasons I made this design was to help visualize web design services for people who are interested in websites but don't know how to go about getting one set up.
+The reasons I made this design was to help visualize web design services for people who interested in websites but don't know how to go about getting one set up.
 
-
+Keywords: WordPress, Website Design, Pricing Table, $299, Affordable Websites, 

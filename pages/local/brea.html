@@ -3,10 +3,12 @@ layout: default
 permalink: /brea-california/
 ---
 
-<h1>Web Services in Brea California</h1>
+<div class="local">
+    <h1 class="local-title">Web Services in Brea California</h1>
 
 {% for post in site.posts %} 
     {% if post.categories contains "brea" %}
         <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
     {% endif %}
 {% endfor %}
+</div>

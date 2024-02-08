@@ -13,3 +13,5 @@ img: /assets\img\photography-website-design.png
 ![image-title-here](/assets\img\photography-website-design.png){:class="img-responsive"}
 
 This is a website design that I made for a photographer/photography agency.
+
+Keywords: Photography, Photographer, Camera, Lighting, Landing Page Design,

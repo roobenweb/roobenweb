@@ -12,4 +12,8 @@ img: \assets\img\grandparent-birthday-invitation-card.png
 
 ![image-title-here](\assets\img\grandparent-birthday-invitation-card.png){:class="img-responsive"}
 
-This is a birthday invitation design.  
+This is a birthday invitation card design I made.
+
+Check it out on Behance & Dribbble
+
+Keywords: Birthday Invitation Card, Ceremony Invite, Tree, Leaves, Wood Textures
