@@ -1,7 +1,13 @@
 .home-hero {
     max-width: 1200px;
-    margin: 120px auto;
-    display: flex;
+    margin: 20px 0 40px;
+    text-align: center;
+    @media (min-width: 768px) {
+        display: flex;
+        margin: 120px auto;
+    
+    }
+    
 
     .about {
         width: 400px;
@@ -22,12 +28,17 @@
 }
 
 .home-title {
-    display: flex;
-    width: 700px;
+    max-width: 700px;
+
+    @media (min-width: 768px) {
+        display: flex;
+    }
+    
 
     img {
         height: 200px;
         width: 200px;
+        text-align: center;
     }
 
     .title-info {
@@ -45,9 +56,14 @@
 }
 
 .about {
-    width: 1000px;
-    display: flex;
     margin: 0 auto;
+
+    @media (min-width: 768px) {
+        display: flex;
+        max-width: 1000px;
+
+    }
+    
 
     a {
         text-decoration: none;
@@ -64,14 +80,12 @@
         list-style-type: none;
     }
 
-    .figma {
-        width: 50%;
+    .figma, .blog {
+        width: 90%;
         padding-right: 30px;
-    }
 
-    .blog {
-        width: 50%;
-        margin: 0 10px;
-
+        @media (min-width: 768px) {
+            width: 50%;
+        }
     }
 }

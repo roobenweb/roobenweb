@@ -6,6 +6,7 @@ layout: default
 
 <div class="home-hero">
 
+    <!-- Graphic + Hero Information -->
     <div class="home-title">
         <img src="assets\img\homepage\geometry.png" alt="">
 
@@ -30,19 +31,18 @@ layout: default
     <div class="figma">
         <h2>Figma Templates</h2>
         {% for post in site.posts %} 
-        {% if post.categories contains "figma" %}
-        <a href="{{post.url}}">{{ post.title }} </a>
-        {% endif %}
+            {% if post.categories contains "figma" %}
+                <a href="{{post.url}}">{{ post.title }} </a>
+            {% endif %}
         {% endfor %}
     </div>
     
     <div class="blog">
         <h2>Recent Blog Posts</h2>
-        {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
         {% for post in site.posts %} 
-        {% if post.categories contains "blog" %}
-        <a href="{{post.url}}">{{ post.title }} </a>
-        {% endif %}
+            {% if post.categories contains "blog" %}
+                <a href="{{post.url}}">{{ post.title }} </a>
+            {% endif %}
         {% endfor %}
     </div>
 </div>

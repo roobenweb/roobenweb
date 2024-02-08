@@ -13,19 +13,6 @@ body {
     box-sizing: border-box;
 }
 
-
-
-.post-header {
-    max-width: 700px;
-    margin: 50px auto 50px auto;
-}
-
-.post-content {
-    max-width: 700px;
-    margin: 0 auto;
-}
-
-
 p {
     font-size: 18px;
     line-height: 150%;
@@ -53,4 +40,8 @@ p {
 
 .post-meta {
     font-size: 16px;
+}
+
+.border {
+    border: 1px solid black;
 }
