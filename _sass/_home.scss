@@ -10,18 +10,18 @@
     
 
     .about {
-        width: 400px;
+        max-width: 400px;
         display: flex;
         justify-content: center;
         align-items: center;
         font-weight: 500;
 
         button {
-            width: 190px;
-            height: 70px;
+            width: 150px;
+            height: 55px;
             background: #fff;
-            border: 3px solid black;
-            font-size: 20px;
+            border: 2px solid black;
+            font-size: 16px;
             font-weight: 500;
         }
     }
@@ -43,7 +43,7 @@
 
     .title-info {
         h1 {
-            font-size: 3em;
+            font-size: 1.5em;
             .top {
                 font-size: 16px;
             }
@@ -51,12 +51,22 @@
             .mid {
                 font-size: 24px;
             }
+
+            @media (min-width: 768px) {
+                font-size: 3em;
+            }
+        }
+
+        p {
+            font-size: 16px;
+            padding: 0 5%;
         }
     }
 }
 
 .about {
     margin: 0 auto;
+    padding: 2.5%;
 
     @media (min-width: 768px) {
         display: flex;
@@ -83,6 +93,14 @@
     .figma, .blog {
         width: 90%;
         padding-right: 30px;
+
+        h2 {
+            font-size: 24px;
+
+            @media (min-width: 768px) {
+                font-size: 32px;
+            }
+        }
 
         @media (min-width: 768px) {
             width: 50%;
