@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Free Web Design Resources & Building Out My Website in Public"
-permalink: /blog/getting-more-busy/
+permalink: /blog/making-free-design-resources-figma/
 date:   2024-02-07
 categories: blog post
 ---
