@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Desinging Websites & Builiding Out My Website in Public"
+title:  "Making Free Web Design Resources & Builiding Out My Website in Public"
 permalink: /getting-more-busy/
 date:   2024-02-06
 categories: blog post
