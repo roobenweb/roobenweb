@@ -12,7 +12,7 @@ Are you looking for someone to help you with your website, well look no further!
 
 ## Some of the Web Services I Offer in the Brea, California Area
 
-### Website Redesign
+Website Redesign
 Does your website not look the way you want it to? Don't worry I can help you.
 
 ## Why Having A Website for Your Brea, Business is Important

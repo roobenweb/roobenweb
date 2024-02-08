@@ -2,7 +2,7 @@
 layout: post
 title:  "Making Free Web Design Resources & Building Out My Website in Public"
 permalink: /blog/getting-more-busy/
-date:   2024-02-06
+date:   2024-02-07
 categories: blog post
 ---
 
