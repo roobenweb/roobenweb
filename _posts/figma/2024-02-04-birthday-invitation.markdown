@@ -9,7 +9,7 @@ img: \assets\img\figma\grandparent-birthday-invitation-card.png
 
 ![image-title-here](\assets\img\figma/grandparent-birthday-invitation-card.png){:class="img-responsive"}
 
-<a style="color:#002B6B;background:#D9D9D9;" class="button" href="https://www.figma.com/community/file/1336458576131941150/grandparent-birthday-ceremony-invitation-card-figma" target="_blank">Click Here Duplicate</a>
+<a style="color:#002B6B;background:#D9D9D9;" class="button" href="https://www.figma.com/community/file/1336458576131941150/grandparent-birthday-ceremony-invitation-card-figma" target="_blank">Click To Duplicate</a>
 
 This is a birthday invitation card design I made.
 

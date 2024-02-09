@@ -11,7 +11,7 @@ img: \assets\img\figma\photography-website-design.png
 ![Photography/Photographer Landing Page Website Design](/assets\img\figma\photography-website-design.png){:class="img-responsive"}
 
 <a style="color:#fff;background:#161515;"
-class="button" href="https://www.figma.com/community/file/1334398057374604365/photographer-website-design" target="_blank">Click Here Duplicate</a>
+class="button" href="https://www.figma.com/community/file/1334398057374604365/photographer-website-design" target="_blank">Click To Duplicate</a>
 
 This is a website design that I made for a photographer/photography agency.
 
