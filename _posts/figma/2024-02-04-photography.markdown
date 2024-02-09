@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: f-post
 title:  "Photography Website Design - Figma Template"
 permalink: /figma-templates/photography-website-design/
 date:   2024-02-06

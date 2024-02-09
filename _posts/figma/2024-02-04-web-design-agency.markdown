@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: f-post
 title:  "Web Design Agency - Figma Template"
 permalink: /figma-templates/figma-templates/web-agency-design/
 date:   2024-02-06

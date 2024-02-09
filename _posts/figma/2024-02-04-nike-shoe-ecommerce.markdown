@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: f-post
 title:  "Nike/Jordan Shoe Ecommerce Website"
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
 date:   2024-02-07

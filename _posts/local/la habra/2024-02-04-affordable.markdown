@@ -19,4 +19,4 @@ A lot of the times your website is the first impression customer get from your b
 La Habra, California, 90631, United States of America
 
 ### Other Areas
-Also serving people in the, Brea, Fullerton, Whittier, Anahiem, Santa Ana, Costa Mesa, Newport Beach Area.
+Also serving people in the, Brea, Fullerton, Whittier, Anaheim, Santa Ana, Costa Mesa, Newport Beach Area.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: f-post
 title:  "Job Agency Application Figma Template"
 permalink: /figma-templates/job-agency-application/
 date:   2024-02-06

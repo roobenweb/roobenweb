@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: f-post
 title:  "WordPress Pricing Table Figma Template"
 permalink: /figma-templates/wordpress-pricing-table/
 date:   2024-02-06

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: f-post
 title:  "Birthday Invitation - Figma Template"
 permalink: /figma-templates/birthday-invitation-design/
 date:   2024-02-06
@@ -17,3 +17,4 @@ This is a birthday invitation card design I made.
 Check it out on Behance & Dribbble
 
 Keywords: Birthday Invitation Card, Ceremony Invite, Tree, Leaves, Wood Textures
+
