@@ -7,10 +7,10 @@ categories: figma post
 img: \assets\img\figma\chamba-employment-application-website-design.jpg
 ---
 
-
-<a class="button" href="https://www.figma.com/community/file/1336739061648100389/job-agency-application-website-design-chamba" target="_blank">Click Here Duplicate</a>
-
 ![image-title-here](\assets\img\figma\chamba-employment-application-website-design.jpg){:class="img-responsive"}
+
+<a style="color:#fff;background:#0083E3;"
+class="button" href="https://www.figma.com/community/file/1336739061648100389/job-agency-application-website-design-chamba" target="_blank">Click Here Duplicate</a>
 
 This is a job/work agency application sign in screen. 
 

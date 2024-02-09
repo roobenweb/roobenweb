@@ -8,6 +8,6 @@ categories: La-Habra
 
 Are you looking for affordable website design services in the La Habra, California area? 
 
-I cah help.
+I can help.
 
-Website services can come off as complicated and confusings.  Sometimes you just want a simple website for your business.
+Website services can come off as complicated and confusing.  Sometimes you just want a simple website for your business.
