@@ -17,3 +17,9 @@ Check it out on Behance & Dribbble
 
 Keywords: Birthday Invitation Card, Ceremony Invite, Tree, Leaves, Wood Textures
 
+assets\img\figma\invitation-card\invitation-card.png
+
+![image-title-here](\assets\img\figma\invitation-card\invitation-card.png){:class="img-responsive"}
+
+
+![image-title-here](\assets\img\figma\invitation-card\invitation-card-wood-textures.jpg){:class="img-responsive"}
