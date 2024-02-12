@@ -26,15 +26,15 @@ article {
     padding: 0 40px;
 }
 
+
+
 .post-header {
-    max-width: 800px;
-    margin: 50px auto 50px auto;
+    max-width: 650px;
+    margin: 40px 0 40px 0;
 }
 
 .post-header {
-
     max-width: 800px;
-    margin: 50px auto 50px auto;
     .p-name {
         font-size: 32px;
         @media (min-width: 768px) {
@@ -45,7 +45,6 @@ article {
 
 .post-content {
     max-width: 800px;
-    margin: 0 auto;
 
     p {
         font-size: 1.15em;

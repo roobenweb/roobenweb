@@ -6,7 +6,7 @@
 @import 'animation';
 @import 'footer';
 @import 'lh';
-@import 'about';
+@import 'contact';
 @import 'nav';
 @import 'blog';
 
@@ -60,4 +60,10 @@ p {
 
 .mb-40 {
     margin-bottom: 100px;
+}
+
+
+.container {
+    max-width: 75em;
+    margin: 0 auto;
 }

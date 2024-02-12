@@ -1,5 +1,6 @@
 .figma-template-title {
-    font-size: 64px;
+    font-size: 48px;
+    padding: 0
 }
 
 .figma-layout {
@@ -8,19 +9,34 @@
     }
 }
 
+.figma-templates-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    h1 {
+        font-size: 48px;
+
+         
+        @media (min-width: 768px) {
+            font-size: 48px;
+        }
+    }
+
+    p {
+        font-size: 1.25em;
+    }
+}
+
 .figma-templates {
     max-width: 1200px;
     margin: 0 auto;
-    border: 1px solid #000;
     margin-top: 100px;
-    padding: 5px;
     
 
     ul {
         list-style-type: none;
         margin: 5px;
-        border: 1px solid black;
-      
+              
         @media (min-width: 768px) {
             display: flex;
             flex-wrap: wrap;
@@ -37,7 +53,7 @@
             }
             .figma-image {
                 height: 200px;
-                width: 300px;
+                max-width: 300px;
                 img {
                     max-width: 300px;
                     object-fit:cover;
