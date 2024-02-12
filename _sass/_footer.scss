@@ -29,11 +29,15 @@
 
         @media (min-width: 768px) {
             display: flex;
+            justify-content: space-between;
             padding: 40px;
+
+            
         }
 
         p {
-            max-width: 338px;;
+            max-width: 338px;
+            margin: 0 auto;
         }
 
         a {
@@ -41,16 +45,23 @@
         }
 
         .footer-about {
-            width: 50%;
-            
+            text-align: center;
+            padding: 50px 0;
+
+            @media (min-width: 768px) {
+                text-align: left;
+            }
         }
 
         .footer-menu {
-            width: 50%;
+            text-align: center;
+            padding: 50px 0;
 
-            h4 {
-                font-size: 1.5em;
+            @media (min-width: 768px) {
+                text-align: left;
             }
         }
+
+        
     }
 }
