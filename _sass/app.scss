@@ -8,6 +8,7 @@
 @import 'lh';
 @import 'about';
 @import 'nav';
+@import 'blog';
 
 
 body {
@@ -54,4 +55,9 @@ p {
 
 .border-white {
     border: 1px solid #fff;
+}
+
+
+.mb-40 {
+    margin-bottom: 100px;
 }
