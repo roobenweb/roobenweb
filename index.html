@@ -1,69 +1,72 @@
 ---
 layout: default
-
 ---
-<div class="home-hero">
+{%- include nav.html -%}
 
-    <!-- Graphic + Hero Information -->
-    <div class="home-title animated animatedFadeInUp fadeInUp">
-        <img src="assets\img\homepage\geometry.png" alt="">
 
-        <div class="title-info">
-            <h1>
-                <span class="top">Hello! I'm</span><br>
-                <span class="mid">Ruben Gutierrez A</span><br>
+<div class="home-page">
+    <div class="home-hero">
+        <div class="hero-information">
+            <h1><span>Hello, My Name Is Ruben Gutierrez</span>
                 Website Designer
             </h1>
-            <p>I’m a website designer from La Habra, California.</p>
+            <p>Hello, My name is Ruben Gutierrez & I’ve been working on websites for a few years.  </p>
         </div>
-    </div>
-
-
-
-</div>
-
-
-<div class="about">
-    <div class="figma">
-        <h2>Figma Templates</h2>
-        <p>One way I enjoy helping others is by designing Website in Figma and publishing them to the community profile</p>
-        {% for post in site.posts %} 
-            {% if post.categories contains "figma" %}
-                <a href="{{post.url}}">{{ post.title }} </a><br>
-            {% endif %}
-        {% endfor %}
+    
     </div>
     
-    <div class="blog">
-        <h2>Recent Blog Posts</h2>
-        <p>Blog post include general thoughts and current projects I'm working on.</p>
-        {% for post in site.posts %} 
-            {% if post.categories contains "blog" %}
-                <a href="{{post.url}}">{{ post.title }} </a>
-            {% endif %}
-        {% endfor %}
+    <div class="real-about mb-40">
+        <h2>About</h2>
+       <div class="about-description">
+        <p>Hello, my name is Ruben Gutierrez & I am a website designer from La Habra, California, US. I've been working on websites for a few years and I enjoy helping people solve problems using web technologies and the internet.</p>
+        <br>
+           
+        <p>When I’m not in front of the computer making websites I enjoy hanging out with my friends and taking hikes in the beautiful Southern California Hills. 
+        </p>
+       </div>
     </div>
-</div>
+    
+    <div class="real-about mb-40">
+        <h2>Contact Information</h2>
+       <div class="description">
+            <p>Email:<strong>roobensites@gmail.com</strong></p>
+            <p>Phone: <strong>(562) 475- 8959</strong></p>
 
-<div class="home-footer">
-    <div class="footer">
-        <div class="footer-about">
-            <img src="\assets\img\homepage\geometry-inverse.png" alt="">
-            <h3>Ruben Gutierrez</h3>
-            <p>Hello, my name is Ruben Gutierrez & I Am A Website Designer in the La Habra, California.</p>
-            <a href="/about">Learn More About Me</a>
-            <div class="footer-links">
-                <a href=""><img src="/assets/img/homepage/" alt=""></a>
+       </div>
+    </div>
+    
+    
+    <div class="blog-area">
+        <div class="blog mb-40">
+            <div class="blog-title">
+                <h2>Recent Blog Posts</h2>
+                <p>Blog post include general thoughts and current projects I'm working on.</p>
+            </div>
+            <div class="blog-section">
+            {% for post in site.posts %} 
+            {% if post.categories contains "blog" %}
+                <div class="blog-post">
+                    <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
+                    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                </div>
+            {% endif %}
+            {% endfor %}
+            </div>
+    
+        </div>
+    
+        <div class="figma-section">
+            <h2>Figma Templates</h2>
+            <p>Here are some web designs I've made. One way I enjoy helping others is by designing websites like these in a program called "Figma" and offering them for free so that other designers can learn from them.</p>
+            <div class="home-figma-templates">
+                {% for post in site.posts %} 
+                {% if post.categories contains "figma" %}
+                    <a href="{{post.url}}">{{ post.h-title }} </a><br>
+                {% endif %}
+                {% endfor %}
             </div>
         </div>
-
-        <div class="footer-menu">
-            <h4>Menu</h4>
-            <a href="/">Home</a>
-            <a href="/about/">About</a>
-            <a href="/local/">Local SEO</a>
-            <a href="/figma-templates/">Figma Templates</a>
-        </div>
-    </div>
+    </div>    
 </div>
 
+{%- include footer.html -%}

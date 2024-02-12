@@ -1,10 +1,11 @@
 ---
 layout: f-post
-title:  "Car Honda Importer Mobile Website Design "
+title:  "Car Honda Importer Mobile Website Design - Free Figma Template"
+h-title: Car Honda Importer Mobile Website Design
 permalink: /figma-templates/car-honda-importer-mobile-website-design/
 date:   2024-02-09
 categories: figma post
-img: \assets\img\figma\grandparent-birthday-invitation-card.png
+img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 ---
 
 ![image-title-here](\assets\img\figma\car-importer\car-import-website-mobile-design.jpg){:class="img-responsive"}
@@ -13,7 +14,13 @@ img: \assets\img\figma\grandparent-birthday-invitation-card.png
 
 A mobile website application for a car importer/importing business. 
 
-Keywords: Honda, Car Importer, Website Design, Mobile Design
+Kei Cars are the smallest category of cars that are sold in Japan.
+
+Kei cars particularly Kei trucks are becoming more and more popular in America especially among the rural population.
+
+Kei trucks are essentially just utility version of Kei cars.  They come with a flatbed and offer a lot of benefits for people living on more ample pieces of land. 
+
+**Keywords:** Honda, Car Importer, Website Design, Mobile Design
 
 
 

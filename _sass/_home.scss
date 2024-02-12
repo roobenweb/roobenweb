@@ -1,28 +1,60 @@
-.home-hero {
+.home-page {
+    padding: 0 40px;
     max-width: 1200px;
-    margin: 20px 0 40px;
-    text-align: center;
-    @media (min-width: 768px) {
-        display: flex;
-        margin: 120px auto;
-        text-align: left;
-    }
-    
+    margin: 0 auto;
 
-    .about {
-        max-width: 400px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    p {
+        font-size: 18px !important;
         font-weight: 500;
 
-        button {
-            width: 150px;
-            height: 55px;
-            background: #fff;
-            border: 2px solid black;
-            font-size: 16px;
-            font-weight: 500;
+        @media (min-width: 768px) {
+            font-size: 18px !important;
+        }
+    }
+
+    h2 {
+        font-size: 28px !important;
+
+        @media (min-width: 768px) {
+            font-size: 32px !important;
+        }
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    a {
+        font-weight: 500;
+        color: #000;
+    }
+}
+
+.home-hero {
+    margin: 0 auto;
+
+    @media (min-width: 768px) {
+        display: flex;
+    }
+
+    .hero-information {
+        max-width: 600px;
+        padding: 75px 0;
+
+        h1 {
+            font-size: 3em;
+            span {
+                font-size: 1.25rem;
+                display: block; 
+            }
+
+            @media (min-width: 768px) {
+                font-size: 3.5em !important;
+            }
+        }
+
+        p {
+            max-width: 500px;
         }
     }
 }
@@ -64,22 +96,28 @@
     }
 }
 
-.about {
+.figma-section {
+    font-size: 20px;
+    p {
+        font-size: 20px;
+    }
+    .home-figma-templates {
+        
+        
+        flex-wrap: wrap;
+       
+    }
+}
+
+.blog-area {
     margin: 0 auto 40px;
-    padding: 2.5%;
 
     @media (min-width: 768px) {
-        display: flex;
-        max-width: 1000px;
         padding: 0;
-
     }
     
-
     a {
-        text-decoration: none;
         display: inline-block;
-        color: #000;
         margin-bottom: 5px;
 
         &:active {
@@ -90,51 +128,56 @@
     ul {
         list-style-type: none;
     }
+}
+.blog {
 
-    .figma, .blog {
-        width: 100%;
-        p {
-            font-size: 14px;
-        }
-
-        h2 {
-            font-size: 24px;
-
-            @media (min-width: 768px) {
-                font-size: 32px;
-            }
-        }
-
-        a {
-            font-size: 16px;
-            font-weight: 500;
-        }
+    .blog-section {
 
         @media (min-width: 768px) {
-            width: 50%;
-            padding-right: 30px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .blog-post {
+            max-width: 450px;
+            @media (min-width: 768px) {
+                width: 50%;
+                margin-right: 10px;
+            }
 
+            a {
+                height: 80px;
+            }
+
+         
         }
     }
 }
 
-.home-footer {
-    background: #000;
-    padding: 40px 0 80px;;
-    
-    color: #fff;
+.real-about {
+    max-width: 1200px;
+    margin: 0 auto;
 
-    .footer {
-        margin-top: 30px;
-        max-width: 1000px;
-        margin: 0 auto;
+    h2 {
+        font-size: 2.25em;
+    }
+
+    .about-description {
+        margin-bottom: 50px;
+        @media (min-width: 768px) {
+            display: flex;
+        }
 
         p {
-            max-width: 338px;;
+            max-width: 550px;
+            font-size: 1.25em;
+            font-weight: 500;
+            padding-right: 20px;
         }
 
-        a {
-            color: #fff;    
-        }
     }
+}
+
+.mb-40 {
+    margin-bottom: 100px;
 }

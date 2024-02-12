@@ -2,7 +2,7 @@
 layout: post
 title:  "Brea, California Search Engine Optimization"
 permalink: /brea-california/search-engine-optimization/
-date:   2024-02-07
+date:   2024-02-10
 categories: brea
 ---
 
@@ -10,12 +10,11 @@ Search Engine Optimization is the process of making adjustments to your website 
 
 ## The Importance of Optimizing your Brea, California Website/Business
 
-The reason why optimizing your website for the internet and search engines is because that's essential how the internet works. 
+The reason why optimizing your website for the internet and search engines is essential is because that how the internet works. 
 
 When you think about the first thing you do when you want to learn more about a topic is you type it into a search bar.
 
-
-Typing in a word or phrase into a search bar triggers a function.  That function combs through all the web pages that have been scanned and indexed containing those words/phrases.  After retrieving all the pages that contain those words/phrases it gives you a list of link/results that are best suited to help you learn more about that topic.
+Typing in a word or phrase into a search bar triggers a function. As soon as you click search the search engine you've requested information from sifts through all the web pages that have been scanned and indexed containing those words/phrases.  After it's retrieved all the pages that contain those words/phrases it gives you a list of link/results that are best suited to help you learn more about that topic.
 
 If you don't have any web pages containing those keywords you won't get any traffic to your website. 
 

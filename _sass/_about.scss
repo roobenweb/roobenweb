@@ -1,0 +1,18 @@
+.about-title {
+    font-size: 3em;
+}
+
+.about-page {
+    max-width: 1000px;
+    margin: 50px auto 150px;
+    padding: 25px;
+
+    p {
+        line-height: 150%;
+        font-size: 18px;
+    }
+
+    li {
+        list-style: none;
+    }
+}

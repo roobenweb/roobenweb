@@ -1,6 +1,7 @@
 ---
 layout: f-post
 title:  "Birthday Invitation - Figma Template"
+h-title: Birthday Invitation
 permalink: /figma-templates/birthday-invitation-design/
 date:   2024-02-08
 categories: figma post
