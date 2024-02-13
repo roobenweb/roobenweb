@@ -8,10 +8,9 @@ categories: La-Habra
 
 Hello, my name is Ruben and I'm a website designer in the La Habra, California area.
 
-If you're looking for someone to help you with your website I can help.
+If you're looking for someone to help you with your website I'm your guy.
 
 ## Some of the Web Design Services I Provide in the La Habra, California Area.
-Websites services can get very complex & specific.  Below are some of the general web design services I can help you with.
 
 ## Having A Website Is Important For Your La Habra, Business, Here's Why
 A lot of the times your website is the first impression customer get from your business. make sure it looks well and provides the information they're looking for.
