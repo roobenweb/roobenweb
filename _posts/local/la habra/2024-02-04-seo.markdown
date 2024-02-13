@@ -1,5 +1,5 @@
 ---
-layout: lh
+layout: la-habra
 title:  "La Habra, California Search Engine Optimization"
 permalink: /la-habra-california/search-engine-optimization/
 date:   2024-02-06

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I'm Doing, Website Building"
+title:  "What I'm Doing, Building Out My Website"
 permalink: /blog/my-website-build/
 date:   2024-02-12
 categories: blog post
@@ -11,11 +11,8 @@ One of my goals for this year is to be more expressive and explain my thought pr
 
 To start, I'm building my website out with Jekyll.  Jekyll is a static site generator that provides some pretty useful tools and features to build out websites.
 
-One of the reasons I prefer Jekyll over something like WordPress is because I enjoy design.
+One of the reasons I prefer Jekyll over WordPress is because Jekyll is lighter and more simple.
 
-WordPress would make it easier to 
-
-Another reasons I prefer Jekyll over WordPress is because I don't have a need for a ton of extra features.  
 
 
 

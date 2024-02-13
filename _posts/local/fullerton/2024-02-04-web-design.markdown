@@ -12,12 +12,12 @@ Do you need help with your website?
 
 ## Web Services I provide in the Fullerton, California Area
 
-### Website Redesign
+**Website Redesign**
 Does your website not look the way you want it to? Don't worry I can help you.
 
 The first website you invest in does not typically look the best.  
 
-## Why Having A Website for Your Brea, Business is Important
+### Why Having A Website for Your Brea, Business is Important
 
 Your website in most cases is the first impression you have on a customer.
 

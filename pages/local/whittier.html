@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: /whittier-california/
+---
+{% include nav.html %}
+<div class="container">    
+    <h1>Web Services in Whittier, California</h1>
+    {% for post in site.posts %} 
+    {% if post.categories contains "whittier" %}
+        <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% include footer.html%}

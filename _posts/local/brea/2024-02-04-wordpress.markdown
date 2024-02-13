@@ -6,14 +6,17 @@ date:   2024-02-07
 categories: brea
 ---
 
-WordPress is an amazing tool that can help you achieve a lot of tasks.
+WordPress is an amazing tool that can help you achieve a lot.
+
+WordPress gives you the ability to create websites pretty quick without knowing much about code or web design.
+
+Below are just some of the ways in which I can help you with 
 
 ## WordPress Services I in the Brea, California Area.
-Below are some of the services that provide in the Brea, California area.
 
-WordPress Website Redesign
-WordPress websites are easy to set up.  You click a few buttons add a theme and some basic plugins and BOOM you got a website in less than an hour.
+**WordPress Website Redesign**
+One of the main problems I come across is people wanting me to fix the design of their website. WordPress websites are easy to set up but to get them to look exactly how you want takes a whole other level of skill. The reasons for this is because WordPress websites are limited by they're design tools.  
 
-While this is a god send for people who just want to start posting content to their website it can quickly start to pose a task when it comes to design.
-
-You see, a lot of WordPress website use off the shelf design templates known as WordPress themes.  A lot of people who start a wordpress website use these themes that kind of start to make a lot of website look the same.
+**WordPress Website Functionality**
+WordPress is known for their extensive third party library features that you can add on with just the click of a button.  While these plugins are easy to install they can become a bit complicated to adjust.  If you need help adding custom functionality/features I can help.
+Contact Forms, Work Orders, Forums, Ecommerce.

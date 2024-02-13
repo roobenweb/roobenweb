@@ -2,8 +2,9 @@
 layout: default
 permalink: /la-habra-california/
 ---
-
-<h1>La Habra, California Web Services</h1>
+{% include nav.html %}
+<div class="container">
+    <h1>La Habra, California Web Services</h1>
 <p>Are you looking to get some work done on your 
     website in the La Habra, California area?
 </p>
@@ -13,5 +14,7 @@ permalink: /la-habra-california/
         <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
     {% endif %}
 {% endfor %}
+</div>
 
 
+{% include footer.html %}
