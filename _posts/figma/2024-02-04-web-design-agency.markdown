@@ -2,7 +2,7 @@
 layout: f-post
 title:  "Web Design Agency - Figma Template"
 h-title: Web Design Agency
-permalink: /figma-templates/figma-templates/web-agency-design/
+permalink: /figma-templates/web-agency-design/
 date:   2024-02-08
 categories: figma post
 img: \assets\img\figma\website-deisgn-agency-landing-page.jpg

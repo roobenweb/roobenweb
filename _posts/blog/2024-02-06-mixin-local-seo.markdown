@@ -7,7 +7,7 @@ categories: blog post
 ---
 Today I worked on making my website more mobile friendly. 
 
-I've been so busy building out the pages and writing content that I have not really focused on the design. 
+I've put my websites design on the side in order to work build it out . 
 
 So far I've sprinkled a few media queries to make the my home and blog pages fit in to mobile devices but eventually I'll go back and write a @mixin to clean up the code in my SCSS/CSS file.
 
