@@ -1,5 +1,5 @@
 ---
-layout: f-post
+layout: figma
 title:  "Web Design Agency - Figma Template"
 h-title: Web Design Agency
 permalink: /figma-templates/web-agency-design/

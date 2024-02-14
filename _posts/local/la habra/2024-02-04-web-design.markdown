@@ -1,5 +1,5 @@
 ---
-layout: la-habra
+layout: local
 title:  "La Habra, California Website Design"
 permalink: /la-habra-california/website-design/
 date:   2024-02-06

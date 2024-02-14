@@ -1,5 +1,5 @@
 ---
-layout: f-post
+layout: figma
 title:  "Job Agency Application Figma Template"
 h-title: Job Agency Application
 permalink: /figma-templates/job-agency-application/

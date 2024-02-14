@@ -1,5 +1,5 @@
 ---
-layout: f-post
+layout: figma
 title:  "Photography Website Design - Figma Template"
 h-title: Photography Website
 permalink: /figma-templates/photography-website-design/

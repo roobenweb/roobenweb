@@ -1,5 +1,5 @@
 ---
-layout: f-post
+layout: figma
 title:  "Nike/Jordan Shoe Ecommerce Website"
 h-title: Nike/Jordan Shoe Ecommerce Website
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/

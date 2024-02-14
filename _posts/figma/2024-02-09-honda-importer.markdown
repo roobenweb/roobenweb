@@ -1,5 +1,5 @@
 ---
-layout: f-post
+layout: figma
 title:  "Car Honda Importer Mobile Website Design - Free Figma Template"
 h-title: Car Honda Importer Mobile Website Design
 permalink: /figma-templates/car-honda-importer-mobile-website-design/

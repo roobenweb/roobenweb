@@ -45,6 +45,12 @@ article {
 
 .post-content {
     max-width: 800px;
+    padding-bottom: 2em;
+
+    h2 {
+        font-size: 2em; 
+        margin-top: 1em;
+    }
 
     p {
         font-size: 1.15em;

@@ -1,14 +1,4 @@
-.local {
-
-    display: flex;
-    padding: 0 40px;
-
-    .first {
-        @media (min-width: 768px) {
-            padding-right: 10%;
-            width: 70%;
-        }    
-    }
+.city {
 
     .second {
         @media (min-width: 768px) {

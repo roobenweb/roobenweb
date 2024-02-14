@@ -6,13 +6,18 @@ date:   2024-02-07
 categories: brea
 ---
 
-Hello, my name is Ruben Gutierrez and I am a website designer in the Brea, California area.
-
 Are you looking for someone to help you with your website, well look no further!
 
-## Some of the Web Services I Offer in the Brea, California Area
+Hi, I'm Ruben & I'd like to help!
 
-### Website Redesign
+Below are just a few ways I can improve your website.
+
+## Some of the Web Services I Offer in the Brea, California Area
+Web services can get a little complex, if you feel none of the listing below suit your problem feel free
+to call me or send me an email.
+
+
+**Website Redesign**
 Does your website not look the way you want it to? Don't worry I can help you.
 
 ## Why Having A Website for Your Brea, Business is Important

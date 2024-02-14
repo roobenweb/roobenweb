@@ -1,12 +1,8 @@
 ---
-layout: default
+layout: city
+title: Web Services in Brea California
 permalink: /brea-california/
 ---
-{% include nav.html %}
-
-<div class="container page">
-    
-<h1 class=" local-title">Web Services in Brea California</h1>
 
 {% for post in site.posts %} 
     {% if post.categories contains "brea" %}
@@ -14,6 +10,3 @@ permalink: /brea-california/
     {% endif %}
 {% endfor %}
 
-</div>
-
-{% include footer.html %}

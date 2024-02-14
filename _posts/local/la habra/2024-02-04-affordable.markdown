@@ -1,5 +1,5 @@
 ---
-layout: la-habra
+layout: local
 title:  "Affordable Website Design La Habra, California"
 permalink: /la-habra-california/affordable-website-design/
 date:   2024-02-06

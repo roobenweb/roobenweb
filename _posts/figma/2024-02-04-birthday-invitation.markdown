@@ -1,5 +1,5 @@
 ---
-layout: f-post
+layout: figma
 title:  "Birthday Invitation - Figma Template"
 h-title: Birthday Invitation
 permalink: /figma-templates/birthday-invitation-design/
