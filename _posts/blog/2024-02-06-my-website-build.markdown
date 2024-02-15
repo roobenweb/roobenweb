@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improving My Website Design, Making Free Figma Resources"
-permalink: /blog/building-out-my-website-with-jekyll
+permalink: /blog/improving-websites-design-making-free-web-design-resources
 date:   2024-02-14
 categories: blog post
 ---
