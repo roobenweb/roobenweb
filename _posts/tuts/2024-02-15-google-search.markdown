@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title:  "How To Get Your Website Listed in Google"
-permalink: /tutorials/how-to-get-your-website-listed-in-google/
+permalink: /tutorials/search-engine-optimization/how-to-get-your-website-listed-in-google/
 date:   2024-02-15
 categories: tutorial
 ---
@@ -15,8 +15,11 @@ The reasons for this is because Google has a huge amount of computers that spend
 If getting your website listed as soon as possible is your priority keep reading.
 
 ## How To Get Your Website Listed In Google As Soon As Possible
-To get your website listed as soon as you can you're going to want to familiarize yourself with a program called **Google Search Console**
+To get your website listed as soon as you can you're going to want to familiarize yourself with a program called <a href="https://search.google.com/search-console/" target="_blank">Google Search Console</a>
 
-Google Search Console is a free tool that Google offers so that you can keep track of your websites ranking in the Search Results.
+Google Search Console is a free tool that Google offers so that you can manage and keep track of your websites ranking in their Search Results.
+
+Google Search Console gives you the ability to submit request to Googles computer to come scan your website.  
+
 
 
