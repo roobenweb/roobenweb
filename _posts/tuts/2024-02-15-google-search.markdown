@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title:  "How To Get Your Website Listed in Google"
-permalink: /tutorials/how-to-get-your-website-listed-in-google
+permalink: /tutorials/how-to-get-your-website-listed-in-google/
 date:   2024-02-15
 categories: tutorial
 ---
