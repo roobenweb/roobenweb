@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Improving My Website Design, Making Free Figma Resources"
-permalink: /blog/improving-websites-making-free-web-design/
-date: 2024-02-13
+permalink: /blog/improving-websites-making-free-web-design-resources/
+date: 2024-02-14
 categories: blog post
 ---
 Something I'm trying to improve on is writing.  I'm always working on projects and building websites but I never write or post about them so here it is.
