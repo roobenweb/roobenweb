@@ -7,7 +7,7 @@ categories: blog post
 ---
 Today I worked on making my website more mobile friendly. 
 
-I've put my websites design on the side in order to work build it out . 
+I've put my websites design on the side in order to work build it out.
 
 So far I've sprinkled a few media queries to make the my home and blog
 pages fit in to mobile devices but eventually I'll go back and write a
