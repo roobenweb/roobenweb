@@ -3,8 +3,6 @@ h1, h2, h3, h4, h5 P {
     font-weight: 500;
 }
 
-
-
 h2 {
     font-size: 1.5em;
     font-weight: 500;
@@ -17,9 +15,6 @@ h2 {
 h3 {
     font-size: 1.75em;
     font-weight: 500;
-
-
-    
 }
 
 article {
@@ -35,17 +30,15 @@ article {
 
 .post-header {
     max-width: 800px;
-    .p-name {
-        font-size: 32px;
-        @media (min-width: 768px) {
-            font-size: 48px;
-        }
-    }
 }
 
-.post-content {
+.post {
     max-width: 800px;
     padding-bottom: 2em;
+
+    h1 {
+        font-size: 2.75em;
+    }
 
     h2 {
         font-size: 2em; 
