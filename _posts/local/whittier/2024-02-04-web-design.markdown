@@ -2,7 +2,7 @@
 layout: local
 title:  "Whittier, California Website Design"
 permalink: /whittier-california/website-design/
-date:   2024-02-15
+date:   2024-02-16
 categories: whittier
 ---
 Hello, my name is Ruben and I'm a website designer in the Whittier, California area.
