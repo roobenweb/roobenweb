@@ -3,7 +3,7 @@ layout: figma
 title:  "Car Honda Importer Mobile Website Design - Free Figma Template"
 h-title: Car Honda Importer Mobile Website Design
 permalink: /figma-templates/car-honda-importer-mobile-website-design/
-date:   2024-02-09
+date:   2024-02-17
 categories: figma post
 img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 ---

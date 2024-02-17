@@ -3,7 +3,7 @@ layout: figma
 title:  "Nike/Jordan Shoe Ecommerce Website"
 h-title: Nike/Jordan Shoe Ecommerce Website
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
-date:   2024-02-08
+date:   2024-02-17
 categories: figma post
 img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 ---
