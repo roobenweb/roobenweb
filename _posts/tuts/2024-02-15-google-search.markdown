@@ -2,7 +2,7 @@
 layout: tutorial
 title:  "How To Get Your Website Listed in Google"
 permalink: /tutorials/search-engine-optimization/how-to-get-your-website-listed-in-google/
-date:   2024-02-15
+date:   2024-02-16
 categories: tutorial
 ---
 
@@ -15,11 +15,14 @@ The reasons for this is because Google has a huge amount of computers that spend
 If getting your website listed as soon as possible is your priority their is some action you can take so keep reading.
 
 ## How To Get Your Website Listed in Googles Search Results Today
-To get your website listed as soon as you can you're going to want to familiarize yourself with a program called <a href="https://search.google.com/search-console/" target="_blank">Google Search Console</a>
+To get your website listed as soon as you can you're going to want to familiarize yourself with a program called Google Search Console
 
 Google Search Console is a free tool that Google offers so that you can manage and keep track of your websites ranking in their Search Results.
 
-Google Search Console gives you the ability to submit request to Googles computer to come scan your website.  
+Google Search Console gives you the ability to submit request to Googles computer to come so that they can come scan your website. 
+
+## Signing Up For Google Search Console
+The first thing you need to do is sign up for a Google Account. Head over to <a href="https://search.google.com/search-console/" target="_blank">Google Search Console</a>.
 
 
 
