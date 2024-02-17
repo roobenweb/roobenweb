@@ -19,12 +19,26 @@ img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 
 ![car importing business website](\assets\img\figma\car-importer\car-importer-application-kei-truck-honda.jpg){:class="img-responsive"}
 
-A mobile website application for a car importer/importing business. 
+This is a mobile website design for a car importing/importer business.
 
-Kei Cars are the smallest category of cars that are sold in Japan.
-Kei cars particularly Kei trucks are becoming more and more popular in America especially among the rural population.
+Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light Automobile' in Japanese.
 
-Kei trucks are essentially just utility version of Kei cars.  They come with a flatbed and offer a lot of benefits for people living on more ample pieces of land. 
+Kei cars specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
+
+Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
+
+One of the reasons Kei trucks are becoming so popular in rural communities is because a lot of them have 4 wheel drive or 4WD. Most cars and trucks are 2 wheel drive or 2WD. 4WD vehicles are known for having an easier time maneuvering through rugged.
+
+The other reasons for their surge in popularity is their low cost of maintenance.  Kei cars and trucks are generally known for being inexpensive.
+Their miniature size makes both parts and repair inexpensive.
+
+I've noticed a lot of people buying these and figured that using a Kei Truck would be fitting for this type of business and design.
+
+To make this I took inspiration from automotive website designs I found online along with some personal knowledge about the type of information a buyer would like to see as they're browsing for cars to purchase online.
+
+I spend a few hours designing the layout and spend another hour or two making the logo look as cool as possible. The logo is my favorite part of this design. To make it I used 'League gothic' for the big 'IMPORTER' text on top and translated 'car imported' to Japanese and placed it underneath to give it a really cool effect.
+
+If you're in the market for these one of a kind utility vehicle you can get one For about 5,000 American Buckaroos. For some pocket change you can get yourself a decent low mileage 550cc 3 cylinder gas sipper to help you easily maneuver around your lot.
 
 **Keywords:** Honda, Car Importer, Website Design, Mobile Design
 

@@ -6,9 +6,9 @@ date:   2024-02-16
 categories: tutorial
 ---
 
-The answer to this question is simple. If you have enough content Google will eventually find your website and list it in their search results. Heck even if you have little content Google will eventually find you.
+The truth is that Google will eventually find your website and list it in their search results. Heck even if you have little content Google will eventually find you. Their are way to make Google find your website faster. If you'd like to know keep reading.
 
-The only difference is that with more content Google is more likely to find you faster.
+Google has computers that allow you. 
 
 The reasons for this is because Google has a huge amount of computers that spend all day "crawling" the internet looking for pages with content they can use. Content and especially links help Google's bots (computers) travel through the internet to discover new things.  
 
