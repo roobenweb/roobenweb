@@ -29,8 +29,7 @@ Some of the reasons Kei Trucks are becoming more popular in America is because o
 
 One of the reasons Kei trucks are becoming so popular in rural communities is because a lot of them have 4 wheel drive or 4WD. Most cars and trucks are 2 wheel drive or 2WD. 4WD vehicles are known for having an easier time maneuvering through rugged.
 
-The other reasons for their surge in popularity is their low cost of maintenance.  Kei cars and trucks are generally known for being inexpensive.
-Their miniature size makes both parts and repair inexpensive.
+The other reasons for their surge in popularity is their low cost of maintenance. Their miniature size makes both parts and repair inexpensive.
 
 I've noticed a lot of people buying these and figured that using a Kei Truck would be fitting for this type of business and design.
 
