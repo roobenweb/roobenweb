@@ -9,7 +9,7 @@ email: roobenweb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! My name is Ruben Gutierrez & I make websites.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://roobenweb.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.roobenweb.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: roobenweb
 github_username:  roobenweb
 
