@@ -3,6 +3,7 @@ layout: post
 title:  "Website Design in Los Angeles, California"
 permalink: /los-angeles-california/website-design/
 date:   2024-02-18
+last_modified_at: 2024-02-20
 categories: los-angeles
 ---
 Hello, my name is Ruben and I'm a website designer in the Los Aneles, California area.
@@ -32,8 +33,8 @@ Does your website not look the way you want it to? I get it, the first website y
 ## Having A Website Is Important For Your Whitter, Business, Here's Why
 Often times your website is the first impression people get from you or your business. For this reasons it's essential that your website look well and provide useful/relevant content.  
 
-### My Goals As A Website Designer in the Whittier, California Area.
-When I began my journey to become a website designer all I really wanted to do was to make some money using my interest for technology. Now that I've gotten a bit older I've come to understand a little more about the world and how I want to make it better. One thing I've noticed is that a lot of people around me in the Whittier, California area don't really understand the benefits of some of the these modern communication tools.
+### My Goals As A Website Designer in the Los Angeles, California Area.
+When I began my journey to become a website designer all I really wanted to do was to make some money using my interest for technology. Now that I've gotten a bit older I've come to understand a little more about the world and how I want to make it better. One thing I've noticed is that a lot of people around me in the Los Angeles, California area don't really understand the benefits of some of the these modern communication tools.
 
 Take this example for instance. When I first began learning about the internet, communication ,and websites I didn't really understand what I was getting into. The only thing I knew was that I enjoyed being able to solve problems using computers and that their was some decent money in doing so. The more I progressed as a web developer the more I began to realize how effective websites can be. One of the first websites I made landed me a few high end clients and a couple of really good job opportunities. The fact that people came searching for me offering me a different path amazed me!
 
@@ -44,4 +45,4 @@ Investing a bit of time and money into a website can have profound effects on a 
 ### Other Areas
 Also serving people in the, Brea, Fullerton, La Habra, Anaheim, Santa Ana, Costa Mesa, Newport Beach Area.
 
-Whittier, California, 90603, United States of America
+Los Angeles, California, 90055, United States of America

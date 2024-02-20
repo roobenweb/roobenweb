@@ -1,0 +1,475 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
+h1, h2, h3, h4, h5 P {
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+@media (min-width: 768px) {
+  h2 {
+    font-size: 2.25em;
+  }
+}
+
+h3 {
+  font-size: 1.75em;
+  font-weight: 500;
+}
+
+article {
+  padding: 0 40px;
+}
+
+.post-header {
+  margin: 40px 0 40px 0;
+}
+
+.post {
+  max-width: 1200px;
+  padding-bottom: 2em;
+}
+.post h1 {
+  font-size: 2.75em;
+}
+.post h2 {
+  font-size: 2em;
+  margin-top: 1em;
+}
+.post img {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .figma-templates ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+.figma-templates ul .block {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .figma-templates ul .block {
+    width: 50%;
+  }
+}
+@media (min-width: 1100px) {
+  .figma-templates ul .block {
+    width: 33.3%;
+  }
+}
+.figma-templates ul .block .figma-image {
+  border: 1px solid orange;
+}
+.figma-templates ul .block .figma-image img {
+  width: 100%;
+  border: 1px solid red;
+}
+.figma-templates ul .block a {
+  display: inline-block;
+}
+.figma-templates ul .block a:active {
+  color: #000;
+}
+.figma-templates ul .block a:hover {
+  color: #252525;
+}
+
+.figma-layout header {
+  margin-top: 2em;
+}
+.figma-layout header h1 {
+  font-size: 2.5em;
+}
+
+.figma-post .img-responsive {
+  max-width: 100%;
+}
+
+@media (min-width: 768px) {
+  .local {
+    display: flex;
+  }
+}
+.local h1 {
+  font-size: 2.25em;
+}
+.local h2 {
+  font-size: 1.75em;
+}
+.local h3 {
+  font-size: 1.5em;
+}
+@media (min-width: 768px) {
+  .local .first {
+    padding-right: 7.5%;
+    width: 70%;
+  }
+}
+@media (min-width: 768px) {
+  .local .second {
+    margin-top: 100px;
+    width: 30%;
+  }
+}
+
+@media (min-width: 768px) {
+  .home-page p {
+    font-size: 18px !important;
+  }
+}
+.home-page h2 {
+  font-size: 28px !important;
+}
+@media (min-width: 768px) {
+  .home-page h2 {
+    font-size: 32px !important;
+  }
+}
+.home-page h3 {
+  font-size: 18px;
+}
+
+.home-hero {
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .home-hero {
+    display: flex;
+  }
+}
+.home-hero .hero-information {
+  max-width: 600px;
+  padding: 75px 0;
+}
+.home-hero .hero-information h1 {
+  font-size: 2.5em;
+}
+.home-hero .hero-information h1 span {
+  font-size: 1.25rem;
+  display: block;
+}
+@media (min-width: 768px) {
+  .home-hero .hero-information h1 {
+    font-size: 3.25em !important;
+  }
+}
+@media (min-width: 1100px) {
+  .home-hero .hero-information h1 {
+    font-size: 3.75em !important;
+  }
+}
+.home-hero .hero-information p {
+  max-width: 500px;
+}
+
+.home-title {
+  max-width: 700px;
+}
+@media (min-width: 768px) {
+  .home-title {
+    display: flex;
+  }
+}
+.home-title img {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+.home-title .title-info h1 {
+  font-size: 2em;
+}
+.home-title .title-info h1 .top {
+  font-size: 16px;
+}
+.home-title .title-info h1 .mid {
+  font-size: 24px;
+}
+@media (min-width: 768px) {
+  .home-title .title-info h1 {
+    font-size: 3em;
+  }
+}
+.home-title .title-info p {
+  font-size: 16px;
+  padding: 0 5%;
+}
+
+.figma-section {
+  font-size: 20px;
+}
+.figma-section p {
+  font-size: 20px;
+}
+.figma-section .home-figma-templates {
+  flex-wrap: wrap;
+}
+.figma-section .home-figma-templates a {
+  font-size: 18px;
+}
+
+.blog-area {
+  margin: 0 auto 40px;
+}
+@media (min-width: 768px) {
+  .blog-area {
+    padding: 0;
+  }
+}
+.blog-area a {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+.blog-area a:active {
+  color: #000;
+}
+.blog-area ul {
+  list-style-type: none;
+}
+
+.blog .blog-title p {
+  margin-bottom: 40px;
+}
+@media (min-width: 768px) {
+  .blog .blog-section {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+.blog .blog-section .blog-post {
+  max-width: 450px;
+  margin-bottom: 40px;
+}
+@media (min-width: 768px) {
+  .blog .blog-section .blog-post {
+    width: 50%;
+    margin-right: 10px;
+  }
+}
+.blog .blog-section .blog-post a {
+  height: 50px;
+}
+.blog .blog-section .blog-post p {
+  font-size: 16px !important;
+}
+
+.real-about {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.real-about h2 {
+  font-size: 2.25em;
+}
+.real-about .about-description {
+  margin-bottom: 50px;
+}
+@media (min-width: 768px) {
+  .real-about .about-description {
+    display: flex;
+  }
+}
+.real-about .about-description p {
+  max-width: 550px;
+  font-size: 1.25em;
+  font-weight: 500;
+  padding-right: 20px;
+}
+
+.mb-40 {
+  margin-bottom: 100px;
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+.animated {
+  animation-duration: s;
+  animation-delay: 0.75s;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+}
+
+.animatedFadeInUp {
+  opacity: 0;
+}
+
+.fadeInUp {
+  opacity: 0;
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+}
+
+.figma-footer {
+  max-width: 800px;
+  height: 400px;
+  margin: auto;
+}
+.figma-footer img {
+  max-width: 100px;
+}
+.figma-footer h4 {
+  font-size: 1.5em;
+}
+
+.home-footer {
+  background: #000;
+  color: #fff;
+  margin-top: 100px;
+}
+@media (min-width: 768px) {
+  .home-footer {
+    padding: 80px 0 80px;
+  }
+}
+@media (min-width: 768px) {
+  .home-footer .footer {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+.home-footer .footer p {
+  max-width: 338px;
+  margin: 0 auto;
+}
+.home-footer .footer a {
+  color: #fff;
+  text-decoration: none;
+}
+.home-footer .footer .footer-about {
+  text-align: center;
+  padding: 50px 0;
+}
+@media (min-width: 768px) {
+  .home-footer .footer .footer-about {
+    text-align: left;
+  }
+}
+.home-footer .footer .footer-menu {
+  text-align: center;
+  padding: 50px 0;
+}
+@media (min-width: 768px) {
+  .home-footer .footer .footer-menu {
+    text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .city .second {
+    margin-top: 100px;
+    width: 30%;
+  }
+}
+.city .second a {
+  font-size: 1em;
+  margin: 10px 0;
+  display: inline-block;
+}
+
+.contact h3 {
+  font-size: 1.25em;
+}
+.contact p {
+  line-height: 150%;
+  font-size: 18px;
+}
+.contact li {
+  list-style: none;
+}
+
+.nav {
+  height: 80px;
+  display: flex;
+  justify-content: flex-end;
+}
+.nav ul {
+  display: flex;
+  align-items: center;
+}
+.nav ul a {
+  margin-left: 2.5em;
+  display: flex;
+  text-decoration: none;
+}
+
+.blog-page h1 {
+  font-size: 2.25em;
+}
+.blog-page .blog-page-posts a {
+  display: block;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+ul {
+  list-style-type: none !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 16px;
+  line-height: 150%;
+  margin-bottom: 1em;
+  font-weight: 500;
+}
+
+a {
+  font-weight: 500;
+  color: #000;
+}
+
+.home-button {
+  position: absolute;
+}
+
+.button {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 5px;
+  padding: 15px 30px;
+}
+
+.post-meta {
+  font-size: 16px;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.border-white {
+  border: 1px solid #fff;
+}
+
+.mb-40 {
+  margin-bottom: 100px;
+}
+
+.container {
+  max-width: 75em;
+  margin: 0 auto;
+  padding: 0 40px;
+}/*# sourceMappingURL=app.css.map */
