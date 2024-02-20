@@ -15,6 +15,6 @@ img: \assets\img\figma\grandparent-birthday-invitation-card.png
 
 This is a birthday invitation card design I made.
 
-Check it out on Behance & Dribbble
+Check out what people are saying about it on Behance & Dribbble
 
 Keywords: Birthday Invitation Card, Ceremony Invite, Tree, Leaves, Wood Textures

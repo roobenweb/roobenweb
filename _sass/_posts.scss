@@ -24,21 +24,34 @@ article {
 
 
 .post-header {
-    margin: 40px 0 40px 0;
+    margin-top: 50px;
+
+    @media (min-width: 768px) {
+        margin-top: 100px;
+    }
 }
 
 
 .post {
     max-width: 1200px;
     padding-bottom: 2em;
+    margin-top: 50px;
 
     h1 {
-        font-size: 2.75em;
+        font-size: 2.25em;
+
+        @media (min-width: 768px) {
+            font-size: 2.75em;
+        }
     }
 
     h2 {
-        font-size: 2em; 
+        font-size: 1.75em; 
         margin-top: 1em;
+
+        @media (min-width: 768px) {
+            font-size: 2em;
+        }
     }
 
     img {

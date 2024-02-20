@@ -1,5 +1,4 @@
 .home-page {
-
     p {
 
         @media (min-width: 768px) {
@@ -20,30 +19,35 @@
     }
 }
 
+.home-container {
+    padding: 0 40px;
+    
+}
+
 .home-hero {
     margin: 0 auto;
+    max-width: 100%;
+    background: #F9F9F9;
 
     @media (min-width: 768px) {
         display: flex;
     }
 
     .hero-information {
-        max-width: 600px;
-        padding: 75px 0;
+        padding: 150px 0;
+        text-align: center;
+        margin: 0 auto;
 
         h1 {
-            font-size: 2.5em;
-            span {
-                font-size: 1.25rem;
-                display: block; 
-            }
+            font-size: 1.75em;
+            text-transform: uppercase;
 
             @media (min-width: 768px) {
-                font-size: 3.25em !important;
+                font-size: 2.25em !important;
             }
 
             @media (min-width: 1100px) {
-                font-size: 3.75em !important;
+                font-size: 2.75em !important;
             }
         }
 
@@ -108,6 +112,7 @@
 
 .blog-area {
     margin: 0 auto 40px;
+    max-width: 1200px;
 
     @media (min-width: 768px) {
         padding: 0;
@@ -127,7 +132,8 @@
     }
 }
 .blog {
-
+    max-width: 1200px;
+    margin: 0 auto;
     .blog-title {
         p {
             margin-bottom: 40px;
@@ -164,7 +170,7 @@
 
 .real-about {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 50px auto;
 
     h2 {
         font-size: 2.25em;
