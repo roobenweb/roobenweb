@@ -43,7 +43,7 @@ layout: default
             </div>
             <div class="blog-section">
             {% for post in site.posts %} 
-            {% if post.categories contains "blog" %}
+            {% if post.categories contains "blog" limit:2 %}
                 <div class="blog-post">
                     <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
                     <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
