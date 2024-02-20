@@ -4,6 +4,7 @@ title:  "Nike/Jordan Shoe Ecommerce Website"
 h-title: Nike/Jordan Shoe Ecommerce Website
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
 date:   2024-02-17
+last_modified_at: 2024-02-20
 categories: figma post
 img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 ---

@@ -4,6 +4,7 @@ title:  "Birthday Invitation - Figma Template"
 h-title: Birthday Invitation
 permalink: /figma-templates/birthday-invitation-design/
 date:   2024-02-08
+last_modified_at: 2024-02-20
 categories: figma post
 img: \assets\img\figma\grandparent-birthday-invitation-card.png
 ---

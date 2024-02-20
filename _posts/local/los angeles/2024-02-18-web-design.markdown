@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Whittier, California Website Design"
-permalink: /whittier-california/website-design/
-date:   2024-02-16
-last_modified_at: 2024-02-20
-categories: whittier
+title:  "Website Design in Los Angeles, California"
+permalink: /los-angeles-california/website-design/
+date:   2024-02-18
+categories: los-angeles
 ---
-Hello, my name is Ruben and I'm a website designer in the Whittier, California area.
+Hello, my name is Ruben and I'm a website designer in the Los Aneles, California area.
 
-If you're looking for someone to help you with your website I'm your person!
+Do you need someone to help you with your website? I'm your guy!
 
-I've been designing and building websites for a few years now and I enjoy helping people solve problems using the internet & web design. If you'd like to know a little more about me check out the about me section on <a href="/">my homepage</a>.
+I've been building and designing websites for the better part of a decade and I like helping others solve problem using web technologies.  You can read a little more about me on <a href="/" target="_blank">my homepage</a>.
 
-## Some of the Web Design Services I Provide in the Whittier, California Area.
-Below are some of the ways in which I can help you. If you're problem doesn't line up with any of the information below feel free to contact me, I wouldn't mind listening to what you have going on and I might be able to help you!
+## Some of the Web Design Services I Provide in the Los Angeles, California Area.
+Underneath you'll be able to see a few ways I can assist you with your website. If you feel like nothing below covers your problem don't hesitate to reach out I wouldn't mind hearing you out and could probably point you in the right direction.
 
-**Website Redesigns** - Does your website not look the way you want it to? I get it, the first website you invest in isn't always the one you  wanted but it's the one that got you where you are today. If you're at the point where seeing your website appearance is making you uncomfortable then keep reading. One of the main reasons for redesigning a website is the theme plugins and site builder tools that most people use to build their website is available for everyone. These common tools eventually end up creating a lot of websites on the internet that look and behave the same. While this typically isn't a problem when you're starting off it certainly can hinder progress. It's pretty well documented that good website design establishes trust so in order for you to get as much as you can from your website it's imperative that at some point you invest a bit of money and time into it's appearance. I'll help you turn those basic templates into something that's more tailored to your mission and goals.
+**Website Redesigns** - Website Redesigns come at a point when you no longer are okay with the way your website looks. 
+
+
+Does your website not look the way you want it to? I get it, the first website you invest in isn't always the one you  wanted but it's the one that got you where you are today. If you're at the point where seeing your website appearance is making you uncomfortable then keep reading. One of the main reasons for redesigning a website is the theme plugins and site builder tools that most people use to build their website is available for everyone. These common tools eventually end up creating a lot of websites on the internet that look and behave the same. While this typically isn't a problem when you're starting off it certainly can hinder progress. It's pretty well documented that good website design establishes trust so in order for you to get as much as you can from your website it's imperative that at some point you invest a bit of money and time into it's appearance. I'll help you turn those basic templates into something that's more tailored to your mission and goals.
 
 **Starting Your First Website** - Are you looking to build your first website? Let's start today! Their are a lot of benefits to having a website. A website can help you network and exhibit your talents and skills to the world. If your interested in creating a website for yourself or your business I can help.  The process of making a website can seem daunting and stressful especially with your current goals and missions. The good news is is that with your input and my web design knowledge we can craft a one of a kind website that best represent you and helps you further along your goals without distracting you. 
 

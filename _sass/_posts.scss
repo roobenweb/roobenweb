@@ -33,7 +33,7 @@ article {
 }
 
 .post {
-    max-width: 800px;
+    max-width: 1200px;
     padding-bottom: 2em;
 
     h1 {
@@ -45,12 +45,8 @@ article {
         margin-top: 1em;
     }
 
-    p {
-        font-size: 1.15em;
-        font-weight: 500;
-    }
     img {
-        max-width: 100%;
+        width: 100%;
     }
 }
 
