@@ -14,8 +14,6 @@ img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 <a style="color:#333;background:#ECECEC;"
 class="button" href="https://www.figma.com/community/file/1337258473533309410/nike-jordan-shoe-ecommerce-website-design" target="_blank">Click To Duplicate</a>
 
-![image-title-here](\assets\img\figma\air-jordan\retro-air-jordan-6.jpg){:class="img-responsive"}
-
 This is the Nike category section of an online shoe shop I designed in Figma.
 
 I've had a fascination with Nike shoes my whole life. Nikes especially Jordans are one of my favorite shoes and probably some of the most recognizable of all times.
