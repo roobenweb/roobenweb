@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-{%- include nav.html -%}
 
+<div class="home-page">
 
-<div class="home-container home-page">
+    <!-- Hero -->
     <div class="home-hero ">
         <div class="hero-information">
             <h1>Website Designer</h1>
@@ -12,30 +12,20 @@ layout: default
     
     </div>
     
-    <div class="real-about mb-40">
+    <!-- About Description -->
+    <div class="home-about fixed-width mb-40">
         <h2>About</h2>
         <div class="about-description">
-            <p>Hello, my name is Ruben Gutierrez & I am a website designer from La Habra, California, US. I've been working on websites for a few years and I enjoy helping people solve problems using web technologies and the internet.</p>
+            <p>Hello, my name is Ruben Gutierrez & I am a website designer in La Habra, California. My intrest in technology began when I recieved my first computer at 8 years old and has steadily progressed to where I'm at today, building and desinging websites. One of the things I enjoy most about working with these tools is helping others progress and solve prolbmes. </p>
             <br>
             
-            <p>When I’m not in front of the computer making websites I enjoy hanging out with my friends and taking hikes in the beautiful Southern California Hills. 
+            <p>When I’m not in front of the computer making websites I enjoy hanging out with my friends and taking hikes in the beautiful hills of Southern California. 
             </p>
         </div>
     </div>
     
-    <div class="real-about mb-40">
-        <h2>Contact Information</h2>
-        <p>Please feel free to contact me below if you have a problem and you need some help. I reply quick.
-        </p>
-       <div class="description">
-            <p>Email:<strong>roobenweb@gmail.com</strong></p>
-            <p>Phone: <strong>(562) 475- 8959</strong></p>
-
-       </div>
-    </div>
-    
-    
-    <div class="blog-area">
+    <!-- Blog Area -->
+    <div class="fixed-width blog-area">
         <div class="blog mb-40">
             <div class="blog-title">
                 <h2>Recent Blog Posts</h2>
@@ -43,18 +33,17 @@ layout: default
             </div>
             <div class="blog-section">
             {% for post in site.posts %} 
-            {% if post.categories contains "blog"%}
-                <div class="blog-post">
-                    <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
-                    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-                </div>
-            {% endif %}
+                {% if post.categories contains "blog"%}
+                    <div class="blog-post">
+                        <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
+                        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                    </div>
+                {% endif %}
             {% endfor %}
             </div>
-    
         </div>
     
-        <div class="figma-section">
+        <div class="figma-section fixed-width">
             <h2>Figma Templates</h2>
             <p>One way I enjoy helping others is by designing websites like these in a program called "Figma" and offering them for free so that other designers can learn from them.</p>
             <div class="home-figma-templates">
@@ -65,7 +54,6 @@ layout: default
                 {% endfor %}
             </div>
         </div>
-    </div>    
-</div>
+    </div>
 
-{%- include footer.html -%}
+</div>
