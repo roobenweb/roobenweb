@@ -5,12 +5,12 @@ permalink: /blog/improving-website-design-making-free-web-design-resources/
 date: 2024-02-14
 categories: blog post
 ---
-Something I'm trying to improve on is writing.  I'm always working on projects and building websites but I never write or post about them so here it is.
+Something I'm trying to improve on is writing more. In the past I've worked on so many projects and websites but I never end up writing or posting about them because I never really saw the point. Now that I'm getting a little more serious about web design I've started doing just that.
 
 ## Improving My Websites Design
-One of the things I'm currently working on is improving the way my website looks.
+One of the things I'm currently working on is improving the way my websites design.
 
-It started out pretty basic and now it's looking better and everyday. Now that I mention it I'm probably going to start taking screenshots every other day to post them here to give better updates so stick around if you want to see that. 
+My site started out pretty basic and now it's looking better and everyday. Now that I mention it I'm probably going to start taking screenshots every other day to post them here to give better updates so stick around if you want to see that. 
 
 The main things I worked on today was reducing the code in the layouts and CSS.
 
