@@ -10,7 +10,7 @@ Hello, my name is Ruben and I'm a website designer in the Los Aneles, California
 
 Do you need someone to help you with your website? I'm your guy!
 
-I've been building and designing websites for the better part of a decade and I like helping others solve problem using web technologies.  You can read a little more about me on <a href="/" target="_blank">my homepage</a>.
+I've been building and designing websites for the better part of a decade. I like helping people solve problem using the web technologies.  You can read a little more about me on <a href="/" target="_blank">my homepage</a>.
 
 ## Some of the Web Design Services I Provide in the Los Angeles, California Area.
 Underneath you'll be able to see a few ways I can assist you with your website. If you feel like nothing below covers your problem don't hesitate to reach out I wouldn't mind hearing you out and could probably point you in the right direction.
