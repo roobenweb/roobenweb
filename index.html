@@ -7,10 +7,19 @@ layout: default
     <!-- Hero -->
     <div class="home-hero">
         <div class="hero-information">
-            <h1 class="">Website <br><strong>Designer</strong></h1>
+            <div class="hero-left">
+                <h1 class="">Website <br><strong>Designer</strong></h1>
+                <a href="/contact/">
+                    <button role="link">
+                        <span>Let's Talk!</span>
+                        <span><img src="assets/img/arrow.png" alt=""></span>
+                    </button>
+                </a>
+            </div>
+        
 
-            <div class="hero-description    ">
-                <p>Hello, my name is Ruben Gutierrez & I am a website designer in La Habra, California. My interest in technology began when I received my first computer at 8 years old and has steadily progressed to where I'm at today, building and designing websites. One of the things I enjoy most about working with these tools is helping others progress and solve problems.
+            <div class="hero-description">
+                <p>Hello, my name is <strong>Ruben Gutierrez</strong> & I am a website designer in La Habra, California. My interest in technology began when I received my first computer at 8 years old and has steadily progressed to where I'm at today, building and designing websites. One of the things I enjoy most about working with these tools is helping others progress and solve problems.
                 <br>
                 <br>
                 When I’m not in front of the computer making websites I enjoy hanging out with my friends and taking hikes in the beautiful hills of Southern California.
@@ -21,34 +30,37 @@ layout: default
     </div>
     
     <!-- Blog Area -->
-    <div class="fixed-width blog-area">
-        <div class="blog mb-40">
-            <div class="blog-title">
-                <h2>Recent Blog Posts</h2>
+    <div class="blog-area fixed-width mb-40 ">
+        <div class="blog">
+            <div class="blog-title padding">
+                <h2>Blog Posts</h2>
                 <p>Blog post include general thoughts and current projects I'm working on.</p>
             </div>
             <div class="blog-section">
-            {% for post in site.posts %} 
-                {% if post.categories contains "blog"%}
-                    <div class="blog-post">
-                        <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
-                        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-                    </div>
-                {% endif %}
-            {% endfor %}
-            </div>
-        </div>
-    
-        <div class="figma-section fixed-width">
-            <h2>Figma Templates</h2>
-            <p>One way I enjoy helping others is by designing websites like these in a program called "Figma" and offering them for free so that other designers can learn from them.</p>
-            <div class="home-figma-templates">
                 {% for post in site.posts %} 
-                {% if post.categories contains "figma" %}
-                    <a href="{{post.url}}">{{ post.h-title }} </a><br>
-                {% endif %}
+                    {% if post.categories contains "blog"%}
+                       <div class="blog-post-container padding">
+                            <div class="blog-post ">
+                                <img src="{{post.image}}" alt="">
+                                <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
+                                <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                            </div>
+                       </div>
+                    {% endif %}
                 {% endfor %}
             </div>
+        </div>
+    </div>
+
+    <div class="figma-section fixed-width">
+        <h2>Figma Templates</h2>
+        <p>One way I enjoy helping others is by designing websites like these in a program called "Figma" and offering them for free so that other designers can learn from them.</p>
+        <div class="home-figma-templates">
+            {% for post in site.posts %} 
+            {% if post.categories contains "figma" %}
+                <a href="{{post.url}}">{{ post.h-title }} </a><br>
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
 

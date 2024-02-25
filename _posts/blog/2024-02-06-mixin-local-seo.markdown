@@ -3,8 +3,13 @@ layout: post
 title:  "Making My Website More Mobile Friendly & Doing More Local SEO"
 permalink: /blog/making-website-mobile-friendly-more-local-seo/
 date:   2024-02-08
+last_modified_at: 2024-02-20
 categories: blog post
+image: /assets/img/mobile-friendly.png
 ---
+
+![image-title-here](\assets\img\mobile-friendly.png){:class="img-responsive"}
+
 Today I worked on making my website more mobile friendly. 
 
 One of the things that I've neglected while writing content and building out the structure for my website is its design.

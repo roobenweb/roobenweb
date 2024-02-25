@@ -1,28 +1,12 @@
 .home-page {
     padding: 0 40px;
 
-    h1 {
-        font-size: 1.75em;
-        text-transform: uppercase;
-
-        @media (min-width: 768px) {
-            font-size: 2.25em !important;
-        }
-
-        @media (min-width: 1100px) {
-            font-size: 2.75em !important;
-        }
-    }
-
     h3 {
         font-size: 1.25em !important;
     }
 }
 
 .home-hero {
-    margin: 0 auto;
-    background: #F9F9F9;
-    
 
     .hero-information {
         padding: 150px 0;
@@ -32,67 +16,114 @@
             justify-content: center;
         }
 
-        h1 {
-            font-size: 2.5em !important;
-            line-height: 150%;
+        .hero-left {
+            margin-bottom: 20px;
             @media (min-width: 768px) {
-                width: 50%;
-                font-size: 4em !important;
+                width: 55%;
+            }
+
+            h1 {
+                font-size: 3em !important;
+                line-height: 150%;
+                text-transform: uppercase;
+
+                @media (min-width: 768px) {
+                    font-size: 4em !important;
+                    margin-bottom: 40px;
+                }
+            }
+
+            a {
+                
+                button {
+                    width: 210px;
+                    height: 60px;
+                    background: #000;
+                    color: #fff;
+                    font-size: 1.25em;
+                    cursor: pointer;
+
+
+                    span {
+                        img {
+                            max-width: 21px;
+                            display: hidden;
+
+                            &:hover {
+                                display: block;
+                            }
+                        }
+                    }
+                }
             }
         }
 
         .hero-description {
             max-width: 512px;
             @media (min-width: 768px) {
-                width: 50%;
+                width: 45%;
+            }
+
+            @media (min-width: 1000px) {
+                width: 45%;
             }
         }
     }
 }
 
 
-.blog {
+.blog-area {
+
+    .blog {
+        .blog-title {
+            h2 {
+                font-size: 2.25em;
+                font-weight: 600;
+            }
+        }
  
-    .blog-section {
-
-        @media (min-width: 768px) {
-            display: flex;
-            justify-content: space-between;
-        }
-        
-        .blog-post {
-            max-width: 450px;
-            margin-bottom: 40px;
-            @media (min-width: 768px) {
-                width: 50%;
-                margin-right: 10px;
+        .blog-section {
+            
+            @media (min-width: 500px) {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                flex-wrap: wrap;
             }
+            
+            
+            .blog-post-container {
 
-            a {
-                height: 50px;
-           }
+                @media (min-width: 500px) {
+                    width: 30%;
+                }
+                
+
+                .blog-post {
+                    display: flex;
+                    flex-direction: column;
+    
+    
+                    img {
+                        max-width: 100%;
+                    }
+    
+                    a {
+                        text-decoration: none;
+    
+                        h3 {
+                            font-size: 1.125em;
+                            font-weight: 600;
+                            max-width: 380px;
+                        }
+                    }
+    
+                    p {
+                        font-size: .875em;
+                        max-width: 380px;
+                    }
+                }
+            }
         }
     }
-}
-
-.home-about {
-    margin: 50px auto;
-
-
-    .about-description {
-
-        @media (min-width: 768px) {
-            display: flex;
-        }
-
-        p {
-            max-width: 550px;
-            padding-right: 20px;
-        }
-
-    }
-}
-
-.mb-40 {
-    margin-bottom: 100px;
 }

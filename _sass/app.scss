@@ -43,6 +43,16 @@
     margin-bottom: 100px;
 }
 
+.top-container {
+    margin: 6.25em auto 0;
+    max-width: 75em;
+    padding: 0 40px;
+    
+    @media (min-width: 1400px) {
+        padding: 0 ;
+    }
+}
+
 .container {
     max-width: 75em;
     margin: 0 auto;
@@ -51,4 +61,12 @@
     @media (min-width: 1400px) {
         padding: 0 ;
     }
+}
+
+.mb-40 {
+    margin-bottom: 100px;
+}
+
+.padding {
+    padding: 5px;
 }

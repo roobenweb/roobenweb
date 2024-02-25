@@ -4,6 +4,8 @@ title:  "Improving My Website Design, Making Free Figma Resources"
 permalink: /blog/improving-website-design-making-free-web-design-resources/
 date: 2024-02-14
 categories: blog post
+image: /assets/img/mobile-friendly.png
+
 ---
 Something I'm trying to improve on is writing more. In the past I've worked on so many projects and websites but I never end up writing or posting about them because I never really saw the point. Now that I'm getting a little more serious about web design I've started doing just that.
 

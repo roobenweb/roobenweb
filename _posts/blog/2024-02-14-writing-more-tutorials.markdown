@@ -3,14 +3,15 @@ layout: post
 title:  "Writing & More Writing, Getting Your Website On Google"
 permalink: /blog/writing-more-content-how-to-get-website-on-google/
 date: 2024-02-14
-last_modified_at: 2024-02-20
+last_modified_at: 2024-02-24
 categories: blog post
+image: /assets/img/mobile-friendly.png
 --- 
 
-A new day means a new opportunities. Today I'm trying to focus on creating more ad style content for my website. I've written a few blog posts.
+A new day means new opportunities. Today I'm trying to focus on making more local content for my website. 
 
 ## Creating some copy for local Search Engine Optimization
-Earlier this week I had written some local copy for seo that I'm doing for my website.  Today I ended up adding more content to the page to improve it's ranking.  Overall I added a couple hundred words and restructured the writing. Check it out here, <a href="/brea-california/get-website-$199/" target="_blank"> Get a Website in Brea for Just $199</a>.
+Earlier this week I had written some local content for my website. Today I ended up adding more content to the page to improve it's ranking.  Overall I added a couple hundred words and restructured the writing. Check it out here, <a href="/brea-california/get-website-$199/" target="_blank"> Get a Website in Brea for Just $199</a>.
 
 After writing that tutorial I soon realized I was going to have to create some new layouts and pages for these tutorials and section them off somewhere.  This whole thing has my mind working overtime and now I'm thinking of all the new tutorials I'm going to be writing about.
 

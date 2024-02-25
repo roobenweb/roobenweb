@@ -4,6 +4,8 @@ title:  "Making Free Web Design Resources & Building Out My Website in Public"
 permalink: /blog/making-free-design-resources-figma/
 date:   2024-02-07
 categories: blog post
+image: /assets/img/mobile-friendly.png
+
 ---
 
 This week I've been working a lot on new website designs. 

@@ -1,0 +1,19 @@
+.blog-page {
+    
+    @media (min-width: 768px) {
+        display: flex;
+    }    
+
+    .blog-page-post {
+        width: 100%;
+        @media (min-width: 500px) {
+            width: 400px;
+        }    
+
+        a {
+            font-weight: 600;
+            font-size: 1.25em;
+            text-decoration: none;
+        }
+    }
+}
