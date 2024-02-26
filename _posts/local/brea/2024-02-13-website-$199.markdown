@@ -14,7 +14,7 @@ Building website requires a lot of time and patience but when they start to work
 ## What It Cost To Make A Basic Website
 Starting a basic website can cost you a little more than you'd expect. Theirs a lot of factors that determine the total price of setting one up. Below you'll find a general estimates of some of the tools you'll need in order to make one.
 
-**Domain: $7 - $100 /Year**. Every website needs a domain. Your domain name is basically your websites address. In order for your website to look more legitime you'll need a domain.
+**Domain: $7 - $100 /Year**. Every website needs a domain. Your domain name is your websites address and how people can easily access your site. Domains are also important if you want your website to have appear more legitimate.
 
 **Server Space: $5 - $20 /Month**. A Month Server space is the space on your computer where you'll be able to upload your website so that it can be accessible to everyone online. Server space ca
 

@@ -3,14 +3,15 @@ layout: post
 title:  "Improving My Website Design, Making Free Figma Resources"
 permalink: /blog/improving-website-design-making-free-web-design-resources/
 date: 2024-02-14
+last_modified_at: 2024-02-25
 categories: blog post
 image: /assets/img/mobile-friendly.png
-
 ---
-Something I'm trying to improve on is writing more. In the past I've worked on so many projects and websites but I never end up writing or posting about them because I never really saw the point. Now that I'm getting a little more serious about web design I've started doing just that.
+
+Something I'm trying to improve on as a person who makes websites and web application is writing more about them. In the past I've created a decent amount of website but I never end up writing about them because I never got the point. Now that I'm getting a little more serious about web design I've started realizing the benefit of blogging about them. .
 
 ## Improving My Websites Design
-One of the things I'm currently working on is improving the way my websites design.
+One of the things I'm currently working on is improving the way my websites looks.
 
 My site started out pretty basic and now it's looking better and everyday. Now that I mention it I'm probably going to start taking screenshots every other day to post them here to give better updates so stick around if you want to see that. 
 

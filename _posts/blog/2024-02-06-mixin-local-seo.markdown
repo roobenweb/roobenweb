@@ -3,21 +3,19 @@ layout: post
 title:  "Making My Website More Mobile Friendly & Doing More Local SEO"
 permalink: /blog/making-website-mobile-friendly-more-local-seo/
 date:   2024-02-08
-last_modified_at: 2024-02-20
+last_modified_at: 2024-02-25
 categories: blog post
 image: /assets/img/mobile-friendly.png
 ---
 
-![image-title-here](\assets\img\mobile-friendly.png){:class="img-responsive"}
+![Responsive Website Design](\assets\img\mobile-friendly.png){:class="img-responsive"}
 
 Today I worked on making my website more mobile friendly. 
 
 One of the things that I've neglected while writing content and building out the structure for my website is its design.
 
-So far I've sprinkled a few media queries to make the my home and blog
-pages fit in to mobile devices but eventually I'll go back and write a
-@mixin to clean up the code in my SCSS/CSS file.
+So far I've written more media queries so that elements resize properly and fit inside of the browser on different types of devices. Later on when I have some time I'll go back and implement a few mixins to clean up the SCSS so that it doesn't become a problem in the future.
 
-Another one of my goals today is to write more local SEO content for my web design services.
+Another task I'm also focusing on is writing more local content for my website. One of the fundamentals lesson about search engines optimization that I've learned is that if you don't have the keywords you want your website to rank for then don't be surprised when they don't. 
 
-My goal is try to cover as many relevant keywords as possible. I've noticed that a lot of the keywords I'm aiming to rank for are pretty easy to compete with.
+My goal is to add some pages with keywords that are relevant to the La Habra, California area so that I can work with more people around me. Before I start writing I usually take the time to look up the keyword I'm aiming to rank for so that I can analyze the competition to see what I'm up against. In this case I'm up against a lot of content that's been copied and pasted.
