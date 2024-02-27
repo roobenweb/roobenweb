@@ -14,9 +14,7 @@ img: \assets\img\figma\wordpress-website-pricing-table-figma-template.png
 <a style="color:#fff;background:#161515;"
 class="button" href="https://www.figma.com/community/file/1292240575217001327/wordpress-website-pricing-table" target="_blank">Click To Duplicate</a>
 
-This is a WordPress pricing table design that I made to advertise WordPress website services on my website.
-
-One of the reasons I made this pricing table design was to help people that are interested in investing in a website visualize these types of services as an off the shelf product.
+This is a WordPress pricing table design that I made to advertise WordPress website services on my website. One of the reasons I made this pricing table design was to help people that are interested in investing in a website visualize web services as an off the shelf product rather then try to explain.
 
 What I've noticed as a website designer is that their is a lot of people out there who want a website but don't really know how to go about it. Even with  website builders and other similar tools theirs a learning curve that not everyone is ready to take on. 
 

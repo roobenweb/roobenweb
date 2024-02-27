@@ -10,7 +10,6 @@
         
         .block {            
             margin: 0 auto;
-            height: 400px;
             width: 400px;
 
             @media (min-width: 768px) {
@@ -23,7 +22,6 @@
 
             .figma-image {
                 object-fit: cover;
-                height: 320px;
 
                 img {
                     width: 100%;
@@ -36,12 +34,6 @@
                 font-size: 1.25em;
             }
         }
-    }
-}
-
-.figma-layout {
-    header {
-        margin-top: 2em;
     }
 }
 

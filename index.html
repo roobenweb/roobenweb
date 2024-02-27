@@ -52,16 +52,4 @@ layout: default
         </div>
     </div>
 
-    <div class="figma-section fixed-width">
-        <h2>Figma Templates</h2>
-        <p>One way I enjoy helping others is by designing websites like these in a program called "Figma" and offering them for free so that other designers can learn from them.</p>
-        <div class="home-figma-templates">
-            {% for post in site.posts %} 
-            {% if post.categories contains "figma" %}
-                <a href="{{post.url}}">{{ post.h-title }} </a><br>
-            {% endif %}
-            {% endfor %}
-        </div>
-    </div>
-
 </div>

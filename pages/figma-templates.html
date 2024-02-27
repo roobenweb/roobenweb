@@ -3,28 +3,29 @@ layout: default
 title: Figma Templates - Free Figma Design Resources
 permalink: /figma-templates/
 ---
-<div class="max-width figma-templates-page">
+
+<div class="container figma-templates-page">
     <h1 class="figma-template-title">Figma Template</h1>
-    <p>These are websites designs I've made in Figma. Feel Free to 
-        duplicate them.  Hopefully they help you in your journey 
+    <p>These are website designs I've made in Figma. Feel Free to 
+        duplicate them.  Hopefully they help you in your 
         website design journey!
     </p>
+    
+</div>
 
-
-    <div class="figma-templates">
-        <ul class="border">
-            {% for post in site.posts %} 
-                {% if post.categories contains "figma" %}
-                    <div class="block border">
-                        <a href="{{post.url}}">
-                            <div class="figma-image">
-                                <img src="{{post.img}}" alt="">
-                            </div>
-                        </a>
-                        <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
-                    </div>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
+<div class="max-width figma-templates">
+    <ul class="">
+        {% for post in site.posts %} 
+            {% if post.categories contains "figma" %}
+                <div class="block ">
+                    <a href="{{post.url}}">
+                        <div class="figma-image">
+                            <img src="{{post.img}}" alt="">
+                        </div>
+                    </a>
+                    <a href="{{post.url}}"><li>{{ post.title }}</li> </a>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </ul>
 </div>
