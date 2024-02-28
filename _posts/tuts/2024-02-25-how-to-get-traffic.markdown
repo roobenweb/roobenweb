@@ -13,7 +13,7 @@ Creating a website for your business or yourself is one of the easier parts of s
 
 A lot of people also think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.
 
-You're probalbly woundering if having a webiste is not enough to get some web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I've stated a
+You're probably wondering if having a website is not enough to get some web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I've stated a
 
 ## Offer Free Resources
 One of the easiest way you can get people to come and visit your website is by offering free resources. A resource can be just about anything. It can range from a guide to a course to tools or like me free website design resources. 
@@ -22,7 +22,7 @@ One of the easiest way you can get people to come and visit your website is by o
 Advertising yourself on social media platforms like Facebook, Instagram, and TikTok is one of the easiest way to get people to come and visit your website. dd
 
 ## Write More Content
-One of the most effective ways to get peple to your website is by creating content. Creating content and submitting it to Google will help your website appear more frequently in the search engines potentially 
+One of the most effective ways to get people to your website is by creating content. Creating content and submitting it to Google will help your website appear more frequently in the search engines potentially 
 
 
 
