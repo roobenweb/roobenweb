@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: 0-brea
 title:  "Get A Website in Brea, California for just $199"
 permalink: /brea-california/get-website-$199/
 date:   2024-02-12
 last_modified_at: 2024-02-24
 categories: brea
+city: Brea
 ---
 
 Are you looking for an inexpensive website solution in the Brea, California area. Hello, my name is Ruben and I've been designing and building websites for a few years & I can help.

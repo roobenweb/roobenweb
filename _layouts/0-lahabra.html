@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container local">
+
+  <!-- Header -->
+  <div class="first">
+    <header>
+      <h1>{{ page.title | escape }}</h1>
+    </header>
+
+    <!-- Content -->
+    {{ content }}
+
+  </div>
+
+  <div class="second">
+    <h3>Other {{page.city}} California Services</h3>
+      {% for post in site.posts %} 
+        {% if post.categories contains "La-Habra" %}
+          <a href="{{post.url}}">{{ post.title }}</a> <br>
+        {% endif %}
+      {% endfor %}
+  </div>
+  
+</div>

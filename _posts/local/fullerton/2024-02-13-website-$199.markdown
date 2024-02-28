@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-fullerton
 title:  "Get A Website in Fullerton, CA for $199"
 permalink: /fullerton-california/get-website-for-$199/
 date:   2024-02-12

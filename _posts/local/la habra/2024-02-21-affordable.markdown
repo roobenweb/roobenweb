@@ -1,5 +1,5 @@
 ---
-layout: local
+layout: 0-lahabra
 title:  "Affordable Website Designer La Habra, California"
 permalink: /la-habra-california/affordable-website-designer/
 date:   2024-02-21

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-whittier
 title:  "Whittier, California Website Design"
 permalink: /whittier-california/website-design/
 date:   2024-02-16

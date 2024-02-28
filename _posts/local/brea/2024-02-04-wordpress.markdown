@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: 0-brea
 title:  "Brea, California WordPress Design"
 permalink: /brea-california/wordpress-design/
 date:   2024-02-07
 categories: brea
+city: Brea
+
 ---
 
 WordPress is an amazing tool that can help you achieve a lot.

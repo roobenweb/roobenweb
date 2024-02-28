@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: 0-brea
 title:  "Affordable Website Design Brea, California"
 permalink: /brea-california/affordable-website-design/
 date:   2024-02-12
 categories: brea
+city: Brea
+
 ---
 
 Are you looking for an affordable website solution in the Brea, California area?  

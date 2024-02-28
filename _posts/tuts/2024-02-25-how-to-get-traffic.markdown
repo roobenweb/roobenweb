@@ -18,7 +18,7 @@ Below I've provided just a few way you can get people to come and visit you're s
 One of the easiest way you can get people to come and visit your website is by offering free things. Whether it's a guide 
 
 ## Advertise Yourself on Social Media
-Advertising yourself on social media platforms like Facebook, Instagram, and TikTok is one of the easiest way to get people to come and visit your website. 
+Advertising yourself on social media platforms like Facebook, Instagram, and TikTok is one of the easiest way to get people to come and visit your website. dd
 
 
 

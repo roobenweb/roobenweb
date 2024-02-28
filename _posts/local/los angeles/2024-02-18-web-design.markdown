@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-losangeles
 title:  "Website Design in Los Angeles, California"
 permalink: /los-angeles-california/website-design/
 date:   2024-02-18

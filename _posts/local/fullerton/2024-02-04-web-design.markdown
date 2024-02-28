@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-fullerton
 title:  "Fullerton, California Website Design"
 permalink: /fullerton-california/website-design/
 date:   2024-02-16

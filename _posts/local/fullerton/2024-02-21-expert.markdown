@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-fullerton
 title:  "Expert Website Designer in Fullerton, California"
 permalink: /fullerton-california/expert-website-designer/
 date:   2024-02-21

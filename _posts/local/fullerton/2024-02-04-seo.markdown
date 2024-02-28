@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-fullerton
 title:  "Search Engine Optimization in Fullerton, California"
 permalink: /fullerton-california/search-engine-optimization/
 date:   2024-02-19

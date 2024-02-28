@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 0-fullerton
 title:  "Affordable Website Designer in Fullerton, California"
 permalink: /fullerton-california/affordable-website-designer/
 date:   2024-02-21
