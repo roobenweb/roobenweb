@@ -1,6 +1,6 @@
 ---
 layout: figma
-title:  "Online Shoe Shop Website"
+title:  "Online Shoe Shop Website Design - Figma Template"
 h-title: Nike/Jordan Shoe Ecommerce Website
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
 date:   2024-02-17
@@ -27,7 +27,6 @@ One of my favorite features on this design is the color pallet in the top left c
 An improvement I'd like to add in the future is to lengthen the color pallet bar and break it up based on the percentage of each color on the shoe. If the shoe has a black base then half the bar would be black and if the shoe has small amounts of colors or highlights then only about a fifth of the bar would be colored in.
 
 If you'd like some help making a websites that looks similar to the one above please feel free to send me an email or give me a call!
-
 
 Keywords: Nike, Michael Jordan, Jordans, Online Store, Website Design, Free Figma Template, Air Jordan
 
