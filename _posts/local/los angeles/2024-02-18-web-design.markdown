@@ -5,6 +5,7 @@ permalink: /los-angeles-california/website-design/
 date:   2024-02-18
 last_modified_at: 2024-02-20
 categories: los-angeles
+city: Los Angeles
 ---
 Hello, my name is Ruben and I'm a website designer in the Los Aneles, California area.
 

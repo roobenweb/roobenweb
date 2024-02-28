@@ -4,6 +4,7 @@ title:  "Search Engine Optimization in Fullerton, California"
 permalink: /fullerton-california/search-engine-optimization/
 date:   2024-02-19
 categories: fullerton
+city: Fullerton
 ---
 
 Is your website not getting any visitors? Have you considered optimizing it for search engines so that it can be found by people in the Fullerton, California area?

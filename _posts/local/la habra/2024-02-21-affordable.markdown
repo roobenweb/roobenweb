@@ -4,6 +4,7 @@ title:  "Affordable Website Designer La Habra, California"
 permalink: /la-habra-california/affordable-website-designer/
 date:   2024-02-21
 categories: La-Habra
+city: La Habra
 ---
 
 Are you looking for affordable website design services in the La Habra, California area? I can help.

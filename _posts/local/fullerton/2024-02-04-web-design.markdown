@@ -4,6 +4,7 @@ title:  "Fullerton, California Website Design"
 permalink: /fullerton-california/website-design/
 date:   2024-02-16
 categories: fullerton
+city: Fullerton
 ---
 
 Hello, my name is Ruben and I'm a website designer in the Fullerton, California area.

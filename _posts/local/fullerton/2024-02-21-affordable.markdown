@@ -5,6 +5,8 @@ permalink: /fullerton-california/affordable-website-designer/
 date:   2024-02-21
 last_modified_at: 2024-02-27
 categories: fullerton
+city: Fullerton
+
 ---
 
 Are you looking for an Affordable Website Designer in the Fullerton, California area?
