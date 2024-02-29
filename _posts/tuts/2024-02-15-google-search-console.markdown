@@ -7,10 +7,12 @@ last_modified_at: 2024-02-27
 categories: tutorial
 ---
 ![Responsive Website Design](\assets\img\how-to-get-your-website-listed-in-google.png){:class="img-responsive"}
+
 To get your website listed in Google search results as soon as possible you're going to want sign up for Google Search Console program. Once you've set up your Google Search Console Account you'll be able to request crawl request to Google. Requesting a crawl request will notify Google that your website exist or that you've added new content and that it should be scanned so that it can potentially be listed in their search results.
 
 If you're starting your online marketing efforts with SEO all of this may sound a little confusing so I'll try my best to explain what some of these words mean and how the process works so that you can immediately begin to take action.
 
+![Responsive Website Design](\assets\img\what-is-google-search-console.png){:class="img-responsive"}
 ## What is Google Search Console?
 <a href="https://search.google.com/search-console/" target="_blank">**Google Search Console**</a> - Is a program that Google created for website owners so that they can see data about how their website and webpages are doing within Google's search results. Google Search Console can help you analyze and keep track of a lot of useful information that can help you create better content so that you can get more web traffic to your website. Some important information Google Search Console let's you see are things like the search queries your website is appearing for, the position it pops up in, if your pages are even in the search results, and so much more. Google Search Console is vital part of any SEO campaigns and familiarizing yourself with it should a priority if you want your website to rank up their in the search result.
 
