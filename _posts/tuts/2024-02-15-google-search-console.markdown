@@ -10,7 +10,7 @@ categories: tutorial
 
 To get your website listed in Google search results as soon as possible you're going to want sign up for Google's Search Console program. Once you've set a Google Search Console Account you'll be able to submit crawl request to Google. Requesting a crawl from Google will notify them that your website exist or that you've added new content to an existing page.
 
-If you're starting your online marketing efforts all of this may sound a little confusing to you. Below I've explained a little bit about these words mean and how they you can start to take action now.
+If you're starting your online marketing efforts all of this may sound a little confusing to you. Below I've explained a little bit about what these words mean and how you can start taking action today.
 
 ![Responsive Website Design](\assets\img\what-is-google-search-console.png){:class="img-responsive"}
 ## What is Google Search Console?
