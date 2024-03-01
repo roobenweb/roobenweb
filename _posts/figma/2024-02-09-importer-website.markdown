@@ -1,9 +1,9 @@
 ---
 layout: figma
-title:  "Car Importing Website Mobile Website Design - Free Figma Template"
-h-title: Car Importing Website Mobile Website Design - Free Figma Template
+title:  "Car Importing Business Mobile Website Design - Free Figma Template"
+h-title: Car Importing Business Mobile Website Design
 permalink: /figma-templates/car-honda-importer-mobile-website-design/
-date:   2024-02-17
+date:   2024-03-01
 categories: figma post
 img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 ---
@@ -12,12 +12,6 @@ img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 
 <a style="color:#000;background:#E8E8E8;" class="button" href="https://www.figma.com/community/file/1337950136571991121/car-importing-mobile-website-design" target="_blank">Click To Duplicate</a>
 
-
-![car importing business website](\assets\img\figma\car-importer\car-importer-logo.jpg){:class="img-responsive"}
-
-![car importing business website](\assets\img\figma\car-importer\car-importer-website-specification.jpg){:class="img-responsive"}
-
-![car importing business website](\assets\img\figma\car-importer\car-importer-application-kei-truck-honda.jpg){:class="img-responsive"}
 
 This is a mobile website design for a car importing/importer business.
 
