@@ -22,6 +22,6 @@ The reason I decided to engage with the scammer was because I was burnt out! I h
 
 My advice to you is that if it seems to good to be true it probably is. I normally don't like to judge people that hard but if the fact that you're emailing a person who has an American sounding name but has a hard time formulating cohesive English sentences doesn't raise a red flag, then I don't know what to tell you. Another thing to keep in mind is revisions. I understand that not all design clients are super picky but if you don't get asked to make at least a couple edits to your work and everything is appearing to go smooth it's probably time to start asking some hard questions.
 
-The more information I exchanged with this person the funnier the situation became. At some point the whole story and reason for the work was just too funny not laugh. 
+The more information I exchanged with this person the funnier the situation became. At some point the whole story and reason for the work was just too funny not laugh.
 
 Keywords: Birthday Invitation Card, Ceremony Invite, Tree, Leaves, Wood Textures

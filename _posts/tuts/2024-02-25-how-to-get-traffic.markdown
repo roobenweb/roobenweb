@@ -6,9 +6,6 @@ date:   2024-02-25
 categories: tutorial
 ---
 
-
-![Responsive Website Design](\assets\img\mobile-friendly.png){:class="img-responsive"}
-
 Creating a website for your business or yourself is one of the easier parts of starting your online marketing campaign. I know that may sound a little rough but keep reading I want to help so I'll explain.I'm not going to completely knock on website designer because I am one and the truth is that making a good looking website is actually really hard and takes some time. It requires a lot of knowledge about web design trends and the tools to make them. 
 
 A lot of people also think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.

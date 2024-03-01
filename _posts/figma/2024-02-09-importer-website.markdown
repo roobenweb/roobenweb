@@ -21,9 +21,9 @@ img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 
 This is a mobile website design for a car importing/importer business.
 
-Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light Automobile' in Japanese.
+Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light' in Japanese.
 
-Kei cars specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
+Kei cars and more specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
 
 Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
 
