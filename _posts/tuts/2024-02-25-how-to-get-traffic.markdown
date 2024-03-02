@@ -2,13 +2,13 @@
 layout: tutorial
 title:  "How To Get Traffic To Your Website"
 permalink: /tutorials/websites/how-to-get-traffic-to-your-website/
-date:   2024-02-25
+date:   2024-03-02
 categories: tutorial
 ---
 
-Creating a website for your business or yourself is one of the easier parts of starting your online marketing campaign. I know that may sound a little rough but keep reading I want to help so I'll explain.I'm not going to completely knock on website designer because I am one and the truth is that making a good looking website is actually really hard and takes some time. It requires a lot of knowledge about web design trends and the tools to make them. 
+Creating a website is probably the easier part of starting your online marketing campaign. I know that may sound a little rough to hear but keep reading I'll explain. The reasons I'm saying this is because their's a lot of people that think that just by having a website that it's enough to start getting sales and leads. While that may have been true a few decades ago when their was less people and websites online that's certainly not the case anymore.
 
-A lot of people also think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.
+The reasons I say this is because theirs lot of people that think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.
 
 You're probably wondering if having a website is not enough to get some web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I've stated a
 

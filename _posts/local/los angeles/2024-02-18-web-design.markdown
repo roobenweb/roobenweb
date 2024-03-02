@@ -12,10 +12,10 @@ Hello, my name is Ruben and I'm a website designer in the Los Aneles, California
 I've been building and designing websites for the better part of a decade and I'd like to help you with yours.
 
 ## Some of the Web Services I Provide in the Los Angeles, California Area.
-Below you'll find some of the way in which I can help you. If nothing below addresses your issue then reach out, I wouldn't mind hearing about your problem and could even point you in the right direction.
+Below you'll find some of the way in which I assist you. If nothing below addresses your issue then reach out, I wouldn't mind hearing about your problem and could even point you in the right direction.
 
 ### Website Redesigns in Los Angeles, California
-A lot of the time when you invest in your first website you end up with something that's not quite what you expected. Various factors can affect the way your website turns out. Things like the platform your website was built on, the tools used to make it, and your designers experience can affect how your website ends up looking. If you're ready to redesign you're website and give it a one of a kind look then we should talk.
+A lot of the time when you invest in your first website you end up with something that's not quite what you expected. Things like the platform your website was built on, the tools used to make it, and your designers experience will affect how your website ends up looking. If you're ready to redesign you're website and give it a one of a kind look then we should talk.
 
 **Limits Of Website Builders** - Website builders like Wix and WordPress are convenient tools that are able to help users build websites quickly. Their pre made themes and templates are able to bypass the whole design process so that you can start marketing you're products, services, and ideas. The problem with these tools is their ability to customize websites only goes so far. The reason for this is because the developers who make them know that they're going to be used by a lot of people so they try to make them as easy as possible to use. These limitations end up creating a lot of websites that end up looking the same. 
 

@@ -1,19 +1,32 @@
+.blog-header {
+    margin-bottom: 100px !important;
+}
+
 .blog-page {
     
-    @media (min-width: 768px) {
+    @media (min-width: 768px){
         display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
     }    
 
     .blog-page-post {
         width: 100%;
-        @media (min-width: 500px) {
-            width: 400px;
+        margin-bottom: 20px;
+        
+        @media (min-width: 768px){
+            width: 45%;
         }    
 
         a {
             font-weight: 600;
-            font-size: 1.25em;
+            font-size: 1.5em;
             text-decoration: none;
+            margin-bottom: 20px;
+        }
+
+        p {
+            margin-top: 10px;;
         }
     }
 }

@@ -9,10 +9,10 @@ image: /assets/img/mobile-friendly.png
 ---
 Recently I've been working on a few things to get the ball rolling on my website. 
 
-One of those things I'm doing is creating web design resources with a web based design program called Figma. I then take those design resources and publish them for free. I do this for a few reasons. The first reason is so that I can direct some web traffic to my website. The second reason is so that I can get some bank links from more reputable website to boost my pages search engine rankings. The final and most important reasons is because I know how difficult it can be to make websites from scratch. In the past I've sat there for hours trying to figure out why my website designs didn't look like the ones I saw on Behance and Dribbble. After downloading some free templates and tinkering with them for a while I saw my design skills improve. 
+One of those things I'm doing is creating web design resources with a program called Figma. After I create a design I publish it for free in the Figma community. I do this for a few reasons. The first reason is so that I can direct some web traffic to my website. The second reason is so that I can get start building some bank links from more reputable website to boost my website in the search engines. The final and most important reasons is because understand how difficult it can be to make websites from scratch. In the past I've sat there for hours trying to figure out why my website designs didn't look like the ones I saw on Behance and Dribbble. After downloading some free templates and tinkering with them for a while I saw my design skills improve. 
 
-So far making these free design resources has been working pretty well. I've only been at it for about three weeks and so far I've received a ton a views and out of all those about a thousand  designers have downloaded or 'duplicated' my work.
+So far making these free design resources has been working pretty well. I've only been at it for about three weeks and so far I've received a ton a views and out of all those about a thousand designers have downloaded or 'duplicated' my work.
 
-Here is the design that I finished Today.
+Below is the design I made today, check it out here: <a href="/figma-templates/nike-jordan-shoe-ecommerce-website/" target="_blank">Online Shoe Store Website Design</a>.
 
 ![image-title-here](\assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg){:class="img-responsive"}
