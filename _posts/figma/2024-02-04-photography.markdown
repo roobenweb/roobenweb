@@ -1,7 +1,7 @@
 ---
 layout: figma
 title:  "Photography Website Design - Figma Template"
-h-title: Photography Website
+h-title: Photography Website Design
 permalink: /figma-templates/photography-website-design/
 date:   2024-02-08
 last_modified_at: 2024-02-24

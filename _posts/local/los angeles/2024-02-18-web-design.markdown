@@ -9,20 +9,20 @@ city: Los Angeles
 ---
 Hello, my name is Ruben and I'm a website designer in the Los Aneles, California area.
 
-Do you need someone to work on your website? I can help!
-
-I've been building and designing websites for the better part of a decade. I like helping people solve problem using web.
+I've been building and designing websites for the better part of a decade and I'd like to help you with yours.
 
 ## Some of the Web Services I Provide in the Los Angeles, California Area.
-Below you'll find some of the way in which I can help you. If nothing below covers your issue then don't hesitate to reach out, I wouldn't mind hearing about it and could even point you in the right direction.
+Below you'll find some of the way in which I can help you. If nothing below addresses your issue then reach out, I wouldn't mind hearing about your problem and could even point you in the right direction.
 
 ### Website Redesigns in Los Angeles, California
-A lot of the time when you invest in a website you end up with something that's not quite what you expected. Things like the platform your website was built on, the tools used to make it, and lack of experience from your designer could be reasons why you're not satisfied with the way your website looks. If you're ready to redesign you're website and give it a one of a kind look then we should talk.
+A lot of the time when you invest in your first website you end up with something that's not quite what you expected. Various factors can affect the way your website turns out. Things like the platform your website was built on, the tools used to make it, and your designers experience can affect how your website ends up looking. If you're ready to redesign you're website and give it a one of a kind look then we should talk.
 
-**Limits Of Website Builders** - Website builders like Wix and WordPress are convenient tools that are able to help their users build websites quickly. The problem with these tools is that their ability to customize only goes so far. The developers who make them know that they're going to be used by a lot of people so they try to make them as easy as possible to use. What this ends up causing is for a lot of websites to look and behave the same. Your websites design may not be as important for you when you're first starting off but it can hinder your progress in the future. The reason for this is because it's pretty well documented that good website design establishes trust with its visitors. In order for you to get as much as you can from yours it's imperative that at some point you invest a bit of money and time into it's appearance. I'll help you turn those basic templates into something that's more tailored to your mission and goals.
+**Limits Of Website Builders** - Website builders like Wix and WordPress are convenient tools that are able to help users build websites quickly. Their pre made themes and templates are able to bypass the whole design process so that you can start marketing you're products, services, and ideas. The problem with these tools is their ability to customize websites only goes so far. The reason for this is because the developers who make them know that they're going to be used by a lot of people so they try to make them as easy as possible to use. These limitations end up creating a lot of websites that end up looking the same. 
+
+Your websites design may not be as important for you when you're first starting off but it can hinder your progress in the future. The reason for this is because it's pretty well documented that good website design establishes trust with its visitors. In order for you to get as much as you can from yours it's imperative that at some point you invest a bit of money and time into it's appearance. I'll help you turn those basic templates into something that's more tailored to your mission and goals.
 
 ### Starting Your First Website
-Are you looking to build your first website? Let's start today! Their are a lot of benefits to having a website. A website can help you network and exhibit your talent and skills to the world. If your interested in creating a website for yourself or your business I can help.  The process of making a website can seem daunting and stressful especially with your current goals and missions. The good news is is that with your input and my web design knowledge we can craft a one of a kind website that best represent you and helps you further along your goals without distracting you. 
+Are you looking to build your first website? Let's start today! Their's a lot of benefits to having a website. A website can help you network and exhibit your talent and skills to the world. If your interested in creating a website for yourself or your business I can help.  The process of making a website can seem daunting and stressful especially with your current goals and missions. The good news is is that with your input and my web design knowledge we can craft a one of a kind website that best represent you and helps you further along your goals without distracting you. 
 
 ### Add Functionality to Your Los Angles Website
 A website should do more than just look good, it should also help things easier. Theirs a lot of of benefits you can get from adding simple functionality to your website, can make tasks easier, free up resources, and convert visitors into customers. Some of the features I can add to your website that will improve it's effectiveness are tools like contact forms, user profiles, online store, and analytics tools. If your curious about adding function to your website we should talk.
@@ -39,7 +39,7 @@ Having sufficient and helpful content on your website is vital for its success. 
 If you want to take a hands on approach to building your website then learning the basics is essential. When you see success so do I which is why I offer this service for Free.  I'll help you understand fundamental concepts and tools that will translate to useful skills in the real world. These skills will help you start a business and find new opportunities.
 
 ## Having A Website Is Important For Your Whitter, Business, Here's Why
-Your website is the first impression people get from you so it's important that your website exhbits you well.  
+Your website is the first impression people get from you so it's important that your website exhibits you well.  
 
 ### My Goals As A Website Designer in the Los Angeles, California Area.
 When I began my journey to become a website designer all I really wanted to do was to make money using my interest in technology. Now that I've gotten a bit older I've come to understand a little more about the world and how I want to make it better. One thing I've noticed is that theirs a lot of people around me that don't understand how beneficial these communication tools can be. My goal is to help more people around me get online so that they can find new opportunities.

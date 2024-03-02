@@ -4,8 +4,8 @@ title: Figma Templates - Free Figma Design Resources
 permalink: /figma-templates/
 ---
 
-<div class="container figma-templates-page">
-    <h1 class="figma-template-title">Figma Template</h1>
+<div class="top-container figma-templates-page">
+    <h1 class="figma-template-title">Figma Templates</h1>
     <p>These are website designs I've made in Figma. Feel Free to 
         duplicate them.  Hopefully they help you in your 
         website design journey!
@@ -13,8 +13,8 @@ permalink: /figma-templates/
     
 </div>
 
-<div class="max-width figma-templates">
-    <ul class="">
+<div class="container figma-templates">
+    <ul>
         {% for post in site.posts %} 
             {% if post.categories contains "figma" %}
                 <div class="block ">
@@ -23,7 +23,7 @@ permalink: /figma-templates/
                             <img src="{{post.img}}" alt="">
                         </div>
                     </a>
-                    <a href="{{post.url}}"><li>{{ post.h-title }}</li> </a>
+                    <a href="{{post.url}}"><li><h2>{{ post.h-title }}</h2></li> </a>
                 </div>
             {% endif %}
         {% endfor %}

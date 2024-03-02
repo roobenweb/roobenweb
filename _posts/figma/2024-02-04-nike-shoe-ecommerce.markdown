@@ -1,7 +1,7 @@
 ---
 layout: figma
 title:  "Online Shoe Shop Website Design - Figma Template"
-h-title: Nike/Jordan Shoe Ecommerce Website
+h-title: Online Shoe Shop Website Design
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
 date:   2024-02-17
 last_modified_at: 2024-02-24

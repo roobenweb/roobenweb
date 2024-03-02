@@ -8,10 +8,10 @@ categories: blog post
 image: /assets/img/mobile-friendly.png
 ---
 
-Something I'm trying to improve on as a person who makes websites and web application is writing more about them. In the past I've created a decent amount of website but I never end up writing about them because I never got the point. Now that I'm getting a little more serious about web design I've started realizing the benefit of blogging about them. .
+Something I'm trying to improve on as an online marketer is writing more. In the past I've created a lot of websites & web projects but I never end up posting about them.. Now that I'm getting a little more serious about web design I've started realizing the benefits so here it is.
 
 ## Improving My Websites Design
-One of the things I'm currently working on is improving the way my websites looks.
+The goal for today was to improve my websites design.
 
 My site started out pretty basic and now it's looking better and everyday. Now that I mention it I'm probably going to start taking screenshots every other day to post them here to give better updates so stick around if you want to see that. 
 

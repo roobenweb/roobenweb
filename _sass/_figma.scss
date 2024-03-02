@@ -32,6 +32,13 @@
                 text-decoration: none;
                 font-weight: 500;
                 font-size: 1.25em;
+
+                li {
+                    h2 {
+                        font-size: 1em;
+                        font-weight: 600;
+                    }
+                }
             }
         }
     }
@@ -50,5 +57,13 @@
 .figma-post {
     .img-responsive {
         max-width: 100%;
+    }
+}
+
+.figma-layout {
+    header {
+        span {
+            font-weight: 600;
+        }
     }
 }
