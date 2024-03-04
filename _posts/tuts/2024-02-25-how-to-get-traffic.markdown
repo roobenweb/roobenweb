@@ -16,10 +16,12 @@ You're probably wondering if having a website is not enough to get some web traf
 One of the easiest way you can get people to come and visit your website is by offering free resources. A resource can be just about anything. It can range from a guide to a course to tools or like me free website design resources. 
 
 ## Advertise Yourself on Social Media
-Advertising yourself on social media platforms like Facebook, Instagram, and TikTok is one of the easiest way to get people to come and visit your website. dd
+I believe this one is pretty well known but if you're not familiar I'll explain it a little more in detail. Advertising yourself on social media platforms like Facebook, Instagram, and TikTok is one of the easiest way to get people to come and visit your website. dd
 
 ## Write More Content
 One of the most effective ways to get people to your website is by creating content. Creating content and submitting it to Google will help your website appear more frequently in the search engines potentially 
+
+
 
 
 
