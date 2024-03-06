@@ -1,14 +1,15 @@
 ---
 layout: tutorial
 title:  "How To Get Your Website Listed in Google"
-permalink: /tutorials/search-engine-optimization/how-to-get-your-website-listed-in-google/
+permalink: /websites/tutorials/search-engine-optimization/how-to-get-your-website-listed-in-google/
 date:   2024-02-16
 last_modified_at: 2024-02-27
 categories: tutorial
 ---
+
 ![Responsive Website Design](\assets\img\how-to-get-your-website-listed-in-google.png){:class="img-responsive"}
 
-To get your website listed in Google search results as soon as possible you're going to want sign up for Google's Search Console program. Once you've set a Google Search Console Account you'll be able to submit crawl request to Google. Requesting a crawl from Google will notify them that your website exist or that you've added new content to an existing page.
+To get your website listed in Google search results you're going to want sign up for Google's Search Console program. Once you've set a Google Search Console Account you'll be able to submit crawl request to Google. Requesting a crawl from Google will notify them that your website exist or that you've added new content to an existing page.
 
 If you're starting your online marketing efforts all of this may sound a little confusing to you. Below I've explained a little bit about what these words mean and how you can start taking action today.
 

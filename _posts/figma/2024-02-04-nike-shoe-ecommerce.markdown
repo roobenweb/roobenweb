@@ -11,8 +11,8 @@ img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 
 ![Online Shoe Shop Website Design For Retro Nike Jordans](\assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg){:class="img-responsive"}
 
-<a style="color:#333;background:#ECECEC;"
-class="button" href="https://www.figma.com/community/file/1337258473533309410/nike-jordan-shoe-ecommerce-website-design" target="_blank">Click To Duplicate</a>
+
+<a href="https://payhip.com/b/L0zAK" style="color:#333!important;background:#ECECEC!important;border:0!important;" class="payhip-buy-button" data-product="L0zAK">Click To Download</a>
 
 ![](\assets\img\figma\air-jordan\retro-air-jordan-4.png){:class="img-responsive"}
 
