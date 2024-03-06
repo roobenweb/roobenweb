@@ -10,7 +10,7 @@ img: \assets\img\figma\consturction-company-website-design-cover.png
 
 ![Construction Company Website Design](\assets\img\figma\consturction-company-website-design-cover.png){:class="img-responsive"}
 
-<a style="color:#000;background:#FFE664;" class="button" href="https://www.figma.com/community/file/1345475410982709112/construction-company-website-design" target="_blank">Click To Duplicate</a>
+<a href="https://payhip.com/b/xWrJF" style="color:#000!important;background:#FFE664!important;border:0!important;" class="payhip-buy-button" data-product="xWrJF">Click To Duplicate</a>
 
 
 This is a website design for a Construction company.
