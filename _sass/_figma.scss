@@ -5,25 +5,25 @@
         @media (min-width: 768px) {
             display: flex;
             flex-wrap: wrap;
+            flex-direction: row;
             justify-content: space-between;
+            
         }
         
         .block {            
-            margin: 0 auto;
+            
 
             @media (min-width: 768px) {
                 width: 50%;
+                margin: 10px 0;
             }
 
-            @media (min-width: 1100px) {
-                width: 30%;
-            }
 
             .figma-image {
               
                 img {
                   
-                    width: 100%;
+                    width: 90%;
                     height: 100%;
                     object-fit: cover;
                     overflow: hidden;
@@ -51,9 +51,6 @@
 .figma-templates-page {
     padding: 40px;
 
-    h1 {
-        font-weight: 600;
-    }
 }
 
 // Figma Posts - 

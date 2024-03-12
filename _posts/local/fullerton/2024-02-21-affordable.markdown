@@ -14,7 +14,7 @@ Are you looking for an Affordable Website Designer in the Fullerton, California 
 
 Finding someone who can build and manage your website for a low cost doesn't even seem plausible. Generally speaking you have to pay someone or an agency thousands of dollars to get a premium looking website along with friendly customer service. While that's generally true I'm here to tell is is that is not the case when you work with me. Hello, my name is Ruben! I've been building website and optimizing them for the search engine for a few years and I'd like to help you.
 
-## What You Get With Me That You Won't Get From An Agency or Another Low Cost Web Designer
+## What You Get With Me That You Won't Get From An Agency or Another Low Cost Web Designer in The Fullerton, California Area
 Websites and the technology surrounding them can be a bit confusing and hard to wrap your head around. For this reasons one of my biggest focuses as a website designer is to make sure that the people I work with understand how these modern communication technologies work so that they can progress in their goals. When you work with me you'll get a custom website solution along with attentive services that answer any question or concern you have.
 
 ## Website Building Tools Make Website They Won't Get You Traffic Or Teach You How

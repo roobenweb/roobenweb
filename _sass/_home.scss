@@ -77,25 +77,17 @@
     .blog {
         .blog-title {
             h2 {
-                font-size: 2.25em;
-                font-weight: 600;
+                font-size: 2.5em;
+                font-weight: 700;
             }
         }
  
         .blog-section {
             
-            @media (min-width: 500px) {
-                display: flex;
-                flex-direction: row;
-                justify-content: space-between;
-                flex-wrap: wrap;
-            }
-            
-            
             .blog-post-container {
 
                 @media (min-width: 500px) {
-                    width: 30%;
+                    width: 50%;
                 }
                 
 
@@ -112,14 +104,14 @@
                         text-decoration: none;
     
                         h3 {
-                            font-size: 1.125em;
-                            font-weight: 600;
+                            font-size: 1.75em !important;
+                            line-height: 150%;
                             max-width: 380px;
                         }
                     }
     
                     p {
-                        font-size: .875em;
+                        font-size: 1.125em;
                         max-width: 380px;
                     }
                 }

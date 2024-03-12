@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ruben Gutierrez | Website Desing & Development
+title: Ruben Gutierrez - Website Design & Development
 ---
 
 <div class="home-page">
@@ -10,7 +10,7 @@ title: Ruben Gutierrez | Website Desing & Development
         <div class="hero-information">
             <div class="hero-left">
                 <h1 class="">Website <br><strong>Designer</strong></h1>
-                <a href="/contact/">
+                <a href="/about/">
                     <button role="link">
                         <span>Let's Talk!</span>
                         <span><img src="assets/img/arrow.png" alt=""></span>
@@ -20,11 +20,7 @@ title: Ruben Gutierrez | Website Desing & Development
         
 
             <div class="hero-description">
-                <p>Hello, my name is <strong>Ruben Gutierrez</strong> & I am a website designer in La Habra, California. My interest in technology began when I received my first computer at 8 years old and has steadily progressed to where I'm at today, building and designing websites. One of the things I enjoy most about working with these tools is helping others progress and solve problems.
-                <br>
-                <br>
-                When I’m not in front of the computer making websites I enjoy hanging out with my friends and taking hikes in the beautiful hills of Southern California.
-                </p>
+              
             </div>
         </div>
     
@@ -42,7 +38,6 @@ title: Ruben Gutierrez | Website Desing & Development
                     {% if post.categories contains "blog"%}
                        <div class="blog-post-container padding">
                             <div class="blog-post ">
-                                <img src="{{post.image}}" alt="">
                                 <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
                                 <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
                             </div>

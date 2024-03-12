@@ -1,24 +1,24 @@
 ---
 layout: tutorial
 title:  "How To Get Traffic To Your Website"
-permalink: /tutorials/websites/how-to-get-traffic-to-your-website/
+permalink: /websites/how-to-get-traffic-to-your-website/
 date:   2024-03-04
 categories: tutorial
 ---
 
-When you start your online marketing journey you may be tempted to spend your money on your websites appearance, but what if I told you creating a good looking website is just part of having a successful website. Your websites appearance can only take you so far, but in order to start getting sales and leads you need to do a lot more. While that may have been true a few decades ago when their was less people and websites online that's certainly not the case anymore.
+When you start your online marketing journey you may be tempted to spend your money on your websites appearance, but what if I told you creating a good looking website is just part of having a successful website. Your websites appearance can only take you so far, in order to start getting sales and leads you need to do a lot more.
 
 The reasons I say this is because theirs lot of people that think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.
 
 You're probably wondering if having a website is not enough to get some web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I've stated a
 
-## Offer Free Resources
+## Offer Free Resources - Videos, Guides, Books, Tutorials, Design Resources 
 One way to get people to come check out your website is by offering them free design resources. Free design resources can range from brochure style information to more robust content like books and guides. If you feel like you can provide some value to somebody's life with information then chances are you can also get some people to come check out your website using that information.
 
-## Email Marketing
+## Email Marketing - Build An Email List
 Email marketing is a method of online marketing that relies on sending mass emails about your products and services. Email marketing requires you to build an email list. An email list is a list of emails  who's email you have acquired to sell information them about up-to-date information through a mass email. If you  offering "free designs" is ask for an email before you give them a chance to download you're resources. 
 
-## Advertise Yourself on Social Media
+## Advertise Yourself on Social Media - Post More Link Your Website
 I believe this one is pretty well known but if you're not familiar I'll explain it a little more in detail. Advertising yourself on social media platforms like Facebook, Instagram, and TikTok is one of the easiest way to get people to come and visit your website. Some popular ways of advertising yourself is by posting snippets 
 
 ## Write More Content

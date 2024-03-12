@@ -10,7 +10,9 @@ date: 2024-02-15
     {% for post in site.posts %} 
         {% if post.categories contains "tutorial" %}
             <div class="websites-posts">
-                <a href="{{post.url}}"><h2>{{ post.title }}</h2></a>
+                <div class="post-title-date">
+                    <a href="{{post.url}}"><h2>{{ post.title }}</h2></a>
+                </div>
                 <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </div>
         {% endif %} 
