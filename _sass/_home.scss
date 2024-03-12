@@ -9,7 +9,7 @@
 .home-hero {
 
     .hero-information {
-        padding: 150px 0;
+        padding: 100px 0;
 
         @media (min-width: 768px) {
             display: flex;
@@ -57,17 +57,6 @@
                 }
             }
         }
-
-        .hero-description {
-            max-width: 512px;
-            @media (min-width: 768px) {
-                width: 45%;
-            }
-
-            @media (min-width: 1000px) {
-                width: 45%;
-            }
-        }
     }
 }
 
@@ -86,13 +75,7 @@
             
             .blog-post-container {
 
-                
-                
-
                 .blog-post {
-                    display: flex;
-                    flex-direction: column;
-    
     
                     img {
                         max-width: 100%;
