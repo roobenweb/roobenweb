@@ -2,8 +2,10 @@
 layout: figma
 title:  "Construction Company Website Design - Free Figma Template"
 h-title: Construction Company Website Design
+description: A Figma Template Website Design For A Construction Company - Click Here To Duplicate for Free - Home - Building
 permalink: /figma-templates/construction-company-website-design/
 date:   2024-03-01
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\consturction-company-website-design-cover.png
 ---

@@ -1,10 +1,11 @@
 ---
 layout: figma
-title:  "Photography Website Design - Figma Template"
-h-title: Photography Website Design
+title:  "Photographer Website Design - Figma Template"
+h-title: Photographer Website Design
+description: Photographer Website Design - Click Here To Duplicate - Photography - Camera - Lighting - Website Hero Design
 permalink: /figma-templates/photography-website-design/
 date:   2024-02-08
-last_modified_at: 2024-02-24
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\photography-website-design.png
 ---

@@ -2,8 +2,10 @@
 layout: figma
 title:  "Car Importing Business Mobile Website Design - Free Figma Template"
 h-title: Car Importing Business Mobile Website Design
+description: Figma Template - A Mobile Website Design for A Car Importing Business - Click To Duplicate - What are Kei cars? - Why Kei cars are getting popular in the US.
 permalink: /figma-templates/car-honda-importer-mobile-website-design/
 date:   2024-03-01
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 ---

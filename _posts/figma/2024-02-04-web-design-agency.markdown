@@ -1,9 +1,11 @@
 ---
 layout: figma
-title:  "Web Design Agency - Figma Template"
+title:  "Web Design Agency - Free Figma Template"
 h-title: Web Design Agency
+description: A Homepage Figma Template For a Website Design Agency - Click Here To Duplicate Now - WordPress Services
 permalink: /figma-templates/web-agency-design/
 date:   2024-02-08
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\website-deisgn-agency-landing-page.jpg
 ---

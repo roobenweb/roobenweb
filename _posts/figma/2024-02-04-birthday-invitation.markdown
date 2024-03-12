@@ -1,10 +1,11 @@
 ---
 layout: figma
-title:  "Birthday Invitation - Figma Template"
+title:  "Birthday Invitation - Free Figma Template"
 h-title: Birthday Invitation
+description: A Birthday Invitation Card Figma Template An Email Scammer Helped Me Make - Click Here To Duplicate Right Now - Avoid Scammers As A Web/Graphic Designer 
 permalink: /figma-templates/birthday-invitation-design/
 date:   2024-02-08
-last_modified_at: 2024-02-28
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\grandparent-birthday-invitation-card.png
 ---

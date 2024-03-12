@@ -1,8 +1,10 @@
 ---
 layout: 0-fullerton
-title:  "Search Engine Optimization in Fullerton, California"
+title:  "Search Engine Optimization (SEO) Services in Fullerton, California"
+description: Get your Website Listed on Google & Start Getting Leads in Fullerton California and The Surrounding Area - Click Here To Talk To An SEO that Knows Fullerton 
 permalink: /fullerton-california/search-engine-optimization/
 date:   2024-02-19
+last_modified_at: 2024-03-11
 categories: fullerton
 city: Fullerton
 ---

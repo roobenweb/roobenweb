@@ -1,10 +1,11 @@
 ---
 layout: figma
-title:  "WordPress Pricing Table Figma Template"
+title:  "Free WordPress Pricing Table Figma Template"
 h-title: WordPress Pricing Table
+description: A Pricing Table Design Template Made For Figma
 permalink: /figma-templates/wordpress-pricing-table/
 date:   2024-02-08
-last_modified_at: 2024-02-24
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\wordpress-website-pricing-table-figma-template.png
 ---
@@ -20,7 +21,6 @@ What I've noticed is that their's a ton of people out there who want to start a 
 
 My goal was to simplify the whole process for them and include some of the main features and benefits. 
 
-
 Each tier has different features and different price points.
 
 ## Basic Package 
@@ -33,10 +33,5 @@ Each tier has different features and different price points.
 - 5 - 20 Custom Pages
 - WordPress and Google Search Console Tutoring
 - Monthly Maintenance for Up to a year
-
-
-
-
-
 
 Keywords: WordPress, Website Design, Pricing Table, $299, Affordable Websites, Free Domain, Free Server Space, C

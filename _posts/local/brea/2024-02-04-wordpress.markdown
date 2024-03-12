@@ -1,8 +1,10 @@
 ---
 layout: 0-brea
-title:  "Brea, California WordPress Design"
+title:  "WordPress Website Design Services in Brea, California"
+description: Do You Need Help With Your WordPress Website? - Click Here To Get Attentive Help From an Expert WordPress Developer in The Brea, California Area
 permalink: /brea-california/wordpress-design/
 date:   2024-02-07
+last_modified_at: 2024-03-11
 categories: brea
 city: Brea
 
