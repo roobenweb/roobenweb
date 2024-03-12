@@ -10,7 +10,7 @@ categories: figma post
 img: \assets\img\figma\wordpress-website-pricing-table-figma-template.png
 ---
 
-![WordPress Pricing Table Section Website Design](\assets\img\figma\wordpress-website-pricing-table-figma-template.png){:class="img-responsive"}
+![WordPress Pricing Table Website Design](\assets\img\figma\wordpress-website-pricing-table-figma-template.png){:class="img-responsive"}
 
 <a style="color:#fff;background:#161515;"
 class="button" href="https://www.figma.com/community/file/1292240575217001327/wordpress-website-pricing-table" target="_blank">Click To Duplicate</a>
@@ -19,7 +19,7 @@ This is a WordPress pricing table design that I made to advertise WordPress webs
 
 What I've noticed is that their's a ton of people out there who want to start a website but the moment they go look into one they're bombarded with a ton of offers filled with jargon keywords that just don't make a whole lot of sense to them. This usually causes them to just keep day dreaming about the idea and eventually they push it to the back of their mind.
 
-My goal was to simplify the whole process for them and include some of the main features and benefits. 
+My goal was to simplify the whole idea for them and include some of the main features and benefits. 
 
 Each tier has different features and different price points.
 

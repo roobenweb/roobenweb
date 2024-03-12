@@ -10,7 +10,7 @@ categories: figma post
 img: \assets\img\figma\photography-website-design.png
 ---
 
-![Photographer Website Landing Page Design, Camera](/assets\img\figma\photography-website-design.png){:class="img-responsive"}
+![Photographer Website Landing Page Design - Figma Template](/assets\img\figma\photography-website-design.png){:class="img-responsive"}
 
 <a style="color:#fff;background:#161515;"
 class="button" href="https://www.figma.com/community/file/1334398057374604365/photographer-website-design" target="_blank">Click To Duplicate</a>

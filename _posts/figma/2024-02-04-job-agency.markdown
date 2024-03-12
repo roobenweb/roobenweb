@@ -10,7 +10,7 @@ categories: figma post
 img: \assets\img\figma\chamba-employment-application-website-design.jpg
 ---
 
-![Sign In Screen For Job App Website Design](\assets\img\figma\chamba-employment-application-website-design.jpg){:class="img-responsive"}
+![Sign In Screen For Job App Website Design - Figma Template](\assets\img\figma\chamba-employment-application-website-design.jpg){:class="img-responsive"}
 
 <a style="color:#fff;background:#0083E3;"
 class="button" href="https://www.figma.com/community/file/1336739061648100389/job-agency-application-website-design-chamba" target="_blank">Click To Duplicate</a>

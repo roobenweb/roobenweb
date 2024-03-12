@@ -10,7 +10,7 @@ categories: figma post
 img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 ---
 
-![Online Shoe Shop Website Design For Retro Nike Jordans](\assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg){:class="img-responsive"}
+![Online Shoe Shop Website Design - Figma Template](\assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg){:class="img-responsive"}
 
 
 <a href="https://payhip.com/b/L0zAK" style="color:#333!important;background:#ECECEC!important;border:0!important;" class="payhip-buy-button" data-product="L0zAK">Click To Download</a>
