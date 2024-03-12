@@ -15,6 +15,6 @@ Earlier this week I had written some local content for my website. Today I ended
 
 ## Writing A Tutorial on Getting Your Website On Google
 Another thing I thought I'd start today was writing something a little more informative rather than hacking my services in local SEO.
-I wanted to create a piece of content that a lot of people could benefit from so I decided to write an article about <a href="/websites/tutorials/search-engine-optimization/" target=")blank">How To Get Your Website Listed In Google's Search Results</a>
+I wanted to create a piece of content that a lot of people could benefit from so I decided to write an article about <a href="/websites/tutorials/search-engine-optimization/" target="_blank">How To Get Your Website Listed In Google's Search Results</a>
 
 <a href="/blog/get-website-$199/" target="_blank">Online Shoe Store Website Design</a>.
