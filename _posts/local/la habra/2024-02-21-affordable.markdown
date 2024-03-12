@@ -11,7 +11,7 @@ Are you looking for affordable website design services in the La Habra, Californ
 
 A lot of people make the assumption that you need a ton of money to start a website. A while that is true if you go about it in a conventual way it doesn't have to be with this offer you're about read.
 
-## The Cost of Running A Website
+## What Is The Cost of Running A Website?
 You see their are a lot of fees and commitment to developing a website.  To start off you need a domain name that can cost you anywhere from $10 a year all the way up to $100' if not $1,000's. Then you have server space which can cost you anywhere from $5 to $20 a month just to rent out. Just to get the requirements for a website you're looking at a minimum of $100 a year in the essential.  Then finally you have to hire someone to make all the pages and content and that's where you really end up having to pay an arm and a leg. 
 
 ## A Better Website Buying Experience

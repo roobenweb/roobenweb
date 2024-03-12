@@ -23,13 +23,14 @@ img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 
 This is the Nike category section of an online shoe shop I designed in Figma.
 
+## Why I Made This Online Shoe Website Design
 I've had a fascination with Nike shoes my whole life. Nikes especially Jordans are one of my favorite shoes and probably some of the most recognizable of all times.
 
 "Do they look great?" Yes! "Do they look good on me?" No, my ankles are too big!
 
 Despite that I am fascinated by the the unique shapes and color combination. I enjoy these types of so much that I decided to design this online shoe shop that sells modern releases of these awesome retro sneakers.
 
-One of my favorite features on this design is the color pallet in the top left corner of every shoe asset.  The pallet contains the main colors on each shoe. My goal with this pallet is to help the buyer pick out shoes to match based on outfits they already have. 
+One of my favorite features on this design is the color pallet in the top left corner of every shoe option.  The pallet contains the main colors on each shoe. My goal with this pallet is to help the buyer pick out shoes to match based on outfits they already have. 
 
 An improvement I'd like to add in the future is to lengthen the color pallet bar and break it up based on the percentage of each color on the shoe. If the shoe has a black base then half the bar would be black and if the shoe has small amounts of colors or highlights then only about a fifth of the bar would be colored in.
 

@@ -16,12 +16,16 @@ img: \assets\img\figma\car-importer\car-import-website-mobile-design.jpg
 
 This is a mobile website design for a car importing/importer business.
 
+## What Is A Kei Car?
 Kei cars are the smallest category of vehicles sold in Japan. The word 'Kei' translates to 'Light' in Japanese.
 
+## What Is A Kei Truck?
 Kei cars and more specifically Kei trucks are small work utility vehicles that are becoming sought after in the United States especially among the rural population.
 
+## Why Are Kei Trucks Becoming Popular in the United States? 
 Some of the reasons Kei Trucks are becoming more popular in America is because of their practicality, their fuel efficiency, & their low cost of maintenance. 
 
+## What Makes A Kei Truck Practical
 One of the reasons Kei trucks are becoming so popular in rural communities is because a lot of them have 4 wheel drive or 4WD. Most cars and trucks are 2 wheel drive or 2WD. 4WD vehicles are known for having an easier time maneuvering through rugged.
 
 The other reasons for their surge in popularity is their low cost of maintenance. Their miniature size makes both parts and repair inexpensive.
