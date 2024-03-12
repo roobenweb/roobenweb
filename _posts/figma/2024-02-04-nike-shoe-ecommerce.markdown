@@ -2,9 +2,10 @@
 layout: figma
 title:  "Online Shoe Shop Website Design - Free Figma Template"
 h-title: Online Shoe Shop Website Design
+description: An Online Shoe Store Figma Template Website Design Featuring Retro (Nike) Jordans - Click Here To Duplicate Now - Basketball Sneakers Ecommerce Interface
 permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
 date:   2024-02-17
-last_modified_at: 2024-03-06
+last_modified_at: 2024-03-11
 categories: figma post
 img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 ---
