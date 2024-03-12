@@ -6,7 +6,7 @@ date:   2024-03-04
 categories: tutorial
 ---
 
-When you start your online marketing journey you may be tempted to spend a decent amount of money to get the a decent looking website, but what if I told you creating a good looking website is just part of having a successful website. In order to have a successful website you need visitors and to get visitors theirs things you have to do.  Your websites appearance can only take you so far, but in order to start getting sales and leads you need to do a lot more. While that may have been true a few decades ago when their was less people and websites online that's certainly not the case anymore.
+When you start your online marketing journey you may be tempted to spend your money on your websites appearance, but what if I told you creating a good looking website is just part of having a successful website. Your websites appearance can only take you so far, but in order to start getting sales and leads you need to do a lot more. While that may have been true a few decades ago when their was less people and websites online that's certainly not the case anymore.
 
 The reasons I say this is because theirs lot of people that think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.
 

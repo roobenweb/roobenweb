@@ -4,12 +4,12 @@ title: Web Design Tutorials
 permalink: /websites/
 date: 2024-02-15
 --- 
-<div class="top-container">
+<div class="top-container websites">
 
-    <h1>Tutorials</h1>
+    <h1>Web Design</h1>
     {% for post in site.posts %} 
         {% if post.categories contains "tutorial" %}
-            <div class="blog-page-post">
+            <div class="websites-posts">
                 <a href="{{post.url}}"><h2>{{ post.title }}</h2></a>
                 <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </div>

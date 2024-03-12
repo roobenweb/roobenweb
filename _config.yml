@@ -1,13 +1,11 @@
-title: 
+title: Ruben Gutierrez | Website Designer
 email: roobenweb@gmail.com
 description: >-
-  Hello! My name is Ruben Gutierrez I am a Website Designer in the 
-  La Habra, California Area. 
+  Website Designer - Free Design Resources - Web Design - Search Engine Tutorials
 baseurl: "" 
 url: "https://www.roobenweb.com" 
 
 # Build settings
-theme: 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
