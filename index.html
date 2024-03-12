@@ -3,10 +3,10 @@ layout: default
 title: Ruben Gutierrez - Website Design & Development
 ---
 
-<div class="home-page">
+<div class="home-page border">
 
     <!-- Hero -->
-    <div class="home-hero">
+    <div class=" home-hero border">
         <div class="hero-information">
             <div class="hero-left">
                 <h1 class="">Website <br><strong>Designer</strong></h1>
@@ -14,7 +14,6 @@ title: Ruben Gutierrez - Website Design & Development
                     
                 </a>
             </div>
-        
 
             <div class="hero-description">
               
@@ -35,7 +34,7 @@ title: Ruben Gutierrez - Website Design & Development
                     {% if post.categories contains "blog"%}
                        <div class="blog-post-container padding">
                             <div class="blog-post ">
-                                <a href="{{post.url}}"><h3>{{ post.title }} </h3></a>
+                                <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
                                 <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
                             </div>
                        </div>

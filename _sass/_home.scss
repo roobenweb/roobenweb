@@ -11,16 +11,10 @@
     .hero-information {
         padding: 100px 0;
 
-        @media (min-width: 768px) {
-            display: flex;
-            justify-content: center;
-        }
-
+        
         .hero-left {
             margin-bottom: 20px;
-            @media (min-width: 768px) {
-                width: 55%;
-            }
+            
 
             h1 {
                 font-size: 3em !important;
