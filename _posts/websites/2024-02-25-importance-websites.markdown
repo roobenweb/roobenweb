@@ -23,7 +23,7 @@ If you're goal is to advertise to people from a particular area a website can he
 
 Through a strategic process of content creation that focuses on using specific keywords and presenting useful information you can start getting traffic for the topics you'd like from the exact locations you want. 
  
-## Establish Trust With Potential Customers - 
+## Establish Trust With Potential Customers 
 More and more people are getting online everyday. They're looking for options and solutions to problems in their lives and they're using search engines and social media to do just that. Once somebody finds you and becomes interested in what you're doing they'll want to learn more about you and eventually they'll end up on your website. The more well established your website looks and the more descriptive information you can provide the more likely they'll want to engage with what you have going on. A website is an excellent way to make a great first impression. 
 
 ## Sell Your Products and Services When You're Busy

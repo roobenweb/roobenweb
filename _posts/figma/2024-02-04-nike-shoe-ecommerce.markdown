@@ -15,12 +15,6 @@ img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 
 <a href="https://payhip.com/b/L0zAK" style="color:#333!important;background:#ECECEC!important;border:0!important;" class="payhip-buy-button" data-product="L0zAK">Click To Download</a>
 
-![](\assets\img\figma\air-jordan\retro-air-jordan-4.png){:class="img-responsive"}
-
-![](\assets\img\figma\air-jordan\retro-air-jordan-6.jpg){:class="img-responsive"}
-![](\assets\img\figma\air-jordan\air-jordan-retro-5-v-top.png){:class="img-responsive"}
-![](\assets\img\figma\air-jordan\nike-logo.jpg){:class="img-responsive"}
-
 This is the Nike category section of an online shoe shop I designed in Figma.
 
 ## Why I Made This Online Shoe Website Design

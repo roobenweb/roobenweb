@@ -1,19 +1,20 @@
 ---
 layout: tutorial
 title:  "How To Get Traffic To Your Website"
+description: Learn How You Can Get Website Traffic To Your Website - Offering Free Resources - Email Marketing - Paid Ads - Search Engine Optimization
 permalink: /websites/how-to-get-traffic-to-your-website/
 date:   2024-03-04
 categories: tutorial
 ---
 
-When you start your online marketing journey you may be tempted to spend your money on your websites appearance, but what if I told you creating a good looking website is just part of having a successful website. Your websites appearance can only take you so far, in order to start getting sales and leads you need to do a lot more.
+When you start your online marketing campaign you may be tempted to spend a lot of money on your website's appearance. While the way your website looks is important it's even more important that your get visitors to your website.
 
-The reasons I say this is because theirs lot of people that think that just by contracting the work out or subscribing to website builder service that it will make it easier and while that does cover a portion of the process they'll all soon run into the same problem that every new person getting into online marketing faces or has faced including myself, little to no web traffic.
-
-You're probably wondering if having a website is not enough to get some web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I've stated a
+You're probably wondering if having a website is not enough to get web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I'll mention just a few.
 
 ## Offer Free Resources - Videos, Guides, Books, Tutorials, Design Resources 
-One way to get people to come check out your website is by offering them free design resources. Free design resources can range from brochure style information to more robust content like books and guides. If you feel like you can provide some value to somebody's life with information then chances are you can also get some people to come check out your website using that information.
+One way to get people to come check out your website is by offering them free design resources. Free design resources can range from brochure style information to more robust content like books and guides. If you feel like you can provide some value to somebody's life you should consider writing it up and giving it out.
+
+Another benefit of offering free resources are the potential backlinks you can get from providing them. Backlinks are links given by another website that lead to yours. You get visitors from that specific sight but you also get the added benefit of the websites credibility itself which will boost your pages in Google and other search engines.
 
 ## Email Marketing - Build An Email List
 Email marketing is a method of online marketing that relies on sending mass emails about your products and services. Email marketing requires you to build an email list. An email list is a list of emails  who's email you have acquired to sell information them about up-to-date information through a mass email. If you  offering "free designs" is ask for an email before you give them a chance to download you're resources. 

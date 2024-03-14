@@ -19,7 +19,7 @@ layout: default
     <h3>Other {{page.city}} California Services</h3>
       {% for post in site.posts %} 
         {% if post.categories contains "fullerton" %}
-          <a href="{{post.url}}">{{ post.title }}</a> <br>
+          <a href="{{post.url}}">{{ post.title }} &#8594;</a> <br>
         {% endif %}
       {% endfor %}
   </div>
