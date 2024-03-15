@@ -12,10 +12,12 @@
 
     .blog-page-post {
         width: 100%;
-        margin-bottom: 20px;
+        margin-bottom: 35px;
         
         @media (min-width: 768px){
             width: 45%;
+            margin-bottom: 65px;
+
         }    
 
         a {
