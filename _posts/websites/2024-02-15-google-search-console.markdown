@@ -21,11 +21,11 @@ If you're starting your online marketing efforts all of this may sound a little 
 ## What is Crawling/Crawl Requests for Search Engines?
 Have you ever wondered how Google finds webpages it uses to provide it's users with answers. The answer to that is bots. Bots are programs that are used to scour the internet to collect data from website so they can provide their users with helpful information about their questions. In order to get your website crawled you can either wait until Google finds your website which can take weeks if not months, or you can sign up for Google like I mentioned earlier in this article and speed up the process by just a few days.
 
-## What Is Indexing in Search Engines?
+## What Is Indexing? - Search Engines
 **Indexing** After Google has found your content through crawling it then has to decided if the information on your website/webpages is good enough to be listed in their search results. This process takes a lot of factors into consideration some of which are pretty well known and others that Google doesn't really let anyone know about. Generally speaking if the page you're trying to get listed in Google's search results are well written, are a decent length, and have some informative and useful content then Google will most likely index it.
 
 ## What Is Search Engine Ranking?
-While ranking may not be a step in actually getting your website listed in Google search results it's important that you know about it so that you can progress in your search engine optimization efforts. Ranking is how Google determines what position your page appears in. The way ranking works is the more relevant and useful the information on a page is the higher it ranks in the search results. While this is generally their are also plenty of other factors that determine how well your website/webpages rank. One thing you might notice is that  
+While ranking may not be a step in actually getting your website listed in Google search results it's important that you know about it so that you can progress in your search engine optimization efforts. Ranking is how Google determines what position your page appears in. The more relevant and useful information on a page is the higher it ranks in search results. Keep in mind that their are also a lot of other factors that determine a pages position in the search engine.
 
 ## Another Thing To Keep In Mind About Google
 Another thing to consider about this process is that Google will eventually find your website and list it in their search results. Google is pretty good at navigating the internet and finding pages all across the web. Even if your page has a minimal amount of content Google will eventually find it and list in their search results.

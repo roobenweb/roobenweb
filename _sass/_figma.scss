@@ -38,8 +38,12 @@
 
                 li {
                     h2 {
-                        font-size: 1em;
                         font-weight: 600;
+                        font-size: 20px;
+
+                        @media (min-width: 900px) {
+                            font-size: 28px;
+                        }
                     }
                 }
             }

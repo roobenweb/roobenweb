@@ -12,40 +12,36 @@
         padding: 100px 0;
 
         
-        .hero-left {
-            margin-bottom: 20px;
-            
+        h1 {
+            font-size: 3em;
+            line-height: 150%;
 
-            h1 {
-                font-size: 3em !important;
-                line-height: 150%;
-                text-transform: uppercase;
+           
 
-                @media (min-width: 768px) {
-                    font-size: 4em !important;
-                    margin-bottom: 40px;
-                }
+            @media (min-width: 768px) {
+                font-size: 4em !important;
+                margin-bottom: 40px;
             }
+        }
 
-            a {
-                
-                button {
-                    width: 210px;
-                    height: 60px;
-                    background: #000;
-                    color: #fff;
-                    font-size: 1.25em;
-                    cursor: pointer;
+        a {
+            
+            button {
+                width: 210px;
+                height: 60px;
+                background: #000;
+                color: #fff;
+                font-size: 1.25em;
+                cursor: pointer;
 
 
-                    span {
-                        img {
-                            max-width: 21px;
-                            display: hidden;
+                span {
+                    img {
+                        max-width: 21px;
+                        display: hidden;
 
-                            &:hover {
-                                display: block;
-                            }
+                        &:hover {
+                            display: block;
                         }
                     }
                 }
@@ -58,18 +54,28 @@
 .blog-area {
 
     .blog {
+
         .blog-title {
+            margin-bottom: 50px;
+
             h2 {
-                font-size: 2.5em;
+                font-size: 2.4em;
                 font-weight: 700;
             }
         }
  
         .blog-section {
-            
+            display: flex;
+            flex-wrap: wrap;
+
             .blog-post-container {
 
+                @media (min-width: 800px) {
+                    width: 50%;
+                }
+
                 .blog-post {
+                    max-width: 85%;
     
                     img {
                         max-width: 100%;
@@ -79,9 +85,9 @@
                         text-decoration: none;
     
                         h3 {
-                            font-size: 1.75em !important;
+                            font-size: 1.5em !important;
                             line-height: 150%;
-                            max-width: 380px;
+                            
                         }
                     }
     
