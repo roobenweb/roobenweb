@@ -5,8 +5,7 @@ description: Are you looking for an Affordable Website Solution for Your Busines
 permalink: /fullerton-california/affordable-website-designer/
 date:   2024-02-21
 last_modified_at: 2024-03-11
-categories: fullerton
-city: Fullerton
+tags: Fullerton
 
 ---
 

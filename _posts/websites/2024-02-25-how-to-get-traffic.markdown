@@ -5,9 +5,10 @@ description: Learn How You Can Get Website Traffic To Your Website - Offering Fr
 permalink: /websites/how-to-get-traffic-to-your-website/
 date:   2024-03-04
 categories: tutorial
+tags: tutorial
 ---
 
-When you start your online marketing campaign you may be tempted to spend a lot of money on your website's appearance. While the way your website looks is important it's even more important that your get visitors to your website.
+When you start your online marketing campaign efforts you may be tempted to spend a lot of money on your website's appearance. While the way your website looks is important it's even more important that your get visitors to your website.
 
 You're probably wondering if having a website is not enough to get web traffic then how do you get people to come and visit your website. Their a ton of ways to get people to come and visit your website, in this article I'll mention just a few.
 

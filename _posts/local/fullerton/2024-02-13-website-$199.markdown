@@ -5,8 +5,7 @@ description: Get An Affordable Website in Fullerton, California For Just $199 by
 permalink: /fullerton-california/get-website-for-$199/
 date:   2024-02-12
 last_modified_at: 2024-03-11
-categories: fullerton
-city: Fullerton
+tags: Fullerton
 ---
 
 Are you looking for an inexpensive website solution in the Fullerton, California area.

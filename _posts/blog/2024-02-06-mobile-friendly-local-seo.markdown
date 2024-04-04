@@ -5,6 +5,7 @@ permalink: /blog/making-free-design-resources-figma/
 date:   2024-02-07
 last_modified_at: 2024-02-25
 categories: blog post
+tags: blog
 image: /assets/img/mobile-friendly.png
 ---
 Recently I've been working on a few things to get the ball rolling on my website. 

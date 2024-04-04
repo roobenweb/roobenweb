@@ -4,9 +4,7 @@ title:  "Affordable Website Designer in Whittier, California"
 permalink: /whittier-california/affordable-website-designer/
 date:   2024-02-12
 last_modified_at: 2024-02-21
-categories: whittier
-city: Whittier
-
+tags: Whittier
 ---
 
 Are you looking for affordable website design services in Whittier California?

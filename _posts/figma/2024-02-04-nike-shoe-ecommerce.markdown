@@ -7,6 +7,7 @@ permalink: /figma-templates/nike-jordan-shoe-ecommerce-website/
 date:   2024-02-17
 last_modified_at: 2024-03-11
 categories: figma post
+tags: figma
 img: \assets\img\figma\nike-jordan-shoes-ecommerce-website-design.jpg
 ---
 

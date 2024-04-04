@@ -5,8 +5,7 @@ description: Are you looking for someone to help you with your Website in the Br
 permalink: /brea-california/website-design/
 date:   2024-02-16
 last_modified_at: 2024-03-11
-categories: brea
-city: Brea
+tags: Brea
 ---
 Hello, my name is Ruben and I'm a website designer in the Brea, California area.
 

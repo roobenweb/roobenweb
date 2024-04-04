@@ -5,8 +5,7 @@ description: Get Your Brea Website Listed in Google - Make Sure People in Brea, 
 permalink: /brea-california/search-engine-optimization/
 date:   2024-02-10
 last_modified_at: 2024-03-11
-categories: brea
-city: Brea
+tags: Brea
 ---
 
 Is your website not getting any visitors? Have you considered optimizing it for search engines so that it can be found by people in the Brea, California area?

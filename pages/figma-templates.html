@@ -16,17 +16,15 @@ permalink: /figma-templates/
 
 <div class="container figma-templates">
     <ul>
-        {% for post in site.posts %} 
-            {% if post.categories contains "figma" %}
-                <div class="block ">
-                    <a href="{{post.url}}">
-                        <div class="figma-image">
-                            <img src="{{post.img}}" alt="">
-                        </div>
-                    </a>
-                    <a href="{{post.url}}"><li><h2>{{ post.h-title }}</h2></li> </a>
+        {% for post in site.tags.figma %}
+        <div class="block ">
+            <a href="{{post.url}}">
+                <div class="figma-image">
+                    <img src="{{post.img}}" alt="">
                 </div>
-            {% endif %}
+            </a>
+            <a href="{{post.url}}"><li><h2>{{ post.h-title }}</h2></li> </a>
+        </div>
         {% endfor %}
     </ul>
 </div>

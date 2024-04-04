@@ -7,6 +7,7 @@ permalink: /figma-templates/construction-company-website-design/
 date:   2024-03-01
 last_modified_at: 2024-03-11
 categories: figma post
+tags: figma
 img: \assets\img\figma\consturction-company-website-design-cover.png
 ---
 

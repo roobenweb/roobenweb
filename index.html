@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ruben Gutierrez - Website Design & Development
+title: Website Designer - Ruben Gutierrez
 ---
 
 <div class="home-page">
@@ -24,18 +24,28 @@ title: Ruben Gutierrez - Website Design & Development
                 <p>Blog post include general thoughts and current projects I'm working on.</p>
             </div>
             <div class="blog-section">
-                {% for post in site.posts %} 
-                    {% if post.categories contains "blog"%}
-                       <div class="blog-post-container padding">
-                            <div class="blog-post ">
-                                <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
-                                <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-                            </div>
-                       </div>
-                    {% endif %}
+                {% for post in site.tags.blog limit:4 %}
+                    <div class="blog-post-container padding">
+                        <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
+                        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="blog-title padding">
+                <h2>Tutorials</h2>
+                <p>Blog post include general thoughts and current projects I'm working on.</p>
+            </div>
+            <div class="blog-section">
+                {% for post in site.tags.tutorial limit:4 %}
+                    <div class="blog-post-container padding">
+                        <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
+                        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                    </div>
                 {% endfor %}
             </div>
         </div>
     </div>
 
 </div>
+

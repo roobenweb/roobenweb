@@ -5,9 +5,8 @@ description: Get Website Design Services in the La Habra, California by Someone 
 permalink: /la-habra-california/website-design/
 date:   2024-02-16
 last_modified_at: 2024-03-11
-categories: La-Habra
+tags: LaHabra
 city: La Habra
-
 ---
 Hello, my name is Ruben and I'm a website designer in the La Habra, California area.
 

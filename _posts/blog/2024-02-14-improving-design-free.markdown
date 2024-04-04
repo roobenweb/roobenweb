@@ -5,6 +5,7 @@ permalink: /blog/improving-website-design-making-free-web-design-resources/
 date: 2024-02-14
 last_modified_at: 2024-02-25
 categories: blog post
+tags: blog
 image: /assets/img/mobile-friendly.png
 ---
 

@@ -7,6 +7,7 @@ permalink: /figma-templates/wordpress-pricing-table/
 date:   2024-02-08
 last_modified_at: 2024-03-11
 categories: figma post
+tags: figma
 img: \assets\img\figma\wordpress-website-pricing-table-figma-template.png
 ---
 

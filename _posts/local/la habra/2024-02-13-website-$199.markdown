@@ -5,9 +5,8 @@ description: Get A Custom Made Website in The Brea, California Area For A Once T
 permalink: /la-habra-california/get-website-for-$199/
 date:   2024-02-16
 last_modified_at: 2024-03-11
-categories: La-Habra
+tags: LaHabra
 city: La Habra
-
 ---
 
 Are you looking for an inexpensive website solution in the La Habra, California area.

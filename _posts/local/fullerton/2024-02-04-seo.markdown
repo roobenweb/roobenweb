@@ -5,8 +5,7 @@ description: Get your Website Listed on Google & Start Getting Leads in Fullerto
 permalink: /fullerton-california/search-engine-optimization/
 date:   2024-02-19
 last_modified_at: 2024-03-11
-categories: fullerton
-city: Fullerton
+tags: Fullerton
 ---
 
 Is your website not getting any visitors? Have you considered optimizing it for search engines so that it can be found by people in the Fullerton, California area?

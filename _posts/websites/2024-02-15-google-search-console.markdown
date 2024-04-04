@@ -6,6 +6,7 @@ permalink: /websites/tutorials/search-engine-optimization/how-to-get-your-websit
 date:   2024-02-16
 last_modified_at: 2024-03-11
 categories: tutorial
+tags: tutorial
 ---
 
 ![Responsive Website Design](\assets\img\how-to-get-your-website-listed-in-google.png){:class="img-responsive"}

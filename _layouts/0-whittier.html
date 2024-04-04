@@ -16,11 +16,12 @@ layout: default
   </div>
 
   <div class="second">
-    <h3>Other {{page.city}} California Services</h3>
-      {% for post in site.posts %} 
-        {% if post.categories contains "whittier" %}
-          <a href="{{post.url}}">{{ post.title }} &#8594;</a> <br>
-        {% endif %}
+    <h3>Other {{page.tags}} California Services</h3>
+      {% for post in site.tags.Whittier %}
+        <div class="blog-post-container padding">
+            <a href="{{post.url}}"><h4>{{ post.title }} &#8594; </h4></a>
+            <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+        </div>
       {% endfor %}
   </div>
   
