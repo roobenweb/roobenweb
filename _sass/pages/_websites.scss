@@ -1,10 +1,17 @@
 .websites {
 
+
+    
     h1 {
         margin-bottom: 50px;
+        width: 100%;
     }
 
-    .websites-posts {
+    .websites-post {
+
+        @media (min-width: 768px) {
+            width: 50%;
+        }
 
         a {
             text-decoration: none;

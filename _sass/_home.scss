@@ -2,7 +2,11 @@
     padding: 0 25px;
 
     h3 {
-        font-size: 1.25em !important;
+        font-size: 1.5em !important;
+
+        @media (min-width: 768px) {
+            font-size: 2em !important;
+        }
     }
 }
 
@@ -83,9 +87,10 @@
     
                     a {
                         text-decoration: none;
-    
+                        font-size: 2em !important;
+
                         h3 {
-                            font-size: 1.5em !important;
+                            font-size: 2em !important;
                             line-height: 150%;
                             
                         }

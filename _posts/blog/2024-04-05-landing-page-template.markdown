@@ -5,7 +5,7 @@ permalink: /blog/making-a-landing-page-template/
 date: 2024-04-05
 last_modified_at: 2024-04-05
 categories: blog post
-tags: blog
+tags: blog post
 image: 
 --- 
 

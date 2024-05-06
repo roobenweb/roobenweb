@@ -5,7 +5,7 @@ permalink: /blog/making-website-mobile-friendly-more-local-seo/
 date:   2024-02-08
 last_modified_at: 2024-02-25
 categories: blog post
-tags: blog
+tags: blog post
 image: /assets/img/mobile-friendly.png
 ---
 Today I worked on making my website more mobile friendly. 
