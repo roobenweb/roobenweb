@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Making The Titles Throughout My Website Better - Titles & SEO"
-permalink: /blog/improving-titles-for-seo/
+permalink: /blog/improving-titles-for-seo/  
 date: 2024-03-12
 last_modified_at: 2024-04-01
 categories: blog post
 tags: blog post
-image: 
+image: /assets/img/fixing-titles.png
 ---
 It's March, spring is around the corner and I'm busy tip tapping away on my keyboard trying to improve my website.
 

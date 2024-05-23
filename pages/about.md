@@ -11,13 +11,12 @@ permalink: /about/
     <strong>Website Design</strong>
     <p>Using programs like Figma and Adobe XD</p>
 
-</div>
 
-
-
-<div class="container contact">
     <h2>Contact Information</h2>
     <p>If you have questions about website design services or a problem you're having a hard time with please feel free to contact me. I reply quick!</p>
     <h3>Email: roobenweb@gmail.com</h3>
     <h3>Phone: (562) 475 - 8959</h3>
 </div>
+
+
+

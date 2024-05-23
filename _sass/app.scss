@@ -3,12 +3,13 @@
 @import 'posts';
 @import 'figma';
 @import 'local';
-@import 'home';
+@import 'pages/home';
 @import 'animation';
-@import 'footer';
+@import 'components/footer';
 @import 'city';
 @import 'contact';
 @import 'components/nav';
+@import 'components/typography';
 @import 'pages/blog';
 @import 'pages/websites';
 @import 'pages/donate';
@@ -47,23 +48,14 @@
 
 .top-container {
     margin: 6.25em auto 0;
-    max-width: 81.25em;
-    padding: 0 25px;
+    padding: 0 25px !important;
     
     @media (min-width: 1400px) {
         padding: 0 ;
     }
 }
 
-.container {
-    max-width: 81.25em;
-    margin: 0 auto;
-    padding: 0 25px;
 
-    @media (min-width: 1400px) {
-        padding: 0 ;
-    }
-}
 
 .mb-40 {
     margin-bottom: 100px;

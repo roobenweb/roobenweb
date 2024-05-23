@@ -9,24 +9,22 @@ title: Website Designer - Ruben Gutierrez
     <div class="fixed-width home-hero">
         <div class="hero-information">
             <h1>
-                <span>Ruben Gutierrez</span><br>
-                Website <strong>Designer</strong>
+                <span>Ruben Gutierrez</span>
             </h1>
         </div>
     
     </div>
     
     <!-- Blog Area -->
-    <div class="blog-area fixed-width mb-40 ">
-        <div class="blog">
+    <div class="blog-area container mb-40 ">
+        <div class="blog container">
             <div class="blog-title padding">
                 <h2>Blog Posts</h2>
-                <p>Blog post include general thoughts and current projects I'm working on.</p>
+                <p>Check out My Blog I Talk About Website Design and What I'm Currently Up Too</p>
             </div>
             <div class="blog-section">
                 {% for post in site.tags.blog limit:4 %}
-                    <div class="blog-post-container padding">
-                        <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
+                    <div class="blog-post-container padding">                        <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
                         <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
                     </div>
                 {% endfor %}
@@ -39,6 +37,7 @@ title: Website Designer - Ruben Gutierrez
             <div class="blog-section">
                 {% for post in site.tags.tutorial limit:4 %}
                     <div class="blog-post-container padding">
+                        <img src="{{ post.image }}" alt="">
                         <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
                         <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
                     </div>
