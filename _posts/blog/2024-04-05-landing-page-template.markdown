@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making A Landing Page Template - Download Free"
-permalink: /blog/making-a-landing-page-template/
+permalink: /blog/making-a-landing-page-template
 date: 2024-04-05
 last_modified_at: 2024-05-07
 categories: blog post

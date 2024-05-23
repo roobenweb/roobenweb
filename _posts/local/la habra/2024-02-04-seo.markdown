@@ -2,7 +2,7 @@
 layout: 0-lahabra
 title:  "Search Engine Optimization (SEO) Services in La Habra, California"
 description: Get your Website Listed on Google & Start Getting Leads in La Habra, California & The Surrounding Area - Talk To An Expert SEO that will Rank Your Site on the First Page
-permalink: /la-habra-california/search-engine-optimization/
+permalink: /la-habra/search-engine-optimization/
 date:   2024-02-06
 tags: LaHabra
 city: La Habra
