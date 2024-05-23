@@ -1,5 +1,5 @@
 ---
-layout: 0-lahabra
+layout: local
 title:  "Get A Website in La Habra for $199"
 description: Get A Custom Made Website in The Brea, California Area For A Once Time Payment of $199 by an Expert Website Designer (3 - 5) Custom Pages - Free Domain + Server 
 permalink: /la-habra/get-website-for-$199

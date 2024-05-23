@@ -1,0 +1,9 @@
+<div class="second">
+    <h3>Other {{page.city}}, California Services</h3>
+      {% for post in site.tags.LaHabra %}
+        <div class="blog-post-container padding">
+            <a href="{{post.url}}"><h4>{{ post.title }} &#8594; </h4></a>
+            <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+        </div>
+      {% endfor %}
+  </div>

@@ -4,7 +4,6 @@ title:  "Writing & More Writing, Getting Your Website On Google"
 permalink: /blog/writing-more-content-how-to-get-website-on-google/
 date: 2024-02-14
 last_modified_at: 2024-02-25
-categories: blog post
 tags: blog post
 image: /assets/img/mobile-friendly.png
 --- 
