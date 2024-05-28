@@ -19,3 +19,5 @@ img: \assets\img\figma\consturction-company-website-design-cover.png
 This is a website design for a Construction company. You can download it free for Figma.
 
 **Keywords:** Homes, Building, Website Design, Construction, Houses
+
+<a href="/figma-templates/" target="_blank">Free Figma Templates</a>

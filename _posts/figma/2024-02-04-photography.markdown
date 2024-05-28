@@ -6,7 +6,6 @@ description: Photographer Website Design - Click Here To Duplicate - Photography
 permalink: /figma-templates/photography-website-design/
 date:   2024-02-08
 last_modified_at: 2024-03-11
-categories: figma post
 tags: figma
 img: \assets\img\figma\photography-website-design.png
 ---
@@ -19,4 +18,6 @@ class="button" href="https://www.figma.com/community/file/1334398057374604365/ph
 ## What is this?
 This is a website design that I made for a photographer/photography agency.
 
-Keywords: Photography, Photographer, Camera, Lighting, Landing Page Design,
+Keywords: Photography, Photographer, Camera, Lighting, Landing Page Design
+
+<a href="/figma-templates/" target="_blank">Free Figma Templates</a>

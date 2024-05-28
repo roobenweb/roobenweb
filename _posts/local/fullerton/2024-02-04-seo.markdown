@@ -1,5 +1,5 @@
 ---
-layout: 0-fullerton
+layout: post
 title:  "Search Engine Optimization (SEO) Services in Fullerton, California"
 description: Get your Website Listed on Google & Start Getting Leads in Fullerton California and The Surrounding Area - Click Here To Talk To An SEO that Knows Fullerton 
 permalink: /fullerton-california/search-engine-optimization/
@@ -7,7 +7,6 @@ date:   2024-02-19
 last_modified_at: 2024-03-11
 tags: Fullerton
 ---
-
 Is your website not getting any visitors? Have you considered optimizing it for search engines so that it can be found by people in the Fullerton, California area?
 
 **What is Search Engine Optimization** Search Engine Optimization or SEO is the process of making adjustments to your website both on and off its pages to improve its rankings in search engines like Google, Bing, and Yahoo.  Hello! My name is Ruben, a website developer. I've been making webpages that rank high in Google and other search engines for a few years and I'd like to help you get your website found online.

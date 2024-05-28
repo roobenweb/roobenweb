@@ -1,5 +1,5 @@
 ---
-layout: 0-brea
+layout: post
 title:  "Website Design Services in Brea, California"
 description: Are you looking for someone to help you with your Website in the Brea, California area? - Click Here To Get Helpful Expert Website Services
 permalink: /brea-california/website-design/
@@ -13,7 +13,7 @@ If you're looking for someone to help you with your website I'm your person!
 
 I've been designing and building websites for a few years now and I enjoy helping people solve problems using the internet & web design. If you'd like to know a little more about me check out the about me section on <a href="/">my homepage</a>.
 
-## Some of the Web Design Services I Provide in the Brea, California Area.
+## Some of the Web Design Services I Provide
 Below are some of the ways in which I can help you. If you're problem doesn't line up with any of the information below feel free to contact me, I wouldn't mind listening to what you have going on and I might be able to help you!
 
 ### Website Redesign Services in Brea, California
@@ -32,10 +32,14 @@ A website should do more than just look good, it should also help make your life
 Some of the features I can add to your website that will improve it's effectiveness are tools like contact forms, user profiles, online store, and analytics tools. If your curious about adding function to your website we should talk.
 
 ### Affordable Website Solutions in Brea, California
-Are you looking for a website solutions that doesn't break the bank? A lot of the time people just want a simple solution they can throw up on the internet to let people know they're there. If you're looking for something like this I got just the answer for you.  Check out this inexpensive website solutions I offer for people looking for premium design at a fraction of the cost, <a href="/brea-california/get-website-for-$199/" target="_blank">Get A Website in Brea, CA for just $199</a>.
+Are you looking for a website solutions that doesn't break the bank? A lot of the time people just want a simple solution they can throw up on the internet to let people know they're there. If you're looking for something like this I got just the answer for you.  Check out this inexpensive website solutions I offer for people looking for premium design at a fraction of the cost.
+
+<a href="/brea-california/get-website-$199/" target="_blank">Get A Website in Brea, CA for just $199</a>.
 
 ### Content Creation Services in Brea, California
-Don't know what to include on your website? No problem. I can help you craft original content that will get your website to rank higher for the keywords you want it to. Words are how the internet work.  The more words you have on your website the more likely you are to get found in Google's search results. Don't just make sure you're website' look good, make sure that people are also able to find it online and in Google.
+Don't know what to include on your website? No problem. I can help you craft original content that will get your website to rank higher for the keywords you want it to. Words are how the internet work. The more words you have on your website the more likely you are to get found in Google's search results. Don't just make sure you're website' look good, make sure that people are also able to find it online and in Google.
+
+<a href="/brea-california/search-engine-optimization/" target="_blank">Search Engine Optimization Services</a> in Brea, California
 
 ### Website Tutoring & Consultation in Brea, California
 If you want to take a hands on approach to building your website learning the basics is essential. When you see success so do I which is why I offer this service for Free.  I'll help you understand fundamental concepts and tools that will translate to useful skills in the real world that will help you start businesses and find new opportunities.

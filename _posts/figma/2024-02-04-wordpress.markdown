@@ -36,3 +36,5 @@ Each tier has different features and different price points.
 - Monthly Maintenance for Up to a year
 
 Keywords: WordPress, Website Design, Pricing Table, $299, Affordable Websites, Free Domain, Free Server Space, C
+
+<a href="/figma-templates/" target="_blank">Free Figma Templates</a>

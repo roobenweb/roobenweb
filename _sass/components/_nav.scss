@@ -19,6 +19,7 @@ nav {
     ul {
         display: flex;
         align-items: center;
+        display: none;
         
         a {
             margin-left: 2.5em;
@@ -26,9 +27,8 @@ nav {
             font-size: .875em;
             text-decoration: none;
         }
-
-      
     }
+
 }
 
 

@@ -9,10 +9,12 @@ tags: blog post
 image: /assets/img/fixing-titles.png
 ---
 
-It's March, spring is around the corner and I'm busy tapping away on my keyboard trying to improve my website.  
+It's March, spring is around the corner and I'm busy tapping away trying to improve my website.  
 
 ## What I'm Doing To Improve My Websites Titles
-I've been doing a lot of research on the way people read information online and I've learned a few interested things about the way people read information online. One thing I've learned is that the majority of people online don't read everything on the page. 
+I've been doing a lot of research on the way people read information online and I've learned a few interested things about it.
+
+One thing I've learned is that the majority of people online don't read everything on the page. 
 
 What most people do when they look at a page is scan the page looking for words and information they are familiar with.
 

@@ -33,3 +33,4 @@ If you'd like some help making a websites that looks similar to the one above pl
 
 Keywords: Nike, Michael Jordan, Jordans, Online Store, Website Design, Free Figma Template, Air Jordan
 
+<a href="/figma-templates/" target="_blank">Free Figma Templates</a>

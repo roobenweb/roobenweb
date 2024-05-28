@@ -18,4 +18,6 @@ class="button" href="https://www.figma.com/community/file/1296574604709171974/si
 
 This is a website design I made for a Web Agency.
 
-Keywords: Web Design Agency, Free Figma, WordPress, Landing Page,
+Keywords: Web Design Agency, Free Figma, WordPress, Landing Page.
+
+<a href="/figma-templates/" target="_blank">Free Figma Templates</a>

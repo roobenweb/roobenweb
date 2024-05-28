@@ -5,8 +5,7 @@ h-title: Job Agency Application
 description: Log In Screen Design Template for Figma - Click Here To Duplicate This Template Right Now
 permalink: /figma-templates/job-agency-application/
 date: 2024-02-08
-last_modified_at: 2024-03-11
-categories: figma post
+last_modified_at: 2024-05-27
 tags: figma
 img: \assets\img\figma\chamba-employment-application-website-design.jpg
 ---
@@ -21,3 +20,5 @@ This is a job/work agency application sign in screen.
 I made it with Figma.
 
 Keywords: Figma, Job Agency, Work Agency, Application Design, Sign-In Screen, Google
+
+<a href="/figma-templates/" target="_blank">Free Figma Templates</a>

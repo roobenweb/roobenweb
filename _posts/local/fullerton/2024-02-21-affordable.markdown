@@ -1,5 +1,5 @@
 ---
-layout: 0-fullerton
+layout: post
 title:  "Custom Affordable Website Designer in Fullerton, California"
 description: Are you looking for an Affordable Website Solution for Your Business in the Fullerton, California Area? - Click Here To Get Expert Help at a Low Price
 permalink: /fullerton-california/affordable-website-designer/

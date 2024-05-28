@@ -43,22 +43,18 @@
             justify-content: space-between;
 
             .home-blog-post {
-                width: 50%;
+                width: 45%;
 
                 @media (min-width: 800px) {
                     width: 20%;
+                }
 
-                    a {
-                        text-decoration: none !important;                     
+                a {
+                    text-decoration: none !important;                     
 
-                        h3 {
-                            font-size: 1em !important;                  
-                            line-height: 150%;       
-                        }
-                    }
-    
-                    p {
-                        font-size: .875em !important;
+                    h3 {
+                        font-size: 1.125em !important;                  
+                        line-height: 150%;       
                     }
                 }
             }
