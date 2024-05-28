@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="top-container">    
     <h1>About Me: Ruben Gutierrez</h1>
-    <p>Hello, my name is Ruben Gutierrez & I am a website designer in La Habra, California. My interest in technology began when I received my first computer at 8 years old and has steadily progressed to where I'm at today, building and designing websites. One of the things I enjoy most about working with these tools is helping others progress and solve problems.</p>
+    <p>Hello, my name is Ruben Gutierrez and I'm a technology professional. My interest in tech started when I received my first computer at 8 years old.  and has steadily progressed to where I'm at today, building and designing websites. One of the things I enjoy most about working with these tools is helping others progress and solve problems.</p>
     <p>When I’m not in front of the computer making websites I enjoy hanging out with my friends and taking hikes in the beautiful hills of Southern California.</p>
     <h2>Some of my Skills</h2>
     <strong>Website Design</strong>

@@ -1,13 +1,6 @@
+// HOME PAGE
 .home-page {
     padding: 0 25px;
-
-    h3 {
-        font-size: 1em !important;
-
-        @media (min-width: 768px) {
-            font-size: 1.25em !important;
-        }
-    }
 }
 
 .home-hero {
@@ -15,11 +8,9 @@
     .hero-information {
         padding: 100px 0;
 
-        
         h1 {
             font-size: 2.75em;
             line-height: 150%;
-            font-weight: 600;
 
             @media (min-width: 768px) {
                 font-size: 3.5em !important;
@@ -27,29 +18,7 @@
             }
         }
 
-        a {
-            
-            button {
-                width: 210px;
-                height: 60px;
-                background: #000;
-                color: #fff;
-                font-size: 1.25em;
-                cursor: pointer;
 
-
-                span {
-                    img {
-                        max-width: 21px;
-                        display: hidden;
-
-                        &:hover {
-                            display: block;
-                        }
-                    }
-                }
-            }
-        }
     }
 }
 
@@ -58,46 +27,38 @@
 
     .blog {
 
+        // TITLE
         .blog-title {
             margin-bottom: 50px;
 
             h2 {
-                font-size: 2.4em;
-                font-weight: 700;
+                font-size: 2em;
             }
         }
- 
+        
+        // BLOG SECTION
         .blog-section {
             display: flex;
             flex-wrap: wrap;
+            justify-content: space-between;
 
-            .blog-post-container {
+            .home-blog-post {
                 width: 50%;
-                @media (min-width: 800px) {
-                    width: 25%;
-                }
 
-                .blog-post {
-                    max-width: 85%;
-    
-                    img {
-                        max-width: 100%;
-                    }
-    
+                @media (min-width: 800px) {
+                    width: 20%;
+
                     a {
-                        text-decoration: none !important;
-                        font-size: 2em !important;
+                        text-decoration: none !important;                     
 
                         h3 {
-                            font-size: 1.5em !important;
-                            line-height: 150%;
-                            
+                            font-size: 1em !important;                  
+                            line-height: 150%;       
                         }
                     }
     
                     p {
-                        font-size: 1.125em;
-                        max-width: 380px;
+                        font-size: .875em !important;
                     }
                 }
             }

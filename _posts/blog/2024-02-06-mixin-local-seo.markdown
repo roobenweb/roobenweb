@@ -10,7 +10,7 @@ image: /assets/img/mobile-friendly.png
 ---
 Today I worked on making my website more mobile friendly. 
 
-One of the things that I've neglected while writing content and coding out the structure of my website is its design.
+One of the things that I've neglected while writing content and coding out the bones of my website is its design.
 
 ## How I'm Making My Website More Mobile Friendly
 So far I've written more media queries so that elements resize properly and fit inside of the browser on different types of devices. Later on when I have some time I'll go back and implement a few mixins to clean up the SCSS so that it doesn't become a problem in the future.

@@ -14,7 +14,9 @@ Recently I've been working on a few things to get the ball rolling on my website
 One of those things I'm doing is creating web design resources with a program called Figma. After I create a design I publish it for free in the Figma community.
 
 ## Why I Make These Free Design Resources
-I do this for a few reasons. The first reason is so that I can direct some web traffic to my website. 
+I do this for a few reasons.
+
+The first reason is so that I can direct get some traffic to my website. 
 
 The second reason is so that I can get start building some back links from more reputable website to boost my website in the search engines. 
 

@@ -1,0 +1,32 @@
+---
+layout: default
+permalink: /website-calculator/
+title: Website Designer - Ruben Gutierrez
+---
+
+<div class="app">
+   <div  class="outter-app-container">
+    <!-- INNER -->
+    <div class="inner" id="inner"></div>
+
+    
+
+    <!-- BUTTON -->
+    <button id="button">→</button>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script>
+    
+
+        $(document).ready(function(){
+        $("button").click(function(){
+                $("#inner").animate({
+                right: '200px',
+                
+                });
+            });
+        });
+    </script>
+
+</div>

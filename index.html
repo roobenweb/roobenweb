@@ -15,34 +15,50 @@ title: Website Designer - Ruben Gutierrez
     
     </div>
     
-    <!-- Blog Area -->
+    <!-- BLOG AREA -->
     <div class="blog-area container mb-40 ">
+
+        <!--  -->
         <div class="blog container">
+
+
+            <!-- BLOG TITLE -->
             <div class="blog-title padding">
                 <h2>Blog Posts</h2>
                 <p>Check out My Blog I Talk About Website Design and What I'm Currently Up Too</p>
             </div>
+
+
+            <!-- BLOG SECTION -->
             <div class="blog-section">
                 {% for post in site.tags.blog limit:4 %}
-                    <div class="blog-post-container padding">                        <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
-                        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                    <div class="home-blog-post padding">
+                        <a href="{{post.url}}"><h3>{{ post.title }}</h3></a>
+                        <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
                     </div>
                 {% endfor %}
             </div>
 
+
+            <!-- TUTORIAL TITLE -->
             <div class="blog-title padding">
                 <h2>Tutorials</h2>
                 <p>Learn more about websites. Check out these Tutorials.</p>
             </div>
+
+
+            <!-- TUTORIAL SECTION -->
             <div class="blog-section">
                 {% for post in site.tags.tutorial limit:4 %}
-                    <div class="blog-post-container padding">
+                    <div class="home-blog-post padding">
                         <img src="{{ post.image }}" alt="">
                         <a href="{{post.url}}"><h3>{{ post.title }} &#8594; </h3></a>
-                        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                        <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
                     </div>
                 {% endfor %}
             </div>
+
+
         </div>
     </div>
 

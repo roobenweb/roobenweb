@@ -1,0 +1,40 @@
+.app {
+    
+   .outter-app-container {
+        background: orange;
+        height: 300px;
+        width: 300px;
+        padding: 10px;
+        position: relative;
+        margin: 0 auto;
+
+
+        .inner {
+            position: relative;
+            background: yellow;
+            padding: 2.55px;  
+            width: 600px;
+            height: 210px;
+            z-index: 100;
+            transition: 1s;
+            left: 10;
+        }
+
+        button {
+            z-index: 101;
+            bottom: 10px;
+            right: 10px;
+            position: absolute;
+        }
+    }
+}
+
+.move {
+    transition: 1s;
+    height: 210px;
+    width: 600px;
+    background: yellow;
+    right: 200px;
+    position: relative;
+    z-index: 100;
+}

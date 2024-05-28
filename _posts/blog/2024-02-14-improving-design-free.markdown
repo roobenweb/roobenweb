@@ -9,7 +9,7 @@ tags: blog post
 image: /assets/img/mobile-friendly.png
 ---
 
-Something I'm trying to improve on as an online marketer is writing more. In the past I've created a lot of websites & web projects but I never end up posting about them.. Now that I'm getting a little more serious about web design I've started realizing the benefits so here it is.
+One of the things I've been focusing on in my marketing efforts is writing more content. In the past I've created a lot of websites & application but I never end up posting about them. Now that I'm getting a little more serious about what I'm trying to do I've started realizing the benefits so here it is.
 
 ## Improving My Websites Design
 The goal for today was to improve my websites design.
