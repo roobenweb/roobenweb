@@ -1,6 +1,7 @@
 .post-header {
-    margin-top: 50px;
+    margin-top: 100px;
     max-width: 700px;
+    margin-bottom: 50px;
 
     @media (min-width: 768px) {
         margin-top: 100px;
@@ -43,26 +44,31 @@
 .post {
     max-width: 1300px;
     margin: 0 auto;
-    padding: 0 25px;
+    padding: 0 10%;
+
+    @media (min-width: 1208px) {
+        padding: 0 20%;
+    }
 
     h2,h3,h4 {
         margin-top: 30px;
     }
 
     h1 {
-        font-size: 2em;
+        font-size: 1.75em;
+        font-weight: 400;
 
         @media (min-width: 768px) {
-            font-size: 2.5em;
+            font-size: 2em;
         }
     }
 
     h2 {
-        font-size: 1.25em; 
+        font-size: 1em; 
         margin-top: 1em;
 
         @media (min-width: 768px) {
-            font-size: 1.5em;
+            font-size: 1.25em;
         }
     }
 

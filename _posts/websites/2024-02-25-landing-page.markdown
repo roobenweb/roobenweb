@@ -1,7 +1,7 @@
 ---
 layout: tutorial
-title:  "What are Landing Pages? & How They Can Help You Convert Visitors Into Sales & Leads"
-description: Click Here To Learn Why Having A Website Is Important And How It Can Help You Start A Business, Improve The One You Already Have, or aid you in Your Passions
+title:  "How to convert website traffic into sales & leads"
+description: Learn how you can start converting the traffic coming to your website into sales and leads.
 permalink: /websites/what-is-landing-pages/
 date:   2024-03-16
 last_modified_at: 2024-03-16
@@ -9,10 +9,11 @@ categories: tutorial
 tags: tutorial
 ---
 
-## What is a Landing Page?
+## What is a landing page?
 Landing pages are webpages that are specifically designed to convert visitors into sales or leads.
 
-Some of the things that distinguish landing pages from other types of webpages are their designs. While informative pages like this one tend to be more wordy. Compare that to a landing page where their is an emphasis on one thing.
+## How does a landing page look?
+Some of the things that distinguish landing pages from other types of webpages are the page layouts. While informative pages like blog posts tend to have more words, landing page more simple and to the point.
 
 Landing pages are more well designed compared to other types of pages on a website.  Some characteristics that define a landing page are well crafted graphical elements, shorter more concise texts, and buttons with calls to action.
 

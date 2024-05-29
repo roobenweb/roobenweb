@@ -22,20 +22,23 @@ title: Website Designer - Ruben Gutierrez
         <div class="blog container">
 
 
-            <!-- BLOG TITLE -->
-            <div class="blog-title padding">
-                <h2>Blog Posts</h2>
-                <p>Check out My Blog I Talk About Website Design and What I'm Currently Up Too</p>
-            </div>
+            <!-- RECENT POSTS -->
+            <div class="recent-posts">
+                <!-- BLOG TITLE -->
+                <div class="blog-title padding">
+                    <h2>Blog Posts</h2>
+                    <p>Check out My Blog I Talk About Website Design and What I'm Currently Up Too</p>
+                </div>
 
 
-            <!-- BLOG SECTION -->
-            <div class="blog-section">
-                {% for post in site.tags.blog limit:4 %}
-                    <div class="home-blog-post padding">
-                        <a href="{{post.url}}"><h3>{{ post.title }}</h3></a>
-                    </div>
-                {% endfor %}
+                <!-- BLOG SECTION -->
+                <div class="blog-section">
+                    {% for post in site.tags.blog limit:4 %}
+                        <div class="home-blog-post padding">
+                            <a href="{{post.url}}"><h3>{{ post.title }}</h3></a>
+                        </div>
+                    {% endfor %}
+                </div>
             </div>
 
 

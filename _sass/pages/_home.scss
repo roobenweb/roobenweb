@@ -1,6 +1,10 @@
 // HOME PAGE
 .home-page {
-    padding: 0 25px;
+    padding: 0 10%;
+
+    @media (min-width: 1208px) {
+        padding: 0 20%;
+    }
 }
 
 .home-hero {
@@ -9,11 +13,11 @@
         padding: 100px 0;
 
         h1 {
-            font-size: 2.75em;
+            font-size: 2.5em;
             line-height: 150%;
 
             @media (min-width: 768px) {
-                font-size: 3.5em !important;
+                font-size: 3.25em !important;
                 margin-bottom: 40px;
             }
         }
@@ -29,10 +33,14 @@
 
         // TITLE
         .blog-title {
-            margin-bottom: 50px;
+            
 
             h2 {
-                font-size: 2em;
+                font-size: 1.75em;
+            }
+
+            p {
+                font-size: .875em;
             }
         }
         
@@ -41,20 +49,29 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: space-between;
+            margin-bottom: 50px;
 
             .home-blog-post {
                 width: 45%;
+                margin-bottom: 50px;
+                background: #f1f1f1;
 
                 @media (min-width: 800px) {
-                    width: 20%;
+                    width: 30%;
                 }
 
                 a {
-                    text-decoration: none !important;                     
+                    text-decoration: none !important;   
+                  
 
                     h3 {
-                        font-size: 1.125em !important;                  
-                        line-height: 150%;       
+                        font-size: .875em !important;                  
+                        line-height: 150%;   
+                        width: 75%;  
+                        
+                        @media (min-width: 800px) {
+                            font-size: 1em !important;                  
+                        }
                     }
                 }
             }

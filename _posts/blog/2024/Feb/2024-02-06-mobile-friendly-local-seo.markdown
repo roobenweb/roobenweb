@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making Free Web Design Resources & Building Out My Website in Public"
+title:  "Website design & making free content"
 permalink: /blog/making-free-design-resources-figma/
 date:   2024-02-07
 last_modified_at: 2024-02-25
@@ -10,10 +10,10 @@ image: /assets/img/mobile-friendly.png
 ---
 Recently I've been working on a few things to get the ball rolling on my website. 
 
-## Making Free Design Resources in Figma
+## Making free design resources in Figma
 One of those things I'm doing is creating web design resources with a program called Figma. After I create a design I publish it for free in the Figma community.
 
-## Why I Make These Free Design Resources
+## Why I make free design resources
 I do this for a few reasons.
 
 The first reason is so that I can direct get some traffic to my website. 

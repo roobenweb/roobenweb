@@ -1,5 +1,5 @@
 ---
-layout: 0-whittier
+layout: post
 title:  "Website Design Services in Whittier, California"
 description: Whittier Design Services in Whittier, California
 permalink: /whittier-california/website-design/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing More Content, My First Ideas is A Tutorial To Get Your Website On Google"
+title:  "Writing a 'how to get your website on Google' tutorial"
 permalink: /blog/writing-more-content-how-to-get-website-on-google/
 date: 2024-02-14
 last_modified_at: 2024-02-25

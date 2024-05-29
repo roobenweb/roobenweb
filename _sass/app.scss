@@ -15,11 +15,9 @@
 @import 'pages/donate';
 @import 'how';
 
-
 .home-button {
     position: absolute;
 }
-
 
 .button {
     display: inline-block;
@@ -32,15 +30,11 @@
 }
 
 .post-meta {
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .border {
     border: 1px solid black;
-}
-
-.border-white {
-    border: 1px solid #fff;
 }
 
 .mb-40 {
@@ -49,14 +43,12 @@
 
 .top-container {
     margin: 6.25em auto 0;
-    padding: 0 25px !important;
+    padding: 0 10% !important;
     
     @media (min-width: 1400px) {
         padding: 0 ;
     }
 }
-
-
 
 .mb-40 {
     margin-bottom: 100px;

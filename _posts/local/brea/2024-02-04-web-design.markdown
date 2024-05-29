@@ -55,8 +55,3 @@ Take this example for instance. When I first began learning about the internet, 
 Another things to keep in mind is that you don't need a store or to even have a business to benefit from a website. Anybody looking to make progress in their careers and goals should use a website to get ahead.
 
 Investing a bit of time and money into a website can have profound effects on a persons life.  Websites allow for people from all over the world and all walks of life to get to know you. They can open a door that you might have never known about otherwise, the opportunities are endless!.
-
-### Other Areas Served Near Brea, California
-Also serving people in the La Habra, Fullerton, Whittier, Anaheim, Santa Ana, Costa Mesa, Newport Beach Area.
-
-Brea, California, 92821, United States of America

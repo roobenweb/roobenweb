@@ -1,5 +1,5 @@
 ---
-layout: 0-whittier
+layout: post
 title:  "Affordable Website Designer in Whittier, California"
 permalink: /whittier-california/affordable-website-designer/
 date:   2024-02-12

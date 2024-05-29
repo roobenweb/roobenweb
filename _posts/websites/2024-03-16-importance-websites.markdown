@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title:  "A Few Reasons Why Having A Website Is Important & Can Help Just About Anyone"
+title:  "Why you need a website"
 description: Click Here To Learn Why Having A Website Is Important And How It Can Help You Start A Business, Improve The One You Already Have, or aid you in Your Passions
 permalink: /websites/the-importance-of-having-a-website/
 date:   2024-03-04

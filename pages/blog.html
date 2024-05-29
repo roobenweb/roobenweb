@@ -11,8 +11,7 @@ permalink: /blog/
 <div class="container blog-page">
     {% for post in site.tags.blog  %}
     <div class="blog-page-post padding">
-        <a href="{{post.url}}"><h2>{{ post.title }} &#8594; </h2></a>
-        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+        <a href="{{post.url}}"><h2>{{ post.title }} </h2></a>
     </div>
     {% endfor %}
 </div>

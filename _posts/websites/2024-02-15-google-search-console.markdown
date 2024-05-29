@@ -1,8 +1,8 @@
 ---
 layout: tutorial
-title:  "How To Get Your Website Listed in Google - Using Google Search Console"
-description: Learn How To Get Your Website Listed in Google - Using Google Search Console To Speed Up The Indexing Process - What is Website Crawling and Website Ranking?
-permalink: /websites/tutorials/search-engine-optimization/how-to-get-your-website-listed-in-google/
+title:  "How to get your website on Google"
+description: Learn how to get your website listed in Google using Google Search Console.
+permalink: /tutorials/seo/how-to-get-your-website-on-google/
 date:   2024-02-16
 last_modified_at: 2024-03-11
 categories: tutorial

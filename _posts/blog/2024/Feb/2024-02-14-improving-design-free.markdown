@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Improving My Website Design, Making Free Figma Resources"
+title:  "Making my website look better"
 permalink: /blog/improving-website-design-making-free-web-design-resources/
 date: 2024-02-14
 last_modified_at: 2024-02-25

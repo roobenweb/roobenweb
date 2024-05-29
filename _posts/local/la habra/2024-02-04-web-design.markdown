@@ -1,5 +1,5 @@
 ---
-layout: local
+layout: post
 title:  "Website Design Services in La Habra, California"
 description: Get Website Design Services in the La Habra, California by Someone Who Cares - Click To Talk To A Helpful Website Expert About Your Website Right Now 
 permalink: /la-habra/website-design/

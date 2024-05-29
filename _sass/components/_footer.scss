@@ -7,60 +7,22 @@
         padding: 80px 0 80px;
     }
 
-    h3,h4 {
-        margin-bottom: 30px;
-    }
-
-    h3 {
-        font-size: 1em;
-        font-weight: 700;
-    }
-
     .footer {
-        padding: 0 25px;
+        padding: 15% 10%;
+
         @media (min-width: 768px) {
-            display: flex;
-            justify-content: space-between;
+    
+            padding: 7.5% 10%;
+        }
+
+        .nav-title {
+            font-size: 18px;
+            font-weight: 500;
         }
 
         p {
             max-width: 338px;
-            margin: 0 auto;
+            font-size: 12px;
         }
-
-        a {
-            color: #fff;  
-            text-decoration: none;  
-        }
-
-        .footer-about {
-            text-align: center;
-            padding: 50px 0;
-
-            @media (min-width: 768px) {
-                text-align: left;
-            }
-
-            p {
-                font-size: 14px;
-            }
-        }
-
-        .footer-menu {
-            text-align: center;
-            padding: 50px 0;
-
-            a {
-                margin-right: 15px;
-                font-size: 14px;
-
-            }
-
-            @media (min-width: 768px) {
-                text-align: left;
-            }
-        }
-
-        
     }
 }
