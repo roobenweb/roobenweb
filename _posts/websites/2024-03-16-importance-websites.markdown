@@ -1,8 +1,8 @@
 ---
 layout: tutorial
-title:  "Why you need a website"
+title:  "Why You Need A Website"
 description: Click Here To Learn Why Having A Website Is Important And How It Can Help You Start A Business, Improve The One You Already Have, or aid you in Your Passions
-permalink: /websites/the-importance-of-having-a-website/
+permalink: /websites/why-you-need-a-website/
 date:   2024-03-04
 last_modified_at: 2024-03-16
 categories: tutorial
@@ -33,6 +33,3 @@ Having a website is important because once you catch someone's attention online 
 A website can serve as a second store front for you when you're not available. One of the benefits of having a website is their ability to be live 24 hours a day 7 days a week online, no days off. 
 
 In a era where time is of the essence having the ability to exhibit your products in a positive light along with being able to take orders and payments without ever having to personally interact with a customer is essential. Investing in a website can save you time that can be better used improving other aspects of your business.
-
-## Find New Customers For Your Products In Unexpected Places
-Their are so many people out there it's hard to get in front of them all. A website can partly help you address this issue. If you're website relies on selling merchandise offering them on your website can be a perfect way to introduce them to an audience you might have never even known was their.

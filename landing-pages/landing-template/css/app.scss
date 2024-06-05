@@ -11,10 +11,12 @@
     justify-content: center;
 }
 
+// Establish Font Weights for all Headers
 h1,h2,h3,h4 {
     font-weight: 600;
 }
 
+// H1 Header 
 h1 {font-size: 36px;
     @media (min-width:780px) {
         font-size: 48px;
@@ -33,6 +35,7 @@ p {
     }
 }
 
+// Page Download Button
 .lp-download-button {
     width: 180px;
     height: 53px;
@@ -41,10 +44,12 @@ p {
     @include center;
 }
 
+// Container For Page
 .container {
     max-width: 1100px;
     margin: 0 auto;
 }
+
 
 .lp-padding {
     padding: 0 20px;

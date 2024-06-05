@@ -3,7 +3,7 @@
     padding: 0 10%;
 
     @media (min-width: 1208px) {
-        padding: 0 20%;
+        padding: 0 15%;
     }
 }
 
@@ -54,7 +54,10 @@
             .home-blog-post {
                 width: 45%;
                 margin-bottom: 50px;
+                height: 200px;
                 background: #f1f1f1;
+                text-align: center;
+                padding-top: 70px;
 
                 @media (min-width: 800px) {
                     width: 30%;
@@ -67,7 +70,6 @@
                     h3 {
                         font-size: .875em !important;                  
                         line-height: 150%;   
-                        width: 75%;  
                         
                         @media (min-width: 800px) {
                             font-size: 1em !important;                  

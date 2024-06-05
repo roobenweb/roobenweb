@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building a free landing page template "
+title:  "Building A Free HTML Landing Page Template "
 permalink: /blog/making-a-landing-page-template/
 date: 2024-04-05
 last_modified_at: 2024-05-23
