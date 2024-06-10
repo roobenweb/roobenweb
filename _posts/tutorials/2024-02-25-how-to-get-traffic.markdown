@@ -1,8 +1,8 @@
 ---
 layout: tutorial
-title:  "How to get visitors to your website"
+title:  "How To Get Visitors To Your Website"
 description: Learn How You Can Get Website Traffic To Your Website - Offering Free Resources - Email Marketing - Paid Ads - Search Engine Optimization
-permalink: /websites/how-to-get-traffic-to-your-website/
+permalink: /tutorials/how-to-get-traffic-to-your-website/
 date:   2024-03-04
 categories: tutorial
 tags: tutorial
