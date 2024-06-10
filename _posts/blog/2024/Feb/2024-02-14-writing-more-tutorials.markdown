@@ -16,3 +16,8 @@ Earlier this week I had written some local content for my website. Today I ended
 Another thing I thought I'd start today was writing something a little more informative rather than hacking my services in local SEO.
 
 I wanted to create a piece of content that a lot of people could benefit from so I decided to write an article about <a href="/websites/tutorials/search-engine-optimization/how-to-get-your-website-listed-in-google/" target="_blank">How To Get Your Website Listed In Google's Search Results</a>
+
+June, 20, 2024
+I have not really liked the way I've been doing blog post on my website. My original plan was to write a post everyday, but making the pages and sorting out every single post is proving to be a little more than I though., I feel like the everyday posting is just cluttering so I've decided to do 
+weekly write ups so that I can make longer posts and provide some more insight rather than have to worry about writing something every single day.
+

@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title:  "How to get your website on Google"
+title:  "How To Get Your Website on Google"
 description: Learn how to get your website listed in Google using Google Search Console.
 permalink: /tutorials/seo/how-to-get-your-website-on-google/
 date:   2024-02-16
