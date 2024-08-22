@@ -8,10 +8,9 @@ last_modified_at: 2024-03-16
 categories: tutorial
 tags: tutorial
 ---
-
-## Why Converting Your Website Traffic is Important
-Getting people to come to your website can be a hard task you, if you'd like to know more about ways of getting people to visit your website check out 
+Getting people to come to your website can be tricky, if you'd like to know more about ways of getting people to visit your website check out 
 this post I wrote <a href="/tutorials/how-to-get-traffic-to-your-website/" target="_blank">How to Get Traffic To Your website</a>
+
 ## What is a landing page?
 Landing pages are webpages that are specifically designed to convert visitors into sales or leads.
 
